@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ideographicperiod" format="2">
+  <advance width="120"/>
+  <unicode hex="3002"/>
+  <outline>
+    <contour>
+      <point x="10" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="10" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="50" type="line"/>
+      <point x="30" y="50" type="line"/>
+      <point x="30" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="30" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="30" y="20" type="line"/>
+      <point x="20" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="40" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="30" y="30" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversedcyr" format="2">
+  <advance width="110"/>
+  <unicode hex="042D"/>
+  <outline>
+    <component base="C" xScale="-1" xOffset="100"/>
+    <contour>
+      <point x="30" y="50" type="line"/>
+      <point x="70" y="50" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="30" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

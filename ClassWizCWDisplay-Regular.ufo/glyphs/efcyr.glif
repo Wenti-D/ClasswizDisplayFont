@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="efcyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0444"/>
+  <outline>
+    <contour>
+      <point x="15" y="20" type="line"/>
+      <point x="25" y="20" type="line"/>
+      <point x="25" y="10" type="line"/>
+      <point x="45" y="10" type="line"/>
+      <point x="45" y="-10" type="line"/>
+      <point x="65" y="-10" type="line"/>
+      <point x="65" y="10" type="line"/>
+      <point x="85" y="10" type="line"/>
+      <point x="85" y="20" type="line"/>
+      <point x="95" y="20" type="line"/>
+      <point x="95" y="80" type="line"/>
+      <point x="85" y="80" type="line"/>
+      <point x="85" y="90" type="line"/>
+      <point x="65" y="90" type="line"/>
+      <point x="65" y="120" type="line"/>
+      <point x="45" y="120" type="line"/>
+      <point x="45" y="90" type="line"/>
+      <point x="25" y="90" type="line"/>
+      <point x="25" y="80" type="line"/>
+      <point x="15" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="30" type="line"/>
+      <point x="35" y="70" type="line"/>
+      <point x="45" y="70" type="line"/>
+      <point x="45" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="30" type="line"/>
+      <point x="65" y="70" type="line"/>
+      <point x="75" y="70" type="line"/>
+      <point x="75" y="30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>p+l+p</string>
+  </dict>
+  </lib>
+</glyph>

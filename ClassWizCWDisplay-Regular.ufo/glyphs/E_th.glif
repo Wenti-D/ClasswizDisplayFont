@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="110"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D"/>
+    <contour>
+      <point x="0" y="50" type="line"/>
+      <point x="60" y="50" type="line"/>
+      <point x="60" y="70" type="line"/>
+      <point x="0" y="70" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>D+&lt;50~50hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

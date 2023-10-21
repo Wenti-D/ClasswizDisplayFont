@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+  <advance width="110"/>
+  <unicode hex="0119"/>
+  <outline>
+    <component base="e" yOffset="10"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="-10" type="line"/>
+      <point x="80" y="-10" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="10" type="line"/>
+      <point x="40" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0328</string>
+  </dict>
+  </lib>
+</glyph>

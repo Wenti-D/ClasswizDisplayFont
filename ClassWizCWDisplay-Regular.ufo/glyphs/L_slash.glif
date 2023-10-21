@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="110"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="30" y="50" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="40" y="80" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="30" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="40" type="line"/>
+      <point x="10" y="40" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="0" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+~hyphen</string>
+  </dict>
+  </lib>
+</glyph>

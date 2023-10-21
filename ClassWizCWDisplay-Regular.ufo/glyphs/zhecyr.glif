@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="10" y="30" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="20" y="60" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="30" y="90" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="90" type="line"/>
+      <point x="60" y="90" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="70" y="60" type="line"/>
+      <point x="70" y="90" type="line"/>
+      <point x="90" y="90" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="80" y="30" type="line"/>
+      <point x="90" y="30" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="30" type="line"/>
+      <point x="60" y="30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k_k%</string>
+  </dict>
+  </lib>
+</glyph>

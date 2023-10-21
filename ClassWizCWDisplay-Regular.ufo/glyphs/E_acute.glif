@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+  <advance width="110"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="20" type="line"/>
+      <point x="30" y="20" type="line"/>
+      <point x="30" y="40" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="90" y="80" type="line"/>
+      <point x="90" y="100" type="line"/>
+      <point x="60" y="100" type="line"/>
+      <point x="60" y="110" type="line"/>
+      <point x="80" y="110" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="50" y="110" type="line"/>
+      <point x="40" y="110" type="line"/>
+      <point x="40" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

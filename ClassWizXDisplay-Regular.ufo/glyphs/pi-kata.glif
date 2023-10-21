@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30D4"/>
+  <outline>
+    <component base="hi-kata"/>
+    <contour>
+      <point x="90" y="100" type="line"/>
+      <point x="110" y="100" type="line"/>
+      <point x="110" y="120" type="line"/>
+      <point x="90" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>hi-kata+uni309A</string>
+  </dict>
+  </lib>
+</glyph>

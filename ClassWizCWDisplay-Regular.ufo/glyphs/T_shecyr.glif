@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshecyr" format="2">
+  <advance width="110"/>
+  <unicode hex="040B"/>
+  <outline>
+    <component base="T" xOffset="-10"/>
+    <contour>
+      <point x="50" y="50" type="line"/>
+      <point x="80" y="50" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="50" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

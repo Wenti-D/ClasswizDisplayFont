@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M-memory" format="2">
+  <advance width="126"/>
+  <unicode hex="E202"/>
+  <outline>
+    <contour>
+      <point x="85" y="115" type="line"/>
+      <point x="121" y="115" type="line"/>
+      <point x="121" y="-5" type="line"/>
+      <point x="98" y="-5" type="line"/>
+      <point x="98" y="96" type="line"/>
+      <point x="75" y="-5" type="line"/>
+      <point x="51" y="-5" type="line"/>
+      <point x="28" y="96" type="line"/>
+      <point x="28" y="-5" type="line"/>
+      <point x="5" y="-5" type="line"/>
+      <point x="5" y="115" type="line"/>
+      <point x="41" y="115" type="line"/>
+      <point x="63" y="21" type="line"/>
+    </contour>
+  </outline>
+</glyph>

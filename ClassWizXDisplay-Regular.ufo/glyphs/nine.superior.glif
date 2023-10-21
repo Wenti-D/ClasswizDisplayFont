@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.superior" format="2">
+  <advance width="110"/>
+  <unicode hex="2079"/>
+  <outline>
+    <contour>
+      <point x="30" y="70" type="line"/>
+      <point x="10" y="70" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="20" y="60" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="70" y="50" type="line"/>
+      <point x="70" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="80" y="110" type="line"/>
+      <point x="70" y="110" type="line"/>
+      <point x="70" y="120" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="20" y="110" type="line"/>
+      <point x="10" y="110" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="20" y="90" type="line"/>
+      <point x="20" y="80" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="30" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="90" type="line"/>
+      <point x="30" y="90" type="line"/>
+      <point x="30" y="110" type="line"/>
+      <point x="60" y="110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

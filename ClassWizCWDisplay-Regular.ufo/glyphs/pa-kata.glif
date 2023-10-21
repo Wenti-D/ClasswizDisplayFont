@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30D1"/>
+  <outline>
+    <component base="ha-kata"/>
+    <component base="semivoicedcomb-hira"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni30CF+uni309A</string>
+  </dict>
+  </lib>
+</glyph>

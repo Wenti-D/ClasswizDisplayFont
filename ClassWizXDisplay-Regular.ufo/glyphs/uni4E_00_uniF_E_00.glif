@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni4E00_uniFE00" format="2">
+  <advance width="120"/>
+  <outline>
+    <contour>
+      <point x="0" y="60" type="line"/>
+      <point x="110" y="60" type="line"/>
+      <point x="110" y="70" type="line"/>
+      <point x="100" y="70" type="line"/>
+      <point x="100" y="80" type="line"/>
+      <point x="90" y="80" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="0" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0448"/>
+  <outline>
+    <component base="pecyr" yScale="-1" yOffset="90"/>
+    <contour>
+      <point x="40" y="20" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="90" type="line"/>
+      <point x="40" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

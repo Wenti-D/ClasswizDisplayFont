@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni88AB" format="2">
+  <advance width="120"/>
+  <unicode hex="88AB"/>
+  <outline>
+    <contour>
+      <point x="40" y="100" type="line"/>
+      <point x="30" y="100" type="line"/>
+      <point x="30" y="120" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="20" y="100" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="90" type="line"/>
+      <point x="30" y="90" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="40" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="60" type="line"/>
+      <point x="20" y="60" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="50" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="20" y="80" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="10" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="50" type="line"/>
+      <point x="10" y="50" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="0" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="60" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="50" y="40" type="line"/>
+      <point x="50" y="20" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="40" type="line"/>
+      <point x="70" y="40" type="line"/>
+      <point x="70" y="50" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="100" y="30" type="line"/>
+      <point x="110" y="30" type="line"/>
+      <point x="110" y="60" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="90" type="line"/>
+      <point x="100" y="90" type="line"/>
+      <point x="100" y="70" type="line"/>
+      <point x="110" y="70" type="line"/>
+      <point x="110" y="100" type="line"/>
+      <point x="90" y="100" type="line"/>
+      <point x="90" y="120" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="80" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="50" y="70" type="line"/>
+      <point x="40" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="20" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="70" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="20" type="line"/>
+      <point x="40" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="30" type="line"/>
+      <point x="90" y="30" type="line"/>
+      <point x="90" y="20" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="80" y="10" type="line"/>
+      <point x="90" y="10" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="10" type="line"/>
+      <point x="100" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="10" type="line"/>
+      <point x="60" y="10" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="90" type="line"/>
+      <point x="80" y="90" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="60" y="60" type="line"/>
+    </contour>
+  </outline>
+</glyph>

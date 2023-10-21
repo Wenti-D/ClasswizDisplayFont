@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave" format="2">
+  <advance width="110"/>
+  <unicode hex="1EF3"/>
+  <outline>
+    <component base="y"/>
+    <contour>
+      <point x="70" y="100" type="line"/>
+      <point x="70" y="110" type="line"/>
+      <point x="50" y="110" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="20" y="110" type="line"/>
+      <point x="40" y="110" type="line"/>
+      <point x="40" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

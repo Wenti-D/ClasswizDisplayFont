@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau.itc.inferior" format="2">
+  <advance width="110"/>
+  <unicode hex="E014"/>
+  <outline>
+    <contour>
+      <point x="10" y="30" type="line"/>
+      <point x="10" y="20" type="line"/>
+      <point x="20" y="20" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="-10" type="line"/>
+      <point x="80" y="-10" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="10" type="line"/>
+      <point x="60" y="10" type="line"/>
+      <point x="60" y="30" type="line"/>
+      <point x="90" y="30" type="line"/>
+      <point x="90" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="20" y="30" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni795E" format="2">
+  <advance width="140"/>
+  <unicode hex="795E"/>
+  <outline>
+    <contour>
+      <point x="110" y="20" type="line"/>
+      <point x="120" y="20" type="line"/>
+      <point x="120" y="100" type="line"/>
+      <point x="90" y="100" type="line"/>
+      <point x="90" y="120" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="80" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="40" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+      <point x="0" y="80" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="20" y="60" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="10" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="0" y="40" type="line"/>
+      <point x="10" y="40" type="line"/>
+      <point x="10" y="50" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="50" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="50" y="40" type="line"/>
+      <point x="50" y="20" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="30" type="line"/>
+      <point x="80" y="30" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="30" type="line"/>
+      <point x="110" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="120" type="line"/>
+      <point x="10" y="120" type="line"/>
+      <point x="10" y="110" type="line"/>
+      <point x="20" y="110" type="line"/>
+      <point x="20" y="100" type="line"/>
+      <point x="30" y="100" type="line"/>
+      <point x="30" y="110" type="line"/>
+      <point x="20" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="70" type="line"/>
+      <point x="90" y="90" type="line"/>
+      <point x="110" y="90" type="line"/>
+      <point x="110" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="90" type="line"/>
+      <point x="80" y="90" type="line"/>
+      <point x="80" y="70" type="line"/>
+      <point x="60" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="60" type="line"/>
+      <point x="110" y="40" type="line"/>
+      <point x="90" y="40" type="line"/>
+      <point x="90" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="40" type="line"/>
+      <point x="60" y="40" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

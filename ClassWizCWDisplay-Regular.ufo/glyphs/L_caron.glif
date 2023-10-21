@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="110"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="90" type="line"/>
+      <point x="70" y="90" type="line"/>
+      <point x="70" y="120" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="50" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni030C</string>
+  </dict>
+  </lib>
+</glyph>

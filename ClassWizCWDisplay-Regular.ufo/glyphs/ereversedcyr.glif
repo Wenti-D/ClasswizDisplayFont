@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversedcyr" format="2">
+  <advance width="110"/>
+  <unicode hex="044D"/>
+  <outline>
+    <component base="c" xScale="-1" xOffset="100"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

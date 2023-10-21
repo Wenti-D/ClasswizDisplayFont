@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30A8"/>
+  <outline>
+    <contour>
+      <point x="10" y="20" type="line"/>
+      <point x="10" y="30" type="line"/>
+      <point x="50" y="30" type="line"/>
+      <point x="50" y="80" type="line"/>
+      <point x="20" y="80" type="line"/>
+      <point x="20" y="90" type="line"/>
+      <point x="90" y="90" type="line"/>
+      <point x="90" y="80" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="30" type="line"/>
+      <point x="100" y="30" type="line"/>
+      <point x="100" y="20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

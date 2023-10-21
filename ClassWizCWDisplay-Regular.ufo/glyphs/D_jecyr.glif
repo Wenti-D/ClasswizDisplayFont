@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Djecyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0402"/>
+  <outline>
+    <component base="T" xOffset="-10"/>
+    <contour>
+      <point x="50" y="50" type="line"/>
+      <point x="80" y="50" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="10" type="line"/>
+      <point x="100" y="10" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="50" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

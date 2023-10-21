@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangle.left.right" format="2">
+  <advance width="110"/>
+  <unicode hex="E030"/>
+  <outline>
+    <component base="triangle.left-below"/>
+    <component base="triangle.right-above"/>
+  </outline>
+</glyph>

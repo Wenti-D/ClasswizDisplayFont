@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute" format="2">
+  <advance width="110"/>
+  <unicode hex="0107"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="30" y="100" type="line"/>
+      <point x="60" y="100" type="line"/>
+      <point x="60" y="110" type="line"/>
+      <point x="80" y="110" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="50" y="110" type="line"/>
+      <point x="30" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>c+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

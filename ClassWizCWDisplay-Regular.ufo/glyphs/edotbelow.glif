@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotbelow" format="2">
+  <advance width="110"/>
+  <unicode hex="1EB9"/>
+  <outline>
+    <component base="e" yOffset="10"/>
+    <contour>
+      <point x="40" y="-10" type="line"/>
+      <point x="60" y="-10" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>e+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

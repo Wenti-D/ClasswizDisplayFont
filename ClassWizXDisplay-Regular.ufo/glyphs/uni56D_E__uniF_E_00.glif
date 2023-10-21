@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni56DE_uniFE00" format="2">
+  <advance width="120"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="110" type="line"/>
+      <point x="0" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="10" type="line"/>
+      <point x="10" y="100" type="line"/>
+      <point x="100" y="100" type="line"/>
+      <point x="100" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="80" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="80" y="30" type="line"/>
+      <point x="80" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="40" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="70" y="70" type="line"/>
+      <point x="70" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni56DE_uniFE00</string>
+  </dict>
+  </lib>
+</glyph>

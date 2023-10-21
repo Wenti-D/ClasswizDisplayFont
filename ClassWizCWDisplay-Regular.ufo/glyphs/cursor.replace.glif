@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cursor.replace" format="2">
+  <advance width="110"/>
+  <unicode hex="E026"/>
+  <outline>
+    <contour>
+      <point x="0" y="20" type="line"/>
+      <point x="100" y="20" type="line"/>
+      <point x="100" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+  </outline>
+</glyph>

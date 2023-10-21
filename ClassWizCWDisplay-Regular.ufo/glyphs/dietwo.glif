@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dietwo" format="2">
+  <advance width="110"/>
+  <unicode hex="2681"/>
+  <outline>
+    <contour>
+      <point x="80" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="80" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="20" type="line"/>
+      <point x="10" y="20" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="90" type="line"/>
+      <point x="80" y="90" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="90" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="80" type="line"/>
+      <point x="20" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="30" type="line"/>
+      <point x="70" y="30" type="line"/>
+      <point x="70" y="50" type="line"/>
+      <point x="50" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="10" type="line"/>
+      <point x="80" y="10" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="10" y="20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

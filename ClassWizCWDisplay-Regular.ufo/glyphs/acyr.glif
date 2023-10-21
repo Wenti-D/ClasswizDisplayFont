@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0430"/>
+  <outline>
+    <component base="a"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>a%</string>
+  </dict>
+  </lib>
+</glyph>

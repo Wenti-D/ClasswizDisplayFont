@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mo-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30E2"/>
+  <outline>
+    <contour>
+      <point x="0" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="20" type="line"/>
+      <point x="50" y="20" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="100" y="60" type="line"/>
+      <point x="100" y="70" type="line"/>
+      <point x="50" y="70" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="90" y="100" type="line"/>
+      <point x="90" y="110" type="line"/>
+      <point x="10" y="110" type="line"/>
+      <point x="10" y="100" type="line"/>
+      <point x="40" y="100" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="0" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="10" type="line"/>
+      <point x="100" y="10" type="line"/>
+      <point x="100" y="20" type="line"/>
+      <point x="50" y="20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

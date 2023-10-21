@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="voiced-hira" format="2">
+  <advance width="120"/>
+  <unicode hex="309B"/>
+  <outline>
+    <contour>
+      <point x="100" y="100" type="line"/>
+      <point x="110" y="100" type="line"/>
+      <point x="110" y="120" type="line"/>
+      <point x="100" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="100" type="line"/>
+      <point x="90" y="100" type="line"/>
+      <point x="90" y="120" type="line"/>
+      <point x="80" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni3099</string>
+  </dict>
+  </lib>
+</glyph>

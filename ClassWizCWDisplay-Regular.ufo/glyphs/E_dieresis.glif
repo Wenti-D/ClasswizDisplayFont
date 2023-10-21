@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="110"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="20" type="line"/>
+      <point x="30" y="20" type="line"/>
+      <point x="30" y="40" type="line"/>
+      <point x="80" y="40" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="90" y="90" type="line"/>
+      <point x="10" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="100" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="30" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="100" type="line"/>
+      <point x="80" y="100" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="60" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

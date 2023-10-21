@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icyr" format="2">
+  <advance width="110"/>
+  <unicode hex="0418"/>
+  <outline>
+    <component base="N" yScale="-1" yOffset="120"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>N%</string>
+  </dict>
+  </lib>
+</glyph>

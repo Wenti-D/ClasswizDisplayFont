@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dafrican" format="2">
+  <advance width="110"/>
+  <unicode hex="0189"/>
+  <outline>
+    <component base="Eth" yScale="-1" yOffset="120"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Dcroat</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="110"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="20" y="70" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="40" y="20" type="line"/>
+      <point x="20" y="20" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="20" type="line"/>
+      <point x="60" y="20" type="line"/>
+      <point x="60" y="90" type="line"/>
+      <point x="20" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="100" type="line"/>
+      <point x="60" y="100" type="line"/>
+      <point x="60" y="110" type="line"/>
+      <point x="80" y="110" type="line"/>
+      <point x="80" y="120" type="line"/>
+      <point x="50" y="120" type="line"/>
+      <point x="50" y="110" type="line"/>
+      <point x="30" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

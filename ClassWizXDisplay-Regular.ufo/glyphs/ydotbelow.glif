@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotbelow" format="2">
+  <advance width="110"/>
+  <unicode hex="1EF5"/>
+  <outline>
+    <component base="y"/>
+    <contour>
+      <point x="70" y="-10" type="line"/>
+      <point x="90" y="-10" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

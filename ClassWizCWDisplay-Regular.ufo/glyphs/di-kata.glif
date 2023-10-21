@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="di-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30C2"/>
+  <outline>
+    <component base="ti-kata"/>
+    <component base="voicedcomb-hira"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni30C1+uni3099</string>
+  </dict>
+  </lib>
+</glyph>

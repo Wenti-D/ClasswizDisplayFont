@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gu-hira" format="2">
+  <advance width="120"/>
+  <unicode hex="3050"/>
+  <outline>
+    <component base="ku-hira"/>
+    <component base="voicedcomb-hira" yOffset="-30"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni304F+uni3099</string>
+  </dict>
+  </lib>
+</glyph>

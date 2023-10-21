@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-hira" format="2">
+  <advance width="120"/>
+  <unicode hex="3067"/>
+  <outline>
+    <component base="te-hira"/>
+    <contour>
+      <point x="100" y="60" type="line"/>
+      <point x="110" y="60" type="line"/>
+      <point x="110" y="80" type="line"/>
+      <point x="100" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="60" type="line"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="80" type="line"/>
+      <point x="80" y="80" type="line"/>
+    </contour>
+  </outline>
+</glyph>

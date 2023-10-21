@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pe-kata" format="2">
+  <advance width="120"/>
+  <unicode hex="30DA"/>
+  <outline>
+    <component base="he-kata"/>
+    <component base="semivoicedcomb-hira" yOffset="-10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>he-kata+uni309A</string>
+  </dict>
+  </lib>
+</glyph>

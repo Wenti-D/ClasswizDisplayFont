@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Softcyr" format="2">
+  <advance width="110"/>
+  <unicode hex="042C"/>
+  <outline>
+    <component base="P" yScale="-1" yOffset="120"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>P%</string>
+  </dict>
+  </lib>
+</glyph>
