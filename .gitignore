@@ -1,0 +1,8 @@
+# Logs
+*.log
+
+# Virtual environment
+*venv
+
+# Custom build folder
+output
