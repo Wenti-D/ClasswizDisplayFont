@@ -43,12 +43,14 @@ set OUTPUT_DIR=output
 set FONT_NAME=ClassWizXDisplay-Regular
 echo Building font X Display into "%OUTPUT_DIR%" folder.
 fontmake -u %FONT_NAME%.ufo --output-dir %OUTPUT_DIR% >>output.log 2>>error.log
+%PYTHON% -c "from fontTools.ttLib.woff2 import compress; compress('%OUTPUT_DIR%/%FONT_NAME%.otf', '%OUTPUT_DIR%/%FONT_NAME%.woff2')" >output.log 2>error.log
 if %ERRORLEVEL% == 0 goto :build_font_cw
 
 :build_font_cw
 set FONT_NAME=ClassWizCWDisplay-Regular
 echo Building font CW Display into "%OUTPUT_DIR%" folder.
 fontmake -u %FONT_NAME%.ufo --output-dir %OUTPUT_DIR% >>output.log 2>>error.log
+%PYTHON% -c "from fontTools.ttLib.woff2 import compress; compress('%OUTPUT_DIR%/%FONT_NAME%.otf', '%OUTPUT_DIR%/%FONT_NAME%.woff2')" >output.log 2>error.log
 if %ERRORLEVEL% == 0 goto :end_success
 
 :show_output_error

@@ -1,1 +1,2 @@
 fontmake==3.7.1
+fonttools[woff]==4.43.1

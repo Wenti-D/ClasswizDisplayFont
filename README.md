@@ -6,7 +6,7 @@
 
 ## 食用方法
 
-字体分为四部分：X Display、CW Display、Math X 与 Math CW。带有「Display」的字体用作普通文本，提供 OTF 与 TTF 格式；带有「Math」的字体由 Opentype MATH 表强力驱动，用作数学公式输入，仅提供 OTF 格式。
+字体分为四部分：X Display、CW Display、Math X 与 Math CW。带有「Display」的字体用作普通文本，提供 OTF、TTF 与 WOFF2（自 v3.001 起）格式；带有「Math」的字体由 Opentype MATH 表强力驱动，用作数学公式输入，仅提供 OTF 格式。
 
 打包好的字体可以到 [Release 页面](https://github.com/Wenti-D/ClasswizDisplayFont/releases)获取。本文只是关于字体的一个粗略说明，而**压缩包内除字体外还有自述文件（`README.pdf` 之类的文档），使用前请一定、务必、绝对要认真、仔细、用心阅读！**
 
@@ -40,9 +40,23 @@ Display 部分的字体源文件以[统一字体对象 3（UFO 3）](https://uni
         python -m pip install -r requirements.txt
 
 4. 构建字体：
+
+    OTF 与 TTF 格式使用 `fontmake` 构建：
         
         fontmake -u ClassWizXDisplay-Regular.ufo --output-dir output
         fontmake -u ClassWizCWDisplay-Regular.ufo --output-dir output
+
+    WOFF2 格式使用 `fonttools` 构建，可以使用 Python 脚本（推荐）：
+        
+        # python script
+        from fontTools.ttLib.woff2 import compress
+        compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
+        compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
+    
+    或者 Shell 命令（不推荐）：
+        
+        python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')"
+        python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizCWDisplay-Regular.otf', 'output/ClassWizCWDisplay-Regular.woff2')"
 
     构建好的字体将会位于 `output` 文件夹内。
 
