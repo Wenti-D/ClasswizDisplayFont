@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>130</integer>
+  <integer>120</integer>
   <key>capHeight</key>
   <integer>120</integer>
   <key>descender</key>
@@ -40,7 +40,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/10/20 12:36:19</string>
+  <string>2024/01/16 13:46:23</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -61,7 +61,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.000</string>
+  <string>Version 3.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -113,11 +113,11 @@
     <integer>2</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>130</integer>
+  <integer>120</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-10</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>10</integer>
+  <integer>20</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -140,7 +140,7 @@
   <key>openTypeOS2WinAscent</key>
   <integer>140</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>20</integer>
+  <integer>30</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -160,6 +160,20 @@
   <string>ClassWiz CW Display Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptStemSnapH</key>
+  <array>
+    <integer>10</integer>
+    <integer>30</integer>
+    <integer>20</integer>
+    <integer>40</integer>
+  </array>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>10</integer>
+    <integer>40</integer>
+    <integer>20</integer>
+    <integer>30</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-15</integer>
   <key>postscriptUnderlineThickness</key>
@@ -177,7 +191,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>90</integer>
 </dict>
