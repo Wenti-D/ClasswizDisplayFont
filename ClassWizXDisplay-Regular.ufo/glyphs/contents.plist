@@ -540,6 +540,8 @@
   <string>ba-kata.glif</string>
   <key>bar</key>
   <string>bar.glif</string>
+  <key>bar.ss01</key>
+  <string>bar.ss01.glif</string>
   <key>be-hira</key>
   <string>be-hira.glif</string>
   <key>be-kata</key>

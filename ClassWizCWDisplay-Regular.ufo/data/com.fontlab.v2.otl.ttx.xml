@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTLayout>
+<GSUB>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=6 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="0"/>
+          <FeatureIndex index="1" value="6"/>
+          <FeatureIndex index="2" value="12"/>
+          <FeatureIndex index="3" value="18"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="1">
+      <ScriptTag value="cyrl"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="1"/>
+          <FeatureIndex index="1" value="7"/>
+          <FeatureIndex index="2" value="13"/>
+          <FeatureIndex index="3" value="19"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="2">
+      <ScriptTag value="grek"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="2"/>
+          <FeatureIndex index="1" value="8"/>
+          <FeatureIndex index="2" value="14"/>
+          <FeatureIndex index="3" value="20"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="3">
+      <ScriptTag value="hani"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="3"/>
+          <FeatureIndex index="1" value="9"/>
+          <FeatureIndex index="2" value="15"/>
+          <FeatureIndex index="3" value="21"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="4">
+      <ScriptTag value="kana"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="4"/>
+          <FeatureIndex index="1" value="10"/>
+          <FeatureIndex index="2" value="16"/>
+          <FeatureIndex index="3" value="22"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="5">
+      <ScriptTag value="latn"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="5"/>
+          <FeatureIndex index="1" value="11"/>
+          <FeatureIndex index="2" value="17"/>
+          <FeatureIndex index="3" value="23"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=24 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="1">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="2">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="3">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="4">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="5">
+      <FeatureTag value="aalt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="6">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="7">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="8">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="9">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="10">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="11">
+      <FeatureTag value="calt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="12">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="13">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="14">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="15">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="16">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="17">
+      <FeatureTag value="ccmp"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="18">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="19">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="20">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="21">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="22">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="23">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=4 -->
+    <Lookup index="0">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="C" out="HexC-nCr"/>
+        <Substitution in="P" out="nPr"/>
+        <Substitution in="B" out="HexB"/>
+        <Substitution in="D" out="HexD"/>
+        <Substitution in="F" out="HexF"/>
+        <Substitution in="E" out="HexE"/>
+        <Substitution in="bar" out="bar.ss01"/>
+        <Substitution in="A" out="HexA"/>
+        <Substitution in="underscore" out="cursor.replace"/>
+        <Substitution in="slash" out="div"/>
+        <Substitution in="degree" out="dms"/>
+        <Substitution in="trianglerightblack" out="triangle.right-above"/>
+        <Substitution in="trianglerightwhite" out="uniE032"/>
+        <Substitution in="triangleleftblack" out="triangle.left-below"/>
+        <Substitution in="triangleleftwhite" out="uniE033"/>
+        <Substitution in="noentry" out="execute-tag"/>
+        <Substitution in="ideographicperiod" out="ideographicperiod.ss01"/>
+        <Substitution in="uni4E00" out="uni4E00_uniFE00"/>
+        <Substitution in="uni4E0A" out="uni4E0A_uniFE00"/>
+        <Substitution in="uni4E0B" out="uni4E0B_uniFE00"/>
+        <Substitution in="uni4E0D" out="uni4E0D_uniFE00"/>
+        <Substitution in="uni4E2D" out="uni4E2D_uniFE00"/>
+        <Substitution in="uni4E8C" out="uni4E8C_uniFE00"/>
+        <Substitution in="uni4ED6" out="uni4ED6_uniFE00"/>
+        <Substitution in="uni4EE5" out="uni4EE5_uniFE00"/>
+        <Substitution in="uni4F4D" out="uni4F4D_uniFE00"/>
+        <Substitution in="uni4F53" out="uni4F53_uniFE00"/>
+        <Substitution in="uni4F59" out="uni4F59_uniFE00"/>
+        <Substitution in="uni500D" out="uni500D_uniFE00"/>
+        <Substitution in="uni504F" out="uni504F_uniFE00"/>
+        <Substitution in="uni5143" out="uni5143_uniFE00"/>
+        <Substitution in="uni5149" out="uni5149_uniFE00"/>
+        <Substitution in="uni5165" out="uni5165_uniFE00"/>
+        <Substitution in="uni516C" out="uni516C_uniFE00"/>
+        <Substitution in="uni5171" out="uni5171_uniFE00"/>
+        <Substitution in="uni5185" out="uni5185_uniFE00"/>
+        <Substitution in="uni51FA" out="uni51FA_uniFE00"/>
+        <Substitution in="uni5206" out="uni5206_uniFE00"/>
+        <Substitution in="uni5207" out="uni5207_uniFE00"/>
+        <Substitution in="uni5217" out="uni5217_uniFE00"/>
+        <Substitution in="uni521D" out="uni521D_uniFE00"/>
+        <Substitution in="uni5236" out="uni5236_uniFE00"/>
+        <Substitution in="uni529B" out="uni529B_uniFE00"/>
+        <Substitution in="uni52A0" out="uni52A0_uniFE00"/>
+        <Substitution in="uni5316" out="uni5316_uniFE00"/>
+        <Substitution in="uni533A" out="uni533A_uniFE00"/>
+        <Substitution in="uni534A" out="uni534A_uniFE00"/>
+        <Substitution in="uni539F" out="uni539F_uniFE00"/>
+        <Substitution in="uni53CC" out="uni53CC_uniFE00"/>
+        <Substitution in="uni53D6" out="uni53D6_uniFE00"/>
+        <Substitution in="uni53EF" out="uni53EF_uniFE00"/>
+        <Substitution in="uni53F7" out="uni53F7_uniFE00"/>
+        <Substitution in="uni5408" out="uni5408_uniFE00"/>
+        <Substitution in="uni5411" out="uni5411_uniFE00"/>
+        <Substitution in="uni5468" out="uni5468_uniFE00"/>
+        <Substitution in="uni548C" out="uni548C_uniFE00"/>
+        <Substitution in="uni56DB" out="uni56DB_uniFE00"/>
+        <Substitution in="uni56DE" out="uni56DE_uniFE00"/>
+        <Substitution in="uni56E0" out="uni56E0_uniFE00"/>
+        <Substitution in="uni5747" out="uni5747_uniFE00"/>
+        <Substitution in="uni57DF" out="uni57DF_uniFE00"/>
+        <Substitution in="uni57FA" out="uni57FA_uniFE00"/>
+        <Substitution in="uni5927" out="uni5927_uniFE00"/>
+        <Substitution in="uni59CB" out="uni59CB_uniFE00"/>
+        <Substitution in="uni5B50" out="uni5B50_uniFE00"/>
+        <Substitution in="uni5B57" out="uni5B57_uniFE00"/>
+        <Substitution in="uni5B58" out="uni5B58_uniFE00"/>
+        <Substitution in="uni5B66" out="uni5B66_uniFE00"/>
+        <Substitution in="uni5B9A" out="uni5B9A_uniFE00"/>
+        <Substitution in="uni5BB9" out="uni5BB9_uniFE00"/>
+        <Substitution in="uni5BC6" out="uni5BC6_uniFE00"/>
+        <Substitution in="uni5C04" out="uni5C04_uniFE00"/>
+        <Substitution in="uni5C0F" out="uni5C0F_uniFE00"/>
+        <Substitution in="uni5DEE" out="uni5DEE_uniFE00"/>
+        <Substitution in="uni5E03" out="uni5E03_uniFE00"/>
+        <Substitution in="uni5E38" out="uni5E38_uniFE00"/>
+        <Substitution in="uni5E73" out="uni5E73_uniFE00"/>
+        <Substitution in="uni5EA6" out="uni5EA6_uniFE00"/>
+        <Substitution in="uni5F0F" out="uni5F0F_uniFE00"/>
+        <Substitution in="uni5F15" out="uni5F15_uniFE00"/>
+        <Substitution in="uni5F27" out="uni5F27_uniFE00"/>
+        <Substitution in="uni5F62" out="uni5F62_uniFE00"/>
+        <Substitution in="uni5FAA" out="uni5FAA_uniFE00"/>
+        <Substitution in="uni5FAE" out="uni5FAE_uniFE00"/>
+        <Substitution in="uni5FC3" out="uni5FC3_uniFE00"/>
+        <Substitution in="uni6210" out="uni6210_uniFE00"/>
+        <Substitution in="uni624B" out="uni624B_uniFE00"/>
+        <Substitution in="uni6307" out="uni6307_uniFE00"/>
+        <Substitution in="uni653E" out="uni653E_uniFE00"/>
+        <Substitution in="uni6570" out="uni6570_uniFE00"/>
+        <Substitution in="uni6574" out="uni6574_uniFE00"/>
+        <Substitution in="uni6587" out="uni6587_uniFE00"/>
+        <Substitution in="uni65AD" out="uni65AD_uniFE00"/>
+        <Substitution in="uni65B0" out="uni65B0_uniFE00"/>
+        <Substitution in="uni65B9" out="uni65B9_uniFE00"/>
+        <Substitution in="uni666E" out="uni666E_uniFE00"/>
+        <Substitution in="uni66F2" out="uni66F2_uniFE00"/>
+        <Substitution in="uni66F4" out="uni66F4_uniFE00"/>
+        <Substitution in="uni6700" out="uni6700_uniFE00"/>
+        <Substitution in="uni6709" out="uni6709_uniFE00"/>
+        <Substitution in="uni671F" out="uni671F_uniFE00"/>
+        <Substitution in="uni672A" out="uni672A_uniFE00"/>
+        <Substitution in="uni672C" out="uni672C_uniFE00"/>
+        <Substitution in="uni6790" out="uni6790_uniFE00"/>
+        <Substitution in="uni679A" out="uni679A_uniFE00"/>
+        <Substitution in="uni679C" out="uni679C_uniFE00"/>
+        <Substitution in="uni6B21" out="uni6B21_uniFE00"/>
+        <Substitution in="uni6B63" out="uni6B63_uniFE00"/>
+        <Substitution in="uni6BD4" out="uni6BD4_uniFE00"/>
+        <Substitution in="uni6C42" out="uni6C42_uniFE00"/>
+        <Substitution in="uni6CD5" out="uni6CD5_uniFE00"/>
+        <Substitution in="uni6D41" out="uni6D41_uniFE00"/>
+        <Substitution in="uni6E29" out="uni6E29_uniFE00"/>
+        <Substitution in="uni70B9" out="uni70B9_uniFE00"/>
+        <Substitution in="uni7136" out="uni7136_uniFE00"/>
+        <Substitution in="uni7167" out="uni7167_uniFE00"/>
+        <Substitution in="uni7269" out="uni7269_uniFE00"/>
+        <Substitution in="uni7387" out="uni7387_uniFE00"/>
+        <Substitution in="uni7406" out="uni7406_uniFE00"/>
+        <Substitution in="uni7528" out="uni7528_uniFE00"/>
+        <Substitution in="uni7684" out="uni7684_uniFE00"/>
+        <Substitution in="uni76EE" out="uni76EE_uniFE00"/>
+        <Substitution in="uni76F4" out="uni76F4_uniFE00"/>
+        <Substitution in="uni76F8" out="uni76F8_uniFE00"/>
+        <Substitution in="uni78C1" out="uni78C1_uniFE00"/>
+        <Substitution in="uni793A" out="uni793A_uniFE00"/>
+        <Substitution in="uni79D1" out="uni79D1_uniFE00"/>
+        <Substitution in="uni79D2" out="uni79D2_uniFE00"/>
+        <Substitution in="uni7A0B" out="uni7A0B_uniFE00"/>
+        <Substitution in="uni7A7A" out="uni7A7A_uniFE00"/>
+        <Substitution in="uni7ACB" out="uni7ACB_uniFE00"/>
+        <Substitution in="uni7B49" out="uni7B49_uniFE00"/>
+        <Substitution in="uni7B97" out="uni7B97_uniFE00"/>
+        <Substitution in="uni7C98" out="uni7C98_uniFE00"/>
+        <Substitution in="uni7D20" out="uni7D20_uniFE00"/>
+        <Substitution in="uni7D2F" out="uni7D2F_uniFE00"/>
+        <Substitution in="uni7F6E" out="uni7F6E_uniFE00"/>
+        <Substitution in="uni80FD" out="uni80FD_uniFE00"/>
+        <Substitution in="uni81EA" out="uni81EA_uniFE00"/>
+        <Substitution in="uni865A" out="uni865A_uniFE00"/>
+        <Substitution in="uni884C" out="uni884C_uniFE00"/>
+        <Substitution in="uni8868" out="uni8868_uniFE00"/>
+        <Substitution in="uni89D2" out="uni89D2_uniFE00"/>
+        <Substitution in="uni89E3" out="uni89E3_uniFE00"/>
+        <Substitution in="uni8A00" out="uni8A00_uniFE00"/>
+        <Substitution in="uni8D85" out="uni8D85_uniFE00"/>
+        <Substitution in="uni9006" out="uni9006_uniFE00"/>
+        <Substitution in="uni901F" out="uni901F_uniFE00"/>
+        <Substitution in="uni90E8" out="uni90E8_uniFE00"/>
+        <Substitution in="uni91CF" out="uni91CF_uniFE00"/>
+        <Substitution in="uni964D" out="uni964D_uniFE00"/>
+        <Substitution in="uni9650" out="uni9650_uniFE00"/>
+        <Substitution in="uni9664" out="uni9664_uniFE00"/>
+        <Substitution in="uni9762" out="uni9762_uniFE00"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="1">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="C" out="HexC-nCr"/>
+        <Substitution in="P" out="nPr"/>
+        <Substitution in="B" out="HexB"/>
+        <Substitution in="D" out="HexD"/>
+        <Substitution in="F" out="HexF"/>
+        <Substitution in="E" out="HexE"/>
+        <Substitution in="bar" out="bar.ss01"/>
+        <Substitution in="A" out="HexA"/>
+        <Substitution in="underscore" out="cursor.replace"/>
+        <Substitution in="slash" out="div"/>
+        <Substitution in="degree" out="dms"/>
+        <Substitution in="trianglerightblack" out="triangle.right-above"/>
+        <Substitution in="trianglerightwhite" out="uniE032"/>
+        <Substitution in="triangleleftblack" out="triangle.left-below"/>
+        <Substitution in="triangleleftwhite" out="uniE033"/>
+        <Substitution in="noentry" out="execute-tag"/>
+        <Substitution in="ideographicperiod" out="ideographicperiod.ss01"/>
+        <Substitution in="uni4E00" out="uni4E00_uniFE00"/>
+        <Substitution in="uni4E0A" out="uni4E0A_uniFE00"/>
+        <Substitution in="uni4E0B" out="uni4E0B_uniFE00"/>
+        <Substitution in="uni4E0D" out="uni4E0D_uniFE00"/>
+        <Substitution in="uni4E2D" out="uni4E2D_uniFE00"/>
+        <Substitution in="uni4E8C" out="uni4E8C_uniFE00"/>
+        <Substitution in="uni4ED6" out="uni4ED6_uniFE00"/>
+        <Substitution in="uni4EE5" out="uni4EE5_uniFE00"/>
+        <Substitution in="uni4F4D" out="uni4F4D_uniFE00"/>
+        <Substitution in="uni4F53" out="uni4F53_uniFE00"/>
+        <Substitution in="uni4F59" out="uni4F59_uniFE00"/>
+        <Substitution in="uni500D" out="uni500D_uniFE00"/>
+        <Substitution in="uni504F" out="uni504F_uniFE00"/>
+        <Substitution in="uni5143" out="uni5143_uniFE00"/>
+        <Substitution in="uni5149" out="uni5149_uniFE00"/>
+        <Substitution in="uni5165" out="uni5165_uniFE00"/>
+        <Substitution in="uni516C" out="uni516C_uniFE00"/>
+        <Substitution in="uni5171" out="uni5171_uniFE00"/>
+        <Substitution in="uni5185" out="uni5185_uniFE00"/>
+        <Substitution in="uni51FA" out="uni51FA_uniFE00"/>
+        <Substitution in="uni5206" out="uni5206_uniFE00"/>
+        <Substitution in="uni5207" out="uni5207_uniFE00"/>
+        <Substitution in="uni5217" out="uni5217_uniFE00"/>
+        <Substitution in="uni521D" out="uni521D_uniFE00"/>
+        <Substitution in="uni5236" out="uni5236_uniFE00"/>
+        <Substitution in="uni529B" out="uni529B_uniFE00"/>
+        <Substitution in="uni52A0" out="uni52A0_uniFE00"/>
+        <Substitution in="uni5316" out="uni5316_uniFE00"/>
+        <Substitution in="uni533A" out="uni533A_uniFE00"/>
+        <Substitution in="uni534A" out="uni534A_uniFE00"/>
+        <Substitution in="uni539F" out="uni539F_uniFE00"/>
+        <Substitution in="uni53CC" out="uni53CC_uniFE00"/>
+        <Substitution in="uni53D6" out="uni53D6_uniFE00"/>
+        <Substitution in="uni53EF" out="uni53EF_uniFE00"/>
+        <Substitution in="uni53F7" out="uni53F7_uniFE00"/>
+        <Substitution in="uni5408" out="uni5408_uniFE00"/>
+        <Substitution in="uni5411" out="uni5411_uniFE00"/>
+        <Substitution in="uni5468" out="uni5468_uniFE00"/>
+        <Substitution in="uni548C" out="uni548C_uniFE00"/>
+        <Substitution in="uni56DB" out="uni56DB_uniFE00"/>
+        <Substitution in="uni56DE" out="uni56DE_uniFE00"/>
+        <Substitution in="uni56E0" out="uni56E0_uniFE00"/>
+        <Substitution in="uni5747" out="uni5747_uniFE00"/>
+        <Substitution in="uni57DF" out="uni57DF_uniFE00"/>
+        <Substitution in="uni57FA" out="uni57FA_uniFE00"/>
+        <Substitution in="uni5927" out="uni5927_uniFE00"/>
+        <Substitution in="uni59CB" out="uni59CB_uniFE00"/>
+        <Substitution in="uni5B50" out="uni5B50_uniFE00"/>
+        <Substitution in="uni5B57" out="uni5B57_uniFE00"/>
+        <Substitution in="uni5B58" out="uni5B58_uniFE00"/>
+        <Substitution in="uni5B66" out="uni5B66_uniFE00"/>
+        <Substitution in="uni5B9A" out="uni5B9A_uniFE00"/>
+        <Substitution in="uni5BB9" out="uni5BB9_uniFE00"/>
+        <Substitution in="uni5BC6" out="uni5BC6_uniFE00"/>
+        <Substitution in="uni5C04" out="uni5C04_uniFE00"/>
+        <Substitution in="uni5C0F" out="uni5C0F_uniFE00"/>
+        <Substitution in="uni5DEE" out="uni5DEE_uniFE00"/>
+        <Substitution in="uni5E03" out="uni5E03_uniFE00"/>
+        <Substitution in="uni5E38" out="uni5E38_uniFE00"/>
+        <Substitution in="uni5E73" out="uni5E73_uniFE00"/>
+        <Substitution in="uni5EA6" out="uni5EA6_uniFE00"/>
+        <Substitution in="uni5F0F" out="uni5F0F_uniFE00"/>
+        <Substitution in="uni5F15" out="uni5F15_uniFE00"/>
+        <Substitution in="uni5F27" out="uni5F27_uniFE00"/>
+        <Substitution in="uni5F62" out="uni5F62_uniFE00"/>
+        <Substitution in="uni5FAA" out="uni5FAA_uniFE00"/>
+        <Substitution in="uni5FAE" out="uni5FAE_uniFE00"/>
+        <Substitution in="uni5FC3" out="uni5FC3_uniFE00"/>
+        <Substitution in="uni6210" out="uni6210_uniFE00"/>
+        <Substitution in="uni624B" out="uni624B_uniFE00"/>
+        <Substitution in="uni6307" out="uni6307_uniFE00"/>
+        <Substitution in="uni653E" out="uni653E_uniFE00"/>
+        <Substitution in="uni6570" out="uni6570_uniFE00"/>
+        <Substitution in="uni6574" out="uni6574_uniFE00"/>
+        <Substitution in="uni6587" out="uni6587_uniFE00"/>
+        <Substitution in="uni65AD" out="uni65AD_uniFE00"/>
+        <Substitution in="uni65B0" out="uni65B0_uniFE00"/>
+        <Substitution in="uni65B9" out="uni65B9_uniFE00"/>
+        <Substitution in="uni666E" out="uni666E_uniFE00"/>
+        <Substitution in="uni66F2" out="uni66F2_uniFE00"/>
+        <Substitution in="uni66F4" out="uni66F4_uniFE00"/>
+        <Substitution in="uni6700" out="uni6700_uniFE00"/>
+        <Substitution in="uni6709" out="uni6709_uniFE00"/>
+        <Substitution in="uni671F" out="uni671F_uniFE00"/>
+        <Substitution in="uni672A" out="uni672A_uniFE00"/>
+        <Substitution in="uni672C" out="uni672C_uniFE00"/>
+        <Substitution in="uni6790" out="uni6790_uniFE00"/>
+        <Substitution in="uni679A" out="uni679A_uniFE00"/>
+        <Substitution in="uni679C" out="uni679C_uniFE00"/>
+        <Substitution in="uni6B21" out="uni6B21_uniFE00"/>
+        <Substitution in="uni6B63" out="uni6B63_uniFE00"/>
+        <Substitution in="uni6BD4" out="uni6BD4_uniFE00"/>
+        <Substitution in="uni6C42" out="uni6C42_uniFE00"/>
+        <Substitution in="uni6CD5" out="uni6CD5_uniFE00"/>
+        <Substitution in="uni6D41" out="uni6D41_uniFE00"/>
+        <Substitution in="uni6E29" out="uni6E29_uniFE00"/>
+        <Substitution in="uni70B9" out="uni70B9_uniFE00"/>
+        <Substitution in="uni7136" out="uni7136_uniFE00"/>
+        <Substitution in="uni7167" out="uni7167_uniFE00"/>
+        <Substitution in="uni7269" out="uni7269_uniFE00"/>
+        <Substitution in="uni7387" out="uni7387_uniFE00"/>
+        <Substitution in="uni7406" out="uni7406_uniFE00"/>
+        <Substitution in="uni7528" out="uni7528_uniFE00"/>
+        <Substitution in="uni7684" out="uni7684_uniFE00"/>
+        <Substitution in="uni76EE" out="uni76EE_uniFE00"/>
+        <Substitution in="uni76F4" out="uni76F4_uniFE00"/>
+        <Substitution in="uni76F8" out="uni76F8_uniFE00"/>
+        <Substitution in="uni78C1" out="uni78C1_uniFE00"/>
+        <Substitution in="uni793A" out="uni793A_uniFE00"/>
+        <Substitution in="uni79D1" out="uni79D1_uniFE00"/>
+        <Substitution in="uni79D2" out="uni79D2_uniFE00"/>
+        <Substitution in="uni7A0B" out="uni7A0B_uniFE00"/>
+        <Substitution in="uni7A7A" out="uni7A7A_uniFE00"/>
+        <Substitution in="uni7ACB" out="uni7ACB_uniFE00"/>
+        <Substitution in="uni7B49" out="uni7B49_uniFE00"/>
+        <Substitution in="uni7B97" out="uni7B97_uniFE00"/>
+        <Substitution in="uni7C98" out="uni7C98_uniFE00"/>
+        <Substitution in="uni7D20" out="uni7D20_uniFE00"/>
+        <Substitution in="uni7D2F" out="uni7D2F_uniFE00"/>
+        <Substitution in="uni7F6E" out="uni7F6E_uniFE00"/>
+        <Substitution in="uni80FD" out="uni80FD_uniFE00"/>
+        <Substitution in="uni81EA" out="uni81EA_uniFE00"/>
+        <Substitution in="uni865A" out="uni865A_uniFE00"/>
+        <Substitution in="uni884C" out="uni884C_uniFE00"/>
+        <Substitution in="uni8868" out="uni8868_uniFE00"/>
+        <Substitution in="uni89D2" out="uni89D2_uniFE00"/>
+        <Substitution in="uni89E3" out="uni89E3_uniFE00"/>
+        <Substitution in="uni8A00" out="uni8A00_uniFE00"/>
+        <Substitution in="uni8D85" out="uni8D85_uniFE00"/>
+        <Substitution in="uni9006" out="uni9006_uniFE00"/>
+        <Substitution in="uni901F" out="uni901F_uniFE00"/>
+        <Substitution in="uni90E8" out="uni90E8_uniFE00"/>
+        <Substitution in="uni91CF" out="uni91CF_uniFE00"/>
+        <Substitution in="uni964D" out="uni964D_uniFE00"/>
+        <Substitution in="uni9650" out="uni9650_uniFE00"/>
+        <Substitution in="uni9664" out="uni9664_uniFE00"/>
+        <Substitution in="uni9762" out="uni9762_uniFE00"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="2">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="ideographicperiod">
+          <Ligature components="uniFE00" glyph="ideographicperiod.ss01"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E00">
+          <Ligature components="uniFE00" glyph="uni4E00_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E0A">
+          <Ligature components="uniFE00" glyph="uni4E0A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E0B">
+          <Ligature components="uniFE00" glyph="uni4E0B_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E0D">
+          <Ligature components="uniFE00" glyph="uni4E0D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E2D">
+          <Ligature components="uniFE00" glyph="uni4E2D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4E8C">
+          <Ligature components="uniFE00" glyph="uni4E8C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4ED6">
+          <Ligature components="uniFE00" glyph="uni4ED6_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4EE5">
+          <Ligature components="uniFE00" glyph="uni4EE5_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4F4D">
+          <Ligature components="uniFE00" glyph="uni4F4D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4F53">
+          <Ligature components="uniFE00" glyph="uni4F53_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni4F59">
+          <Ligature components="uniFE00" glyph="uni4F59_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni500D">
+          <Ligature components="uniFE00" glyph="uni500D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni504F">
+          <Ligature components="uniFE00" glyph="uni504F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5143">
+          <Ligature components="uniFE00" glyph="uni5143_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5149">
+          <Ligature components="uniFE00" glyph="uni5149_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5165">
+          <Ligature components="uniFE00" glyph="uni5165_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni516C">
+          <Ligature components="uniFE00" glyph="uni516C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5171">
+          <Ligature components="uniFE00" glyph="uni5171_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5185">
+          <Ligature components="uniFE00" glyph="uni5185_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni51FA">
+          <Ligature components="uniFE00" glyph="uni51FA_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5206">
+          <Ligature components="uniFE00" glyph="uni5206_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5207">
+          <Ligature components="uniFE00" glyph="uni5207_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5217">
+          <Ligature components="uniFE00" glyph="uni5217_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni521D">
+          <Ligature components="uniFE00" glyph="uni521D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5236">
+          <Ligature components="uniFE00" glyph="uni5236_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni529B">
+          <Ligature components="uniFE00" glyph="uni529B_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni52A0">
+          <Ligature components="uniFE00" glyph="uni52A0_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5316">
+          <Ligature components="uniFE00" glyph="uni5316_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni533A">
+          <Ligature components="uniFE00" glyph="uni533A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni534A">
+          <Ligature components="uniFE00" glyph="uni534A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni539F">
+          <Ligature components="uniFE00" glyph="uni539F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni53CC">
+          <Ligature components="uniFE00" glyph="uni53CC_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni53D6">
+          <Ligature components="uniFE00" glyph="uni53D6_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni53EF">
+          <Ligature components="uniFE00" glyph="uni53EF_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni53F7">
+          <Ligature components="uniFE00" glyph="uni53F7_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5408">
+          <Ligature components="uniFE00" glyph="uni5408_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5411">
+          <Ligature components="uniFE00" glyph="uni5411_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5468">
+          <Ligature components="uniFE00" glyph="uni5468_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni548C">
+          <Ligature components="uniFE00" glyph="uni548C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni56DB">
+          <Ligature components="uniFE00" glyph="uni56DB_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni56DE">
+          <Ligature components="uniFE00" glyph="uni56DE_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni56E0">
+          <Ligature components="uniFE00" glyph="uni56E0_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5747">
+          <Ligature components="uniFE00" glyph="uni5747_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni57DF">
+          <Ligature components="uniFE00" glyph="uni57DF_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni57FA">
+          <Ligature components="uniFE00" glyph="uni57FA_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5927">
+          <Ligature components="uniFE00" glyph="uni5927_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni59CB">
+          <Ligature components="uniFE00" glyph="uni59CB_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5B50">
+          <Ligature components="uniFE00" glyph="uni5B50_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5B57">
+          <Ligature components="uniFE00" glyph="uni5B57_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5B58">
+          <Ligature components="uniFE00" glyph="uni5B58_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5B66">
+          <Ligature components="uniFE00" glyph="uni5B66_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5B9A">
+          <Ligature components="uniFE00" glyph="uni5B9A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5BB9">
+          <Ligature components="uniFE00" glyph="uni5BB9_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5BC6">
+          <Ligature components="uniFE00" glyph="uni5BC6_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5C04">
+          <Ligature components="uniFE00" glyph="uni5C04_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5C0F">
+          <Ligature components="uniFE00" glyph="uni5C0F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5DEE">
+          <Ligature components="uniFE00" glyph="uni5DEE_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5E03">
+          <Ligature components="uniFE00" glyph="uni5E03_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5E38">
+          <Ligature components="uniFE00" glyph="uni5E38_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5E73">
+          <Ligature components="uniFE00" glyph="uni5E73_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5EA6">
+          <Ligature components="uniFE00" glyph="uni5EA6_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5F0F">
+          <Ligature components="uniFE00" glyph="uni5F0F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5F15">
+          <Ligature components="uniFE00" glyph="uni5F15_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5F27">
+          <Ligature components="uniFE00" glyph="uni5F27_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5F62">
+          <Ligature components="uniFE00" glyph="uni5F62_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5FAA">
+          <Ligature components="uniFE00" glyph="uni5FAA_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5FAE">
+          <Ligature components="uniFE00" glyph="uni5FAE_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni5FC3">
+          <Ligature components="uniFE00" glyph="uni5FC3_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6210">
+          <Ligature components="uniFE00" glyph="uni6210_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni624B">
+          <Ligature components="uniFE00" glyph="uni624B_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6307">
+          <Ligature components="uniFE00" glyph="uni6307_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni653E">
+          <Ligature components="uniFE00" glyph="uni653E_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6570">
+          <Ligature components="uniFE00" glyph="uni6570_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6574">
+          <Ligature components="uniFE00" glyph="uni6574_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6587">
+          <Ligature components="uniFE00" glyph="uni6587_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni65AD">
+          <Ligature components="uniFE00" glyph="uni65AD_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni65B0">
+          <Ligature components="uniFE00" glyph="uni65B0_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni65B9">
+          <Ligature components="uniFE00" glyph="uni65B9_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni666E">
+          <Ligature components="uniFE00" glyph="uni666E_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni66F2">
+          <Ligature components="uniFE00" glyph="uni66F2_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni66F4">
+          <Ligature components="uniFE00" glyph="uni66F4_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6700">
+          <Ligature components="uniFE00" glyph="uni6700_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6709">
+          <Ligature components="uniFE00" glyph="uni6709_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni671F">
+          <Ligature components="uniFE00" glyph="uni671F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni672A">
+          <Ligature components="uniFE00" glyph="uni672A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni672C">
+          <Ligature components="uniFE00" glyph="uni672C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6790">
+          <Ligature components="uniFE00" glyph="uni6790_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni679A">
+          <Ligature components="uniFE00" glyph="uni679A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni679C">
+          <Ligature components="uniFE00" glyph="uni679C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6B21">
+          <Ligature components="uniFE00" glyph="uni6B21_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6B63">
+          <Ligature components="uniFE00" glyph="uni6B63_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6BD4">
+          <Ligature components="uniFE00" glyph="uni6BD4_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6C42">
+          <Ligature components="uniFE00" glyph="uni6C42_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6CD5">
+          <Ligature components="uniFE00" glyph="uni6CD5_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6D41">
+          <Ligature components="uniFE00" glyph="uni6D41_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni6E29">
+          <Ligature components="uniFE00" glyph="uni6E29_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni70B9">
+          <Ligature components="uniFE00" glyph="uni70B9_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7136">
+          <Ligature components="uniFE00" glyph="uni7136_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7167">
+          <Ligature components="uniFE00" glyph="uni7167_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7269">
+          <Ligature components="uniFE00" glyph="uni7269_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7387">
+          <Ligature components="uniFE00" glyph="uni7387_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7406">
+          <Ligature components="uniFE00" glyph="uni7406_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7528">
+          <Ligature components="uniFE00" glyph="uni7528_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7684">
+          <Ligature components="uniFE00" glyph="uni7684_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni76EE">
+          <Ligature components="uniFE00" glyph="uni76EE_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni76F4">
+          <Ligature components="uniFE00" glyph="uni76F4_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni76F8">
+          <Ligature components="uniFE00" glyph="uni76F8_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni78C1">
+          <Ligature components="uniFE00" glyph="uni78C1_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni793A">
+          <Ligature components="uniFE00" glyph="uni793A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni79D1">
+          <Ligature components="uniFE00" glyph="uni79D1_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni79D2">
+          <Ligature components="uniFE00" glyph="uni79D2_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7A0B">
+          <Ligature components="uniFE00" glyph="uni7A0B_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7A7A">
+          <Ligature components="uniFE00" glyph="uni7A7A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7ACB">
+          <Ligature components="uniFE00" glyph="uni7ACB_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7B49">
+          <Ligature components="uniFE00" glyph="uni7B49_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7B97">
+          <Ligature components="uniFE00" glyph="uni7B97_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7C98">
+          <Ligature components="uniFE00" glyph="uni7C98_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7D20">
+          <Ligature components="uniFE00" glyph="uni7D20_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7D2F">
+          <Ligature components="uniFE00" glyph="uni7D2F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni7F6E">
+          <Ligature components="uniFE00" glyph="uni7F6E_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni80FD">
+          <Ligature components="uniFE00" glyph="uni80FD_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni81EA">
+          <Ligature components="uniFE00" glyph="uni81EA_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni865A">
+          <Ligature components="uniFE00" glyph="uni865A_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni884C">
+          <Ligature components="uniFE00" glyph="uni884C_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni8868">
+          <Ligature components="uniFE00" glyph="uni8868_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni89D2">
+          <Ligature components="uniFE00" glyph="uni89D2_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni89E3">
+          <Ligature components="uniFE00" glyph="uni89E3_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni8A00">
+          <Ligature components="uniFE00" glyph="uni8A00_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni8D85">
+          <Ligature components="uniFE00" glyph="uni8D85_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni9006">
+          <Ligature components="uniFE00" glyph="uni9006_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni901F">
+          <Ligature components="uniFE00" glyph="uni901F_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni90E8">
+          <Ligature components="uniFE00" glyph="uni90E8_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni91CF">
+          <Ligature components="uniFE00" glyph="uni91CF_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni964D">
+          <Ligature components="uniFE00" glyph="uni964D_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni9650">
+          <Ligature components="uniFE00" glyph="uni9650_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni9664">
+          <Ligature components="uniFE00" glyph="uni9664_uniFE00"/>
+        </LigatureSet>
+        <LigatureSet glyph="uni9762">
+          <Ligature components="uniFE00" glyph="uni9762_uniFE00"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="3">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="triagup">
+          <Ligature components="triagdn" glyph="triangle.up.down"/>
+        </LigatureSet>
+        <LigatureSet glyph="trianglerightblack">
+          <Ligature components="triangleleftblack" glyph="triangle.left.right"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+  </LookupList>
+</GSUB>
+</OTLayout>

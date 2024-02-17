@@ -37,6 +37,7 @@ feature ss01 {
 # Stylistic Set 01–20
 
 #> feature
+  sub bar by bar.ss01;
   sub uni4E00 by uni4E00_uniFE00;
   sub uni4E0A by uni4E0A_uniFE00;
   sub uni4E0B by uni4E0B_uniFE00;

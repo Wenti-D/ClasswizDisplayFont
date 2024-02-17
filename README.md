@@ -10,6 +10,8 @@
 
 打包好的字体可以到 [Release 页面](https://github.com/Wenti-D/ClasswizDisplayFont/releases)获取。本文只是关于字体的一个粗略说明，而**压缩包内除字体外还有自述文件（`README.pdf` 之类的文档），使用前请一定、务必、绝对要认真、仔细、用心阅读！**
 
+如果觉得本项目对你有帮助，不妨点一下页面右上角的 ☆。
+
 ## 构建字体
 
 ### Display 部分

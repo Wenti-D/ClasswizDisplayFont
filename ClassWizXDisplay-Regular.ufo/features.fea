@@ -161,6 +161,7 @@ feature ss01 {
 # Stylistic Set 01–20
 
 #> feature
+  sub bar by bar.ss01;
   sub Abreve by Abreve_uniFE00;
   sub dcroat by dcroat_uniFE00;
   sub uni4E00 by uni4E00_uniFE00;
