@@ -22,43 +22,51 @@ Display 部分的字体源文件以[统一字体对象 3（UFO 3）](https://uni
 
 0. 安装 Python，以及 `pip`。
 1. 将本项目克隆到一个合适的位置。
-   
-        git clone https://github.com/Wenti-D/ClasswizDisplayFont
+    ```shell
+    git clone https://github.com/Wenti-D/ClasswizDisplayFont
+    ```
 
 2. 建议创建一个 Python 虚拟环境：
-   
-        python -m venv <your_venv_name>
+    ```shell
+    python -m venv <your_venv_name>
+    ```
     
     Windows 平台使用以下命令激活：
-
-        ./<your_venv_name>/Script/activate
+    ```batchfile
+    ./<your_venv_name>/Script/activate
+    ```
         
     Linux 平台使用以下命令激活：
-    
-        source <your_venv_name>/bin/activate
+    ```shell
+    source <your_venv_name>/bin/activate
+    ```
 
 3. 安装依赖：
-
-        python -m pip install -r requirements.txt
+    ```shell
+    python -m pip install -r requirements.txt
+    ```
 
 4. 构建字体：
 
     OTF 与 TTF 格式使用 `fontmake` 构建：
-        
-        fontmake -u ClassWizXDisplay-Regular.ufo --output-dir output
-        fontmake -u ClassWizCWDisplay-Regular.ufo --output-dir output
+    ```shell
+    fontmake -u ClassWizXDisplay-Regular.ufo --output-dir output
+    fontmake -u ClassWizCWDisplay-Regular.ufo --output-dir output
+    ```
 
     WOFF2 格式使用 `fonttools` 构建，可以使用 Python 脚本（推荐）：
-        
-        # python script
-        from fontTools.ttLib.woff2 import compress
-        compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
-        compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
+    ```python
+    # python script
+    from fontTools.ttLib.woff2 import compress
+    compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
+    compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')
+    ```
     
     或者 Shell 命令（不推荐）：
-        
-        python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')"
-        python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizCWDisplay-Regular.otf', 'output/ClassWizCWDisplay-Regular.woff2')"
+    ```shell
+    python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizXDisplay-Regular.otf', 'output/ClassWizXDisplay-Regular.woff2')"
+    python -c "from fontTools.ttLib.woff2 import compress; compress('output/ClassWizCWDisplay-Regular.otf', 'output/ClassWizCWDisplay-Regular.woff2')"
+    ```
 
     构建好的字体将会位于 `output` 文件夹内。
 
