@@ -548,6 +548,8 @@
   <string>blackL_argeS_quare.glif</string>
   <key>bo-kata</key>
   <string>bo-kata.glif</string>
+  <key>box.superior</key>
+  <string>box.superior.glif</string>
   <key>braceleft</key>
   <string>braceleft.glif</string>
   <key>braceright</key>
@@ -624,6 +626,8 @@
   <string>degree.glif</string>
   <key>di-kata</key>
   <string>di-kata.glif</string>
+  <key>diethree</key>
+  <string>diethree.glif</string>
   <key>dietwo</key>
   <string>dietwo.glif</string>
   <key>div</key>
@@ -646,6 +650,8 @@
   <string>dollar.glif</string>
   <key>dotmath</key>
   <string>dotmath.glif</string>
+  <key>dottedbold</key>
+  <string>dottedbold.glif</string>
   <key>down-tag</key>
   <string>down-tag.glif</string>
   <key>du-hira</key>
@@ -1208,8 +1214,12 @@
   <string>so-kata.glif</string>
   <key>softcyr</key>
   <string>softcyr.glif</string>
+  <key>solidbold</key>
+  <string>solidbold.glif</string>
   <key>space</key>
   <string>space.glif</string>
+  <key>squaredRisingDiagonalSlash</key>
+  <string>squaredR_isingD_iagonalS_lash.glif</string>
   <key>squarewhite</key>
   <string>squarewhite.glif</string>
   <key>store</key>

@@ -22,7 +22,7 @@
       <point x="0" y="30" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="40" type="line"/>
+      <point x="80" y="30" type="line"/>
       <point x="80" y="10" type="line"/>
       <point x="90" y="10" type="line"/>
       <point x="90" y="0" type="line"/>
@@ -37,7 +37,7 @@
       <point x="80" y="110" type="line"/>
       <point x="80" y="90" type="line"/>
       <point x="70" y="90" type="line"/>
-      <point x="70" y="40" type="line"/>
+      <point x="70" y="30" type="line"/>
     </contour>
   </outline>
 </glyph>

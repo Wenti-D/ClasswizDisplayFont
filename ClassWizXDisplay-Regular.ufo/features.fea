@@ -5,6 +5,29 @@ languagesystem cyrl dflt;
 languagesystem hani dflt;
 languagesystem kana dflt;
 #< languagesystem
+
+lookup CALTH_SUB {
+  sub c by Calth-gk;
+  sub a by cAlth-gk;
+  sub h by caltH-gk;
+} CALTH_SUB;
+
+lookup CALTH_LIGS {
+  sub l t by caLTh-gk;
+  sub slash parenleft by calth-gk;
+  sub g asterisk by calth-Gk;
+  sub K parenright by calth-gK;
+} CALTH_LIGS;
+
+lookup KGK_SUB {
+  sub k by Kgk;
+} KGK_SUB;
+
+lookup KGK_LIGS {
+  sub slash parenleft by kgk;
+  sub g asterisk by kGk;
+  sub K parenright by kgK;
+} KGK_LIGS;
 feature aalt {
 # Access All Alternates
 
@@ -312,5 +335,22 @@ feature ss01 {
   sub degree by dms;
   sub underscore by cursor.replace;
   sub slash by div;
+  sub trianglerightblack by to;
 #< feature
 } ss01;
+feature calt {
+# Contextual Alternates
+
+#> feature
+  sub c' lookup CALTH_SUB a' lookup CALTH_SUB l' lookup CALTH_LIGS t' h slash;
+  sub caLTh-gk h' lookup CALTH_SUB slash;
+  sub caltH-gk slash' lookup CALTH_LIGS parenleft' g asterisk K parenright;
+  sub calth-gk g' lookup CALTH_LIGS asterisk' K parenright;
+  sub calth-Gk K' lookup CALTH_LIGS parenright';
+  sub J slash' lookup KGK_LIGS parenleft' k g asterisk K parenright;
+  sub kgk k' lookup KGK_SUB g asterisk K parenright;
+  sub Kgk g' lookup KGK_LIGS asterisk' K parenright;
+  sub kGk K' lookup KGK_LIGS parenright';
+  sub [kgK calth-gK] trianglerightblack' by to;
+#< feature
+} calt;
