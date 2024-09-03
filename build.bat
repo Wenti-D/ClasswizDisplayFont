@@ -86,7 +86,7 @@ echo.
 
 :show_error
 for /f %%f in ("error.log") do set size=%%~zf
-if %size% equ 0 goto :end_failed
+if %size% equ 0 goto :end_failed_no_error
 echo.
 echo ########################################
 echo # error.log:
