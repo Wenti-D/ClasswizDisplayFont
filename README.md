@@ -13,6 +13,8 @@
 - CW Display 最新版为 v3.005，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.005-cw)下载；
 - Math X/CW 最新版为 v1.002，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/math-v1.002-x-cw)下载。
 
+或者也可以去[这个百度网盘链接](https://pan.baidu.com/s/1RTV937bFgziHeb68XEXQYw?pwd=swfw)下载。
+
 本文只是关于字体的一个粗略说明，而**压缩包内除字体外还有自述文件（`README.pdf` 之类的文档），使用前请一定、务必、绝对要认真、仔细、用心阅读！**
 
 如果觉得本项目对你有帮助，不妨点一下页面右上角的 ☆。
