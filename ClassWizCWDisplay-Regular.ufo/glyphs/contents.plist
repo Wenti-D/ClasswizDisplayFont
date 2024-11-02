@@ -622,6 +622,8 @@
   <string>decyr.glif</string>
   <key>deg-mode</key>
   <string>deg-mode.glif</string>
+  <key>deg-mode.graphlight</key>
+  <string>deg-mode.graphlight.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
   <key>di-kata</key>
@@ -712,6 +714,8 @@
   <string>encyr.glif</string>
   <key>engineer-sym</key>
   <string>engineer-sym.glif</string>
+  <key>engineer-sym.graphlight</key>
+  <string>engineer-sym.graphlight.glif</string>
   <key>eogonek</key>
   <string>eogonek.glif</string>
   <key>epsilonitalic</key>
@@ -758,6 +762,8 @@
   <string>four.inferior.glif</string>
   <key>four.superior</key>
   <string>four.superior.glif</string>
+  <key>fx.graphlight</key>
+  <string>fx.graphlight.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>ga-hira</key>
@@ -782,6 +788,8 @@
   <string>go-hira.glif</string>
   <key>go-kata</key>
   <string>go-kata.glif</string>
+  <key>gra-mode.graphlight</key>
+  <string>gra-mode.graphlight.glif</string>
   <key>grad-mod</key>
   <string>grad-mod.glif</string>
   <key>greater</key>
@@ -792,6 +800,8 @@
   <string>gu-hira.glif</string>
   <key>gu-kata</key>
   <string>gu-kata.glif</string>
+  <key>gx.graphlight</key>
+  <string>gx.graphlight.glif</string>
   <key>h</key>
   <string>h.glif</string>
   <key>ha-hira</key>
@@ -1136,6 +1146,8 @@
   <string>racute.glif</string>
   <key>rad-mode</key>
   <string>rad-mode.glif</string>
+  <key>rad-mode.graphlight</key>
+  <string>rad-mode.graphlight.glif</string>
   <key>radical</key>
   <string>radical.glif</string>
   <key>rcaron</key>
@@ -1192,6 +1204,8 @@
   <string>shchacyr.glif</string>
   <key>shift-tag</key>
   <string>shift-tag.glif</string>
+  <key>shift-tag.graphlight</key>
+  <string>shift-tag.graphlight.glif</string>
   <key>si-hira</key>
   <string>si-hira.glif</string>
   <key>si-kata</key>

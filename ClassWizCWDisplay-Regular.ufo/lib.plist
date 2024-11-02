@@ -1388,6 +1388,13 @@
     <string>solidbold</string>
     <string>dottedbold</string>
     <string>box.superior</string>
+    <string>shift-tag.graphlight</string>
+    <string>deg-mode.graphlight</string>
+    <string>rad-mode.graphlight</string>
+    <string>gra-mode.graphlight</string>
+    <string>engineer-sym.graphlight</string>
+    <string>fx.graphlight</string>
+    <string>gx.graphlight</string>
   </array>
 </dict>
 </plist>

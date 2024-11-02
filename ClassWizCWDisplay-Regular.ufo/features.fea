@@ -222,6 +222,8 @@ feature ss01 {
   sub [BOX squarewhite whiteLargeSquare] by box.superior;
 #< feature
 } ss01;
+
+
 feature ccmp {
 # Glyph Composition/Decomposition
 
