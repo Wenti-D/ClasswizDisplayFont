@@ -1,7 +1,7 @@
-Copyright (c) 2020-2024, Windy Deng (windy0deng@gmail.com),
+Copyright (c) 2020-2025, Windy Deng (windy0deng@gmail.com),
 with Reserved Font Name "ClassWiz X Display", "ClassWiz CW Display,
 "ClassWiz Math X" and "ClassWiz Math CW",
-Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).
+Copyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
