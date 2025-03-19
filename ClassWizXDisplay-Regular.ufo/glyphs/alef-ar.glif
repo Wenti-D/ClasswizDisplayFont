@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar" format="2">
+  <advance width="20"/>
+  <unicode hex="0627"/>
+  <outline>
+    <contour>
+      <point x="10" y="30" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="20" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sad-ar.init" format="2">
+  <advance width="90"/>
+  <unicode hex="FEBB"/>
+  <outline>
+    <contour>
+      <point x="80" y="40" type="line"/>
+      <point x="90" y="40" type="line"/>
+      <point x="90" y="70" type="line"/>
+      <point x="80" y="70" type="line"/>
+      <point x="80" y="80" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="70" type="line"/>
+      <point x="50" y="70" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="80" y="50" type="line"/>
+      <point x="50" y="50" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="30" y="50" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="0" y="30" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="30" y="40" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="80" y="30" type="line"/>
+    </contour>
+  </outline>
+</glyph>

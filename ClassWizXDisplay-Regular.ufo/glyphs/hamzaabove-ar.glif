@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaabove-ar" format="2">
+  <advance width="30"/>
+  <unicode hex="0654"/>
+  <outline>
+    <contour>
+      <point x="10" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+      <point x="0" y="80" type="line"/>
+      <point x="10" y="80" type="line"/>
+      <point x="10" y="70" type="line"/>
+      <point x="0" y="70" type="line"/>
+      <point x="0" y="60" type="line"/>
+      <point x="20" y="60" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="10" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="90" type="line"/>
+      <point x="30" y="90" type="line"/>
+      <point x="30" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

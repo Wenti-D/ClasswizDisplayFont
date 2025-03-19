@@ -7,8 +7,8 @@
   <key>capHeight</key>
   <integer>120</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2020-2024, Windy Deng (windy0deng@gmail.com),
-Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</string>
+  <string>Copyright (c) 2020-2025, Windy Deng (windy0deng@gmail.com),
+Copyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).</string>
   <key>descender</key>
   <integer>-10</integer>
   <key>familyName</key>
@@ -43,7 +43,7 @@ Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</stri
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/09/02 07:04:07</string>
+  <string>2025/03/19 13:39:40</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -62,9 +62,9 @@ Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</stri
   <key>openTypeNameDesignerURL</key>
   <string>https://www.casio.com/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2020-2024, Windy Deng (windy0deng@gmail.com),
+  <string>Copyright (c) 2020-2025, Windy Deng (windy0deng@gmail.com),
 with Reserved Font Name &quot;ClassWiz X Display&quot;.
-Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).
+Copyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -164,12 +164,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.004</string>
+  <string>Version 3.005</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>1</integer>
     <integer>2</integer>
+    <integer>6</integer>
     <integer>17</integer>
     <integer>18</integer>
     <integer>30</integer>
@@ -226,6 +227,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>1</integer>
     <integer>2</integer>
     <integer>9</integer>
+    <integer>13</integer>
     <integer>29</integer>
     <integer>32</integer>
     <integer>48</integer>
@@ -233,6 +235,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <integer>50</integer>
     <integer>59</integer>
     <integer>60</integer>
+    <integer>67</integer>
   </array>
   <key>openTypeOS2WeightClass</key>
   <integer>400</integer>
@@ -280,7 +283,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>4</integer>
+  <integer>5</integer>
   <key>xHeight</key>
   <integer>90</integer>
 </dict>

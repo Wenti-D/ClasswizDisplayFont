@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen-ar.isol" format="2">
+  <advance width="130"/>
+  <unicode hex="FEB1"/>
+  <outline>
+    <component base="seen-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>seen-ar</string>
+  </dict>
+  </lib>
+</glyph>

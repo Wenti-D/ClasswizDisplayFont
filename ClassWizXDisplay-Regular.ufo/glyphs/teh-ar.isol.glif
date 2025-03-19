@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="teh-ar.isol" format="2">
+  <advance width="90"/>
+  <unicode hex="FE95"/>
+  <outline>
+    <component base="teh-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>teh-ar</string>
+  </dict>
+  </lib>
+</glyph>

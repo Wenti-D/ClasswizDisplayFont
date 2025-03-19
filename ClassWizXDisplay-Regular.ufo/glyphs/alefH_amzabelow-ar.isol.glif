@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzabelow-ar.isol" format="2">
+  <advance width="40"/>
+  <unicode hex="FE87"/>
+  <outline>
+    <component base="alef-ar" xOffset="10"/>
+    <component base="hamzabelow-ar" xOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alefHamzabelow-ar</string>
+  </dict>
+  </lib>
+</glyph>

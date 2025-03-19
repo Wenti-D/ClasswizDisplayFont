@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="waw-ar.isol" format="2">
+  <advance width="70"/>
+  <unicode hex="FEED"/>
+  <outline>
+    <component base="waw-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>waw-ar</string>
+  </dict>
+  </lib>
+</glyph>

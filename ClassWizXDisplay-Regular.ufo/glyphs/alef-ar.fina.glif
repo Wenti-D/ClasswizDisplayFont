@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alef-ar.fina" format="2">
+  <advance width="40"/>
+  <unicode hex="FE8E"/>
+  <outline>
+    <contour>
+      <point x="10" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="20" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alef-ar</string>
+  </dict>
+  </lib>
+</glyph>

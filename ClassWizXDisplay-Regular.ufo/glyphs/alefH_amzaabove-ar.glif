@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzaabove-ar" format="2">
+  <advance width="40"/>
+  <unicode hex="0623"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="10" yOffset="10"/>
+    <contour>
+      <point x="20" y="30" type="line"/>
+      <point x="30" y="30" type="line"/>
+      <point x="30" y="90" type="line"/>
+      <point x="20" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>afii57415+uni0654</string>
+  </dict>
+  </lib>
+</glyph>

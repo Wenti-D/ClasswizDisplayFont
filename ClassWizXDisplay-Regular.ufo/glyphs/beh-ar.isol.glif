@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beh-ar.isol" format="2">
+  <advance width="90"/>
+  <unicode hex="FE8F"/>
+  <outline>
+    <component base="beh-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>beh-ar</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.fina" format="2">
+  <advance width="110"/>
+  <unicode hex="FEDA"/>
+  <outline>
+    <component base="kaf-ar"/>
+    <contour>
+      <point x="90" y="30" type="line"/>
+      <point x="110" y="30" type="line"/>
+      <point x="110" y="50" type="line"/>
+      <point x="90" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kaf-ar</string>
+  </dict>
+  </lib>
+</glyph>

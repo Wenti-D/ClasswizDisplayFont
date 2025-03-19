@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ain-ar.isol" format="2">
+  <advance width="70"/>
+  <unicode hex="FEC9"/>
+  <outline>
+    <component base="ain-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ain-ar</string>
+  </dict>
+  </lib>
+</glyph>

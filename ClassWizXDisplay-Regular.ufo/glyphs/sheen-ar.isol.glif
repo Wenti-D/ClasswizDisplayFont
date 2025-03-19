@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheen-ar.isol" format="2">
+  <advance width="130"/>
+  <unicode hex="FEB5"/>
+  <outline>
+    <component base="sheen-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>sheen-ar</string>
+  </dict>
+  </lib>
+</glyph>

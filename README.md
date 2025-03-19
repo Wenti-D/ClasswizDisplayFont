@@ -9,7 +9,7 @@
 字体分为四部分：X Display、CW Display、Math X 与 Math CW。带有「Display」的字体用作普通文本，提供 OTF、TTF 与 WOFF2（自 v3.001 起）格式；带有「Math」的字体由 Opentype MATH 表强力驱动，用作数学公式输入，仅提供 OTF 格式。
 
 所有版本的字体打包可以到 [Release 页面](https://github.com/Wenti-D/ClasswizDisplayFont/releases)获取，其中：
-- X Display 最新版为 v3.004，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.004-x-cw)下载；
+- X Display 最新版为 v3.005，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.005-x)下载；
 - CW Display 最新版为 v3.006，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.006-cw)下载；
 - Math X/CW 最新版为 v1.002，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/math-v1.002-x-cw)下载。
 

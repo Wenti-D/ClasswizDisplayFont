@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeh-ar.isol" format="2">
+  <advance width="90"/>
+  <unicode hex="FEF1"/>
+  <outline>
+    <component base="yeh-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>yeh-ar</string>
+  </dict>
+  </lib>
+</glyph>

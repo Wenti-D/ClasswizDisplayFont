@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khah-ar.isol" format="2">
+  <advance width="70"/>
+  <unicode hex="FEA5"/>
+  <outline>
+    <component base="khah-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>khah-ar</string>
+  </dict>
+  </lib>
+</glyph>

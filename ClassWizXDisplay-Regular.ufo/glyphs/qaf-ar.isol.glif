@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qaf-ar.isol" format="2">
+  <advance width="110"/>
+  <unicode hex="FED5"/>
+  <outline>
+    <component base="qaf-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>qaf-ar</string>
+  </dict>
+  </lib>
+</glyph>

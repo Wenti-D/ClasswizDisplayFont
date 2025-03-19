@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="madda-ar" format="2">
+  <advance width="40"/>
+  <unicode hex="0653"/>
+  <outline>
+    <contour>
+      <point x="0" y="80" type="line"/>
+      <point x="10" y="80" type="line"/>
+      <point x="10" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="90" type="line"/>
+      <point x="40" y="90" type="line"/>
+      <point x="40" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

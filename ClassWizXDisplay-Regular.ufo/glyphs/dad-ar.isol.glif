@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-ar.isol" format="2">
+  <advance width="140"/>
+  <unicode hex="FEBD"/>
+  <outline>
+    <component base="dad-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dad-ar</string>
+  </dict>
+  </lib>
+</glyph>

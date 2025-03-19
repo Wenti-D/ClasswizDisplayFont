@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="damma-ar" format="2">
+  <advance width="10"/>
+  <unicode hex="064F"/>
+  <outline>
+    <contour>
+      <point x="10" y="110" type="line"/>
+      <point x="20" y="110" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="10" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="120" type="line"/>
+      <point x="10" y="120" type="line"/>
+      <point x="10" y="130" type="line"/>
+      <point x="0" y="130" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="110" type="line"/>
+      <point x="0" y="110" type="line"/>
+      <point x="0" y="120" type="line"/>
+      <point x="-10" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="100" type="line"/>
+      <point x="10" y="100" type="line"/>
+      <point x="10" y="110" type="line"/>
+      <point x="0" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="90" type="line"/>
+      <point x="0" y="90" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="-10" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

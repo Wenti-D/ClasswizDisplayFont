@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefHamzaabove-ar.fina" format="2">
+  <advance width="40"/>
+  <unicode hex="FE84"/>
+  <outline>
+    <component base="hamzaabove-ar" yOffset="20"/>
+    <contour>
+      <point x="10" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="20" y="90" type="line"/>
+      <point x="10" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alefHamzaabove-ar</string>
+  </dict>
+  </lib>
+</glyph>

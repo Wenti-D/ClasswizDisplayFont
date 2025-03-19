@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theh-ar.isol" format="2">
+  <advance width="90"/>
+  <unicode hex="FE99"/>
+  <outline>
+    <component base="theh-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>theh-ar</string>
+  </dict>
+  </lib>
+</glyph>

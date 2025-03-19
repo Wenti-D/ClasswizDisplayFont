@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.isol" format="2">
+  <advance width="90"/>
+  <unicode hex="FED9"/>
+  <outline>
+    <component base="kaf-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kaf-ar</string>
+  </dict>
+  </lib>
+</glyph>

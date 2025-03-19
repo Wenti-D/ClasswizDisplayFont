@@ -1,6 +1,13 @@
+#> classes
+#/> otclasses
+@arab = [question-ar hamza-ar alefMadda-ar alefHamzaabove-ar alefHamzabelow-ar yehHamzaabove-ar alef-ar beh-ar tehMarbuta-ar teh-ar theh-ar jeem-ar hah-ar khah-ar dal-ar thal-ar reh-ar zain-ar seen-ar sheen-ar sad-ar dad-ar tah-ar zah-ar ain-ar ghain-ar feh-ar qaf-ar kaf-ar lam-ar meem-ar noon-ar heh-ar waw-ar alefMaksura-ar yeh-ar damma-ar madda-ar hamzaabove-ar hamzabelow-ar alefMadda-ar.isol alefMadda-ar.fina alefHamzaabove-ar.fina yehHamzaabove-ar.fina yehHamzaabove-ar.init yehHamzaabove-ar.medi alef-ar.isol alef-ar.fina beh-ar.isol beh-ar.fina beh-ar.init beh-ar.medi tehMarbuta-ar.isol tehMarbuta-ar.fina teh-ar.isol teh-ar.fina teh-ar.init teh-ar.medi theh-ar.isol theh-ar.fina theh-ar.init theh-ar.medi jeem-ar.isol jeem-ar.fina jeem-ar.init jeem-ar.medi hah-ar.isol hah-ar.fina hah-ar.init hah-ar.medi khah-ar.isol khah-ar.fina khah-ar.init khah-ar.medi dal-ar.isol dal-ar.fina thal-ar.isol thal-ar.fina reh-ar.isol reh-ar.fina zain-ar.isol zain-ar.fina seen-ar.isol seen-ar.fina seen-ar.init seen-ar.medi sheen-ar.isol sheen-ar.fina sheen-ar.init sheen-ar.medi sad-ar.isol sad-ar.fina sad-ar.init sad-ar.medi dad-ar.isol dad-ar.fina dad-ar.init dad-ar.medi tah-ar.isol tah-ar.fina tah-ar.init tah-ar.medi zah-ar.isol zah-ar.fina zah-ar.init zah-ar.medi ain-ar.isol ain-ar.fina ain-ar.init ain-ar.medi ghain-ar.isol ghain-ar.fina ghain-ar.init ghain-ar.medi feh-ar.isol feh-ar.fina feh-ar.init feh-ar.medi qaf-ar.isol qaf-ar.fina qaf-ar.init qaf-ar.medi kaf-ar.isol kaf-ar.fina kaf-ar.init kaf-ar.medi lam-ar.isol lam-ar.fina lam-ar.init lam-ar.medi meem-ar.isol meem-ar.fina meem-ar.init meem-ar.medi noon-ar.isol noon-ar.fina noon-ar.init noon-ar.medi heh-ar.isol heh-ar.fina heh-ar.init heh-ar.medi waw-ar.isol waw-ar.fina alefMaksura-ar.isol alefMaksura-ar.fina yeh-ar.isol yeh-ar.fina yeh-ar.init yeh-ar.medi lam_alefHamzaabove-ar lam_alefHamzabelow-ar alefHamzaabove-ar.isol alefHamzabelow-ar.fina alefHamzabelow-ar.isol lam_alef-ar lam_alefMadda-ar yehHamzaabove-ar.isol];
+#/< otclasses
+#< classes
+
 #> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem arab dflt;
 languagesystem cyrl dflt;
 languagesystem hani dflt;
 languagesystem kana dflt;
@@ -33,6 +40,9 @@ feature aalt {
 
 #> feature
   feature ss01;
+  feature salt;
+  feature subs;
+  feature sups;
 #< feature
 } aalt;
 feature ccmp {
@@ -178,6 +188,14 @@ feature ccmp {
   sub uni9650 uniFE00 by uni9650_uniFE00;
   sub uni9664 uniFE00 by uni9664_uniFE00;
   sub uni9762 uniFE00 by uni9762_uniFE00;
+
+  sub alef-ar hamzaabove-ar by alefHamzaabove-ar;
+  sub alef-ar hamzabelow-ar by alefHamzabelow-ar;
+  sub lam-ar alef-ar by lam_alef-ar;
+  sub lam-ar alefHamzabelow-ar by lam_alefHamzabelow-ar;
+  sub lam-ar alefHamzaabove-ar by lam_alefHamzaabove-ar;
+  sub lam-ar alefMadda-ar by lam_alefMadda-ar;
+  sub yeh-ar hamzaabove-ar by yehHamzaabove-ar;
 #< feature
 } ccmp;
 feature ss01 {
@@ -352,5 +370,162 @@ feature calt {
   sub Kgk g' lookup KGK_LIGS asterisk' K parenright;
   sub kGk K' lookup KGK_LIGS parenright';
   sub [kgK calth-gK] trianglerightblack' by to;
+  sub @arab space' @arab by space.arab;
 #< feature
 } calt;
+feature init {
+# Initial Forms
+
+  script arab;
+  lookupflag RightToLeft IgnoreMarks;
+
+#> feature
+  sub ain-ar by ain-ar.init;
+  sub beh-ar by beh-ar.init;
+  sub dad-ar by dad-ar.init;
+  sub feh-ar by feh-ar.init;
+  sub ghain-ar by ghain-ar.init;
+  sub hah-ar by hah-ar.init;
+  sub heh-ar by heh-ar.init;
+  sub jeem-ar by jeem-ar.init;
+  sub kaf-ar by kaf-ar.init;
+  sub khah-ar by khah-ar.init;
+  sub lam-ar by lam-ar.init;
+  sub meem-ar by meem-ar.init;
+  sub noon-ar by noon-ar.init;
+  sub qaf-ar by qaf-ar.init;
+  sub sad-ar by sad-ar.init;
+  sub seen-ar by seen-ar.init;
+  sub sheen-ar by sheen-ar.init;
+  sub tah-ar by tah-ar.init;
+  sub teh-ar by teh-ar.init;
+  sub theh-ar by theh-ar.init;
+  sub yeh-ar by yeh-ar.init;
+  sub yehHamzaabove-ar by yehHamzaabove-ar.init;
+  sub zah-ar by zah-ar.init;
+#< feature
+} init;
+feature medi {
+# Medial Forms
+
+  script arab;
+  lookupflag RightToLeft IgnoreMarks;
+
+#> feature
+  sub ain-ar by ain-ar.medi;
+  sub beh-ar by beh-ar.medi;
+  sub dad-ar by dad-ar.medi;
+  sub feh-ar by feh-ar.medi;
+  sub ghain-ar by ghain-ar.medi;
+  sub hah-ar by hah-ar.medi;
+  sub heh-ar by heh-ar.medi;
+  sub jeem-ar by jeem-ar.medi;
+  sub kaf-ar by kaf-ar.medi;
+  sub khah-ar by khah-ar.medi;
+  sub lam-ar by lam-ar.medi;
+  sub meem-ar by meem-ar.medi;
+  sub noon-ar by noon-ar.medi;
+  sub qaf-ar by qaf-ar.medi;
+  sub sad-ar by sad-ar.medi;
+  sub seen-ar by seen-ar.medi;
+  sub sheen-ar by sheen-ar.medi;
+  sub tah-ar by tah-ar.medi;
+  sub teh-ar by teh-ar.medi;
+  sub theh-ar by theh-ar.medi;
+  sub yeh-ar by yeh-ar.medi;
+  sub yehHamzaabove-ar by yehHamzaabove-ar.medi;
+  sub zah-ar by zah-ar.medi;
+#< feature
+} medi;
+feature fina {
+# Terminal Forms
+
+  script arab;
+  lookupflag RightToLeft IgnoreMarks;
+
+#> feature
+  sub ain-ar by ain-ar.fina;
+  sub alef-ar by alef-ar.fina;
+  sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
+  sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
+  sub alefMadda-ar by alefMadda-ar.fina;
+  sub alefMaksura-ar by alefMaksura-ar.fina;
+  sub beh-ar by beh-ar.fina;
+  sub dad-ar by dad-ar.fina;
+  sub dal-ar by dal-ar.fina;
+  sub feh-ar by feh-ar.fina;
+  sub ghain-ar by ghain-ar.fina;
+  sub hah-ar by hah-ar.fina;
+  sub heh-ar by heh-ar.fina;
+  sub jeem-ar by jeem-ar.fina;
+  sub kaf-ar by kaf-ar.fina;
+  sub khah-ar by khah-ar.fina;
+  sub lam-ar by lam-ar.fina;
+  sub meem-ar by meem-ar.fina;
+  sub noon-ar by noon-ar.fina;
+  sub qaf-ar by qaf-ar.fina;
+  sub reh-ar by reh-ar.fina;
+  sub sad-ar by sad-ar.fina;
+  sub seen-ar by seen-ar.fina;
+  sub sheen-ar by sheen-ar.fina;
+  sub tah-ar by tah-ar.fina;
+  sub teh-ar by teh-ar.fina;
+  sub tehMarbuta-ar by tehMarbuta-ar.fina;
+  sub thal-ar by thal-ar.fina;
+  sub theh-ar by theh-ar.fina;
+  sub waw-ar by waw-ar.fina;
+  sub yeh-ar by yeh-ar.fina;
+  sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
+  sub zah-ar by zah-ar.fina;
+  sub zain-ar by zain-ar.fina;
+#< feature
+} fina;
+feature salt {
+# Stylistic Alternates
+
+#> feature
+  sub bar from [bar.ss01];
+  sub ideographicperiod from [ideographicperiod.ss01];
+  sub times.small from [times.small.2];
+#< feature
+} salt;
+feature subs {
+# Subscript
+
+#> feature
+  sub eight by eight.inferior;
+  sub five by five.inferior;
+  sub four by four.inferior;
+  sub minus by minus.one.inferior;
+  sub nine by nine.inferior;
+  sub one by one.inferior;
+  sub parenleft by parenleft.inferior;
+  sub parenright by parenright.inferior;
+  sub seven by seven.inferior;
+  sub six by six.inferior;
+  sub three by three.inferior;
+  sub two by two.inferior;
+  sub zero by zero.inferior;
+#< feature
+} subs;
+feature sups {
+# Superscript
+
+#> feature
+  sub eight by eight.superior;
+  sub five by five.superior;
+  sub four by four.superior;
+  sub g by gmod;
+  sub minus by minus.one.superior;
+  sub n by n.superior;
+  sub nine by nine.superior;
+  sub one by onesuperior;
+  sub r by rsupmod;
+  sub seven by seven.superior;
+  sub six by six.superior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+  sub x by x.itc.superior;
+  sub zero by zero.superior;
+#< feature
+} sups;

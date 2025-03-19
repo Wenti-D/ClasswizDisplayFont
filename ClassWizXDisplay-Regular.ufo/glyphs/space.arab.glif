@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space.arab" format="2">
+  <advance width="40"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heh-ar" format="2">
+  <advance width="50"/>
+  <unicode hex="0647"/>
+  <outline>
+    <contour>
+      <point x="20" y="30" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="50" y="40" type="line"/>
+      <point x="50" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="20" y="80" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="30" y="70" type="line"/>
+      <point x="30" y="60" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="20" y="70" type="line"/>
+      <point x="10" y="70" type="line"/>
+      <point x="10" y="40" type="line"/>
+      <point x="20" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>

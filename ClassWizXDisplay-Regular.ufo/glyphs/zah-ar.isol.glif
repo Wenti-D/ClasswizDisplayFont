@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zah-ar.isol" format="2">
+  <advance width="80"/>
+  <unicode hex="FEC5"/>
+  <outline>
+    <component base="zah-ar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>zah-ar</string>
+  </dict>
+  </lib>
+</glyph>

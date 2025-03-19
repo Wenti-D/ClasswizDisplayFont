@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam-ar.init" format="2">
+  <advance width="30"/>
+  <unicode hex="FEDF"/>
+  <outline>
+    <contour>
+      <point x="0" y="30" type="line"/>
+      <point x="20" y="30" type="line"/>
+      <point x="20" y="40" type="line"/>
+      <point x="30" y="40" type="line"/>
+      <point x="30" y="100" type="line"/>
+      <point x="20" y="100" type="line"/>
+      <point x="20" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>lam-ar</string>
+  </dict>
+  </lib>
+</glyph>

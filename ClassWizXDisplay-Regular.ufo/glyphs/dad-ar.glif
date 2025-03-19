@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dad-ar" format="2">
+  <advance width="140"/>
+  <unicode hex="0636"/>
+  <outline>
+    <component base="sad-ar"/>
+    <contour>
+      <point x="110" y="90" type="line"/>
+      <point x="120" y="90" type="line"/>
+      <point x="120" y="100" type="line"/>
+      <point x="110" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

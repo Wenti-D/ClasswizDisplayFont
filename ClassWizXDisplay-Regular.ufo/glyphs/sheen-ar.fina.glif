@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheen-ar.fina" format="2">
+  <advance width="140"/>
+  <unicode hex="FEB6"/>
+  <outline>
+    <component base="sheen-ar"/>
+    <contour>
+      <point x="130" y="30" type="line"/>
+      <point x="140" y="30" type="line"/>
+      <point x="140" y="50" type="line"/>
+      <point x="130" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>sheen-ar</string>
+  </dict>
+  </lib>
+</glyph>

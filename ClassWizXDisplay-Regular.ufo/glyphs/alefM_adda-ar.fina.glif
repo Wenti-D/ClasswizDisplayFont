@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMadda-ar.fina" format="2">
+  <advance width="60"/>
+  <unicode hex="FE82"/>
+  <outline>
+    <component base="madda-ar" xOffset="10" yOffset="10"/>
+    <contour>
+      <point x="30" y="40" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="60" y="30" type="line"/>
+      <point x="60" y="50" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="40" y="100" type="line"/>
+      <point x="30" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alefMadda-ar</string>
+  </dict>
+  </lib>
+</glyph>

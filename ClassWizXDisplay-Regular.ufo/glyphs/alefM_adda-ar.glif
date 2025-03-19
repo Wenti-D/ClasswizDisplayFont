@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefMadda-ar" format="2">
+  <advance width="50"/>
+  <unicode hex="0622"/>
+  <outline>
+    <component base="alef-ar" xOffset="20"/>
+    <component base="madda-ar" xOffset="10" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>alef-ar+uni0653</string>
+  </dict>
+  </lib>
+</glyph>
