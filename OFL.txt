@@ -1,5 +1,5 @@
 Copyright (c) 2020-2025, Windy Deng (windy0deng@gmail.com),
-with Reserved Font Name "ClassWiz X Display", "ClassWiz CW Display,
+with Reserved Font Name "ClassWiz X Display", "ClassWiz CW Display",
 "ClassWiz Math X" and "ClassWiz Math CW",
 Copyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).
 
