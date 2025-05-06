@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1688717740
-ModificationTime: 1730535342
+ModificationTime: 1746514758
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -128,7 +128,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1751 17 10
+WinInfo: 0 17 10
 BeginPrivate: 7
 BlueValues 19 [0 0 90 90 120 120]
 OtherBlues 9 [-10 -10]
@@ -1790,9 +1790,9 @@ EndChar
 
 StartChar: H
 Encoding: 42 72 43
-Width: 104
+Width: 110
 GlyphClass: 2
-Flags: W
+Flags: WO
 HStem: 0 21G<10 30 70 90> 50 20<30 70> 100 20G<10 30 70 90>
 VStem: 10 20<0 50 70 120> 70 20<0 50 70 120>
 LayerCount: 2
@@ -1812,7 +1812,6 @@ SplineSet
  30 0 l 1
  10 0 l 1
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" H.ssty H.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" H.ssty H.ssty2
 EndChar

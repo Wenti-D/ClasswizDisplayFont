@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1688717740
-ModificationTime: 1727539104
+ModificationTime: 1746514715
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -128,7 +128,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1751 17 10
+WinInfo: 782 17 10
 BeginPrivate: 7
 BlueValues 19 [0 0 90 90 120 120]
 OtherBlues 9 [-10 -10]
@@ -42566,7 +42566,7 @@ Width: 110
 GlyphClass: 2
 Flags: W
 HStem: -10 10<30 40> 0 10<10 20> 20 20<60 70> 40 20<70 80> 60 30<20 30 80 90> 80 10<10 20 40 50 70 80 90 100> 110 10<10 100>
-VStem: 10 20<0 10> 20 20<70 80> 30 20<50 60> 39 31<20 40> 40 20<0 10> 50 10<10 20> 70 10<40 60> 80 10<60 80>
+VStem: 10 20<0 10> 20 20<70 80> 30 20<50 60> 40 30<20 40> 40 20<0 10> 50 10<10 20> 70 10<40 60> 80 10<60 80>
 LayerCount: 2
 Fore
 SplineSet
@@ -42580,8 +42580,8 @@ SplineSet
  40 10 l 1x4310
  50 10 l 1
  50 20 l 1x6208
- 39 20 l 1x6220
- 39 40 l 1x1220
+ 40 20 l 1x6220
+ 40 40 l 1x1220
  30 40 l 1x1240
  30 60 l 1x0a40
  20 60 l 1x0a80
@@ -42621,7 +42621,6 @@ SplineSet
  10 120 l 1x03
  100 120 l 1
 EndSplineSet
-Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" y.bar.ssty y.bar.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" y.bar.ssty y.bar.ssty2
 EndChar
@@ -42630,9 +42629,9 @@ StartChar: uniE00B
 Encoding: 863 57355 659
 Width: 110
 GlyphClass: 2
-Flags: W
+Flags: WO
 HStem: -10 10<30 40> 0 10<10 20> 20 10<60 70> 30 20<70 80> 60 20<20 30> 70 10<10 20 40 50 70 80 90 100>
-VStem: 10 20<0 10> 20 20<60 70> 30 20<40 60> 39 21<30 40> 40 20<0 10> 50 10<10 20> 70 10<30 50> 80 10<50 70>
+VStem: 10 20<0 10> 20 20<60 70> 30 20<40 60> 40 20<0 10 30 40> 50 10<10 20> 70 10<30 50> 80 10<50 70>
 LayerCount: 2
 Fore
 SplineSet
@@ -42640,42 +42639,42 @@ SplineSet
  10 80 l 1x06
  50 80 l 1
  50 70 l 1
- 40 70 l 1x0510
- 40 60 l 1x0910
+ 40 70 l 1x0520
+ 40 60 l 1x0920
  50 60 l 1
  50 40 l 1x0880
  60 40 l 1
  60 30 l 1
- 70 30 l 1x2848
+ 70 30 l 1x2850
  70 50 l 1
- 80 50 l 1x1048
- 80 70 l 1x1404
+ 80 50 l 1x1050
+ 80 70 l 1x1408
  70 70 l 1
- 70 80 l 1x1408
+ 70 80 l 1x1410
  100 80 l 1
  100 70 l 1
  90 70 l 1
- 90 50 l 1x1404
+ 90 50 l 1x1408
  80 50 l 1
- 80 30 l 1x1408
+ 80 30 l 1x1410
  70 30 l 1
  70 20 l 1
- 60 20 l 1x2018
- 60 0 l 1x6020
- 50 0 l 1x6010
+ 60 20 l 1x2030
+ 60 0 l 1x6040
+ 50 0 l 1x6020
  50 -10 l 1
- 20 -10 l 1x8110
- 20 0 l 1x4110
+ 20 -10 l 1x8120
+ 20 0 l 1x4120
  10 0 l 1
- 10 4 10 10 10 10 c 1
+ 10 10 l 1
  30 10 l 1x42
  30 0 l 1
- 40 0 l 1x8220
- 40 10 l 1x4220
+ 40 0 l 1x8240
+ 40 10 l 1x4240
  50 10 l 1
- 50 20 l 1x6010
- 39 20 l 1
- 39 40 l 1x6040
+ 50 20 l 1x6020
+ 40 20 l 1
+ 40 40 l 1x6040
  30 40 l 1
  30 60 l 1x6880
  20 60 l 1x69
@@ -42684,22 +42683,21 @@ SplineSet
 20 100 m 1x01
  20 90 l 1x01
  40 90 l 1
- 40 100 l 1x0020
+ 40 100 l 1x0040
  60 100 l 1
  60 90 l 1
  80 90 l 1
- 80 100 l 1x0014
+ 80 100 l 1x0028
  70 100 l 1
  70 110 l 1
  60 110 l 1
- 60 120 l 1x0018
+ 60 120 l 1x0030
  40 120 l 1
- 40 110 l 1x0020
+ 40 110 l 1x0040
  30 110 l 1
  30 100 l 1x0080
  20 100 l 1x01
 EndSplineSet
-Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" y.hat.ssty y.hat.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" y.hat.ssty y.hat.ssty2
 EndChar
