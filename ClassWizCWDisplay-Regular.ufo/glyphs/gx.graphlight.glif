@@ -152,4 +152,5 @@
       <point x="205" y="64" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="183"/>
 </glyph>

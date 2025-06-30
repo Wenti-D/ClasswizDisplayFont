@@ -28,8 +28,8 @@
     <contour>
       <point x="20" y="50" type="line"/>
       <point x="90" y="50" type="line"/>
-      <point x="90" y="21" type="line"/>
-      <point x="20" y="21" type="line"/>
+      <point x="90" y="20" type="line"/>
+      <point x="20" y="20" type="line"/>
     </contour>
     <contour>
       <point x="90" y="80" type="line"/>

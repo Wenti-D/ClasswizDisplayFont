@@ -13,8 +13,8 @@
       <point x="30" y="0" type="line"/>
       <point x="30" y="10" type="line"/>
       <point x="50" y="10" type="line"/>
-      <point x="50" y="81" type="line"/>
-      <point x="30" y="81" type="line"/>
+      <point x="50" y="80" type="line"/>
+      <point x="30" y="80" type="line"/>
       <point x="30" y="40" type="line"/>
       <point x="20" y="40" type="line"/>
       <point x="20" y="10" type="line"/>
@@ -25,8 +25,8 @@
       <point x="10" y="10" type="line"/>
       <point x="10" y="40" type="line"/>
       <point x="20" y="40" type="line"/>
-      <point x="20" y="81" type="line"/>
-      <point x="0" y="81" type="line"/>
+      <point x="20" y="80" type="line"/>
+      <point x="0" y="80" type="line"/>
     </contour>
     <contour>
       <point x="70" y="10" type="line"/>

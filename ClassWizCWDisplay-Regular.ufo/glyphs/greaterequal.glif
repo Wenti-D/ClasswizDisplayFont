@@ -36,8 +36,8 @@
       <point x="80" y="50" type="line"/>
       <point x="60" y="50" type="line"/>
       <point x="60" y="40" type="line"/>
-      <point x="38" y="40" type="line"/>
-      <point x="38" y="30" type="line"/>
+      <point x="40" y="40" type="line"/>
+      <point x="40" y="30" type="line"/>
     </contour>
   </outline>
 </glyph>

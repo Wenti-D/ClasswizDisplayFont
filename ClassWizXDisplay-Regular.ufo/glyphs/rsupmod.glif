@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="10" y="120" type="line"/>
-      <point x="10" y="111" type="line"/>
-      <point x="20" y="111" type="line"/>
+      <point x="10" y="110" type="line"/>
+      <point x="20" y="110" type="line"/>
       <point x="20" y="70" type="line"/>
       <point x="10" y="70" type="line"/>
       <point x="10" y="60" type="line"/>

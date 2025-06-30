@@ -3,7 +3,7 @@
   <advance width="90"/>
   <unicode hex="0643"/>
   <outline>
-    <component base="hamzaabove-ar" xOffset="35" yOffset="-10"/>
+    <component base="hamzaabove-ar" xOffset="40" yOffset="-10"/>
     <contour>
       <point x="20" y="10" type="line"/>
       <point x="80" y="10" type="line"/>
@@ -19,4 +19,6 @@
       <point x="20" y="20" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="126"/>
+  <guideline angle="90" x="-123" y="0"/>
 </glyph>
