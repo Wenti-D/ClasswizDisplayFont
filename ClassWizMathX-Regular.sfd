@@ -3,8 +3,8 @@ FontName: ClassWizMathX-Regular
 FullName: ClassWiz Math X Regular
 FamilyName: ClassWiz Math X
 Weight: Regular
-Copyright: Copyright (c) 2023-2024, Windy Deng (windy0deng@gmail.com),\nCopyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).
-Version: Version 1.002
+Copyright: Copyright (c) 2023-2025, Windy Deng (windy0deng@gmail.com),\nCopyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).
+Version: Version 1.003
 ItalicAngle: 0
 UnderlinePosition: -21
 UnderlineWidth: 8
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1688717740
-ModificationTime: 1746514715
+ModificationTime: 1751269577
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -64,7 +64,7 @@ Lookup: 1 0 0 "'ss01' Style Set 1 lookup 3" { "'ss01' Style Set 1 lookup 3 subta
 Lookup: 3 0 0 "'ssty' Math Script Style lookup 4" { "'ssty' Math Script Style lookup 4 subtable"  } ['ssty' ('DFLT' <'dflt' > 'hani' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "Version 1.002;;ClassWizMathX-Regular" "" "Version 1.002" "" "CLASSWIZ is a trademark of CASIO Computer Co., Ltd." "" "CASIO COMPUTER CO., LTD." "Font created by Windy_D" "" "" "Copyright (c) 2023-2024, Windy Deng (windy0deng@gmail.com),+AAoA-with Reserved Font Name +ACIA-ClassWiz Math X+ACIA.+AAoA-Copyright (c) 2014-2024, CASIO Computer Co., Ltd (https://www.casio.com/).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-https://openfontlicense.org+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded,+AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "https://openfontlicense.org/"
+LangName: 1033 "" "" "" "Version 1.003;;ClassWizMathX-Regular" "" "Version 1.003" "" "CLASSWIZ is a trademark of CASIO Computer Co., Ltd." "" "CASIO COMPUTER CO., LTD." "Font created by Windy_D" "" "" "Copyright (c) 2023-2025, Windy Deng (windy0deng@gmail.com),+AAoA-with Reserved Font Name +ACIA-ClassWiz Math X+ACIA.+AAoA-Copyright (c) 2014-2025, CASIO Computer Co., Ltd (https://www.casio.com/).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-https://openfontlicense.org+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded,+AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "https://openfontlicense.org/"
 MATH:ScriptPercentScaleDown: 99
 MATH:ScriptScriptPercentScaleDown: 99
 MATH:DelimitedSubFormulaMinHeight: 400
@@ -128,7 +128,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 782 17 10
+WinInfo: 323 17 10
 BeginPrivate: 7
 BlueValues 19 [0 0 90 90 120 120]
 OtherBlues 9 [-10 -10]
@@ -2143,44 +2143,43 @@ EndChar
 StartChar: H
 Encoding: 42 72 43
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<0 10 30 40 60 70 90 100> 60 10<30 70> 110 10<0 10 30 40 60 70 90 100>
-VStem: 10 20<10 60 70 110> 70 20<10 60 70.8 110>
 LayerCount: 2
 Fore
 SplineSet
-10 110 m 1
- 0 110 l 1
- 0 120 l 1
- 40 120 l 1
- 40 110 l 1
- 30 110 l 1
- 30 70 l 1
- 71 70 l 1
- 70 110 l 1
- 60 110 l 1
- 60 120 l 1
- 100 120 l 1
- 100 110 l 1
- 90 110 l 1
- 90 10 l 1
- 100 10 l 1
- 100 0 l 1
- 60 0 l 1
- 60 10 l 1
- 70 10 l 1
- 70 60 l 1
- 30 60 l 1
- 30 10 l 1
- 40 10 l 1
- 40 0 l 1
- 0 0 l 1
- 0 10 l 1
- 10 10 l 1
- 10 110 l 1
+10 110 m 257
+ 10 10 l 257
+ 0 10 l 257
+ 0 0 l 257
+ 40 0 l 257
+ 40 10 l 257
+ 30 10 l 257
+ 30 60 l 257
+ 70 60 l 257
+ 70 10 l 257
+ 60 10 l 257
+ 60 0 l 257
+ 100 0 l 257
+ 100 10 l 257
+ 90 10 l 257
+ 90 110 l 257
+ 100 110 l 257
+ 100 120 l 257
+ 60 120 l 257
+ 60 110 l 257
+ 70 110 l 257
+ 70 70 l 257
+ 30 70 l 257
+ 30 110 l 257
+ 40 110 l 257
+ 40 120 l 257
+ 0 120 l 257
+ 0 110 l 257
+ 10 110 l 257
 EndSplineSet
-Validated: 1
+Validated: 9
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" H.ssty H.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" H.ssty H.ssty2
 EndChar
@@ -8785,36 +8784,35 @@ EndChar
 StartChar: uni02B3
 Encoding: 239 691 172
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 60 10<10 20 40 50> 100 10<40 50 70 80> 110 10<50 60> 111 9<10 20>
-VStem: 20 20<70 100 110 111> 60 20<100 110>
 LayerCount: 2
 Fore
 SplineSet
-10 120 m 1xdc
- 40 120 l 1
- 40 110 l 1
- 50 110 l 1xdc
- 50 120 l 1xac
- 70 120 l 1
- 70 110 l 1
- 80 110 l 1
- 80 100 l 1
- 60 100 l 1xdc
- 60 110 l 1xac
- 50 110 l 1
- 50 100 l 1
- 40 100 l 1
- 40 70 l 1
- 50 70 l 1
- 50 60 l 1
- 10 60 l 1
- 10 70 l 1
- 20 70 l 1
- 20 111 l 1
- 10 111 l 1
- 10 120 l 1xdc
+10 120 m 257
+ 10 110 l 257
+ 20 110 l 257
+ 20 70 l 257
+ 10 70 l 257
+ 10 60 l 257
+ 50 60 l 257
+ 50 70 l 257
+ 40 70 l 257
+ 40 100 l 257
+ 50 100 l 257
+ 50 110 l 257
+ 60 110 l 257
+ 60 100 l 257
+ 80 100 l 257
+ 80 110 l 257
+ 70 110 l 257
+ 70 120 l 257
+ 50 120 l 257
+ 50 110 l 257
+ 40 110 l 257
+ 40 120 l 257
+ 10 120 l 257
 EndSplineSet
 Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" rsupmod.ssty rsupmod.ssty2
@@ -11258,36 +11256,37 @@ EndChar
 StartChar: uni2075
 Encoding: 419 8309 215
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 50 10<30 60> 60 10<10 20> 80 20<20 30> 90 10<30 60> 110 10<20 80>
-VStem: 10 20<60 70 80 90> 10 10<100 110> 60 21<60 90>
+VStem: 10 20<60 70 80 90> 10 10<100 110> 60 20<60 90>
 LayerCount: 2
 Fore
 SplineSet
-10 60 m 1x4d
- 10 70 l 1
- 30 70 l 1x4d
- 30 60 l 1
- 60 60 l 1
- 60 90 l 1
- 30 90 l 1x9d
- 30 80 l 1
- 10 80 l 1x2d
- 10 120 l 1
- 80 120 l 1
- 80 110 l 1
- 20 110 l 1
- 20 100 l 1x2b
- 70 100 l 1
- 70 90 l 1
- 81 90 l 1
- 81 60 l 1
- 70 60 l 1x5b
- 70 50 l 1
- 20 50 l 1x8b
- 20 60 l 1x4b
- 10 60 l 1x4d
+10 70 m 257x4d
+ 30 70 l 257x4d
+ 30 60 l 257
+ 60 60 l 257
+ 60 90 l 257
+ 30 90 l 257x9d
+ 30 80 l 257
+ 10 80 l 257x2d
+ 10 120 l 257
+ 80 120 l 257
+ 80 110 l 257
+ 20 110 l 257
+ 20 100 l 257x2b
+ 70 100 l 257
+ 70 90 l 257
+ 80 90 l 257
+ 80 60 l 257
+ 70 60 l 257x5b
+ 70 50 l 257
+ 20 50 l 257x8b
+ 20 60 l 257x4b
+ 10 60 l 257
+ 10 70 l 257x4d
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" five.superior.ssty five.superior.ssty2
@@ -11664,36 +11663,37 @@ EndChar
 StartChar: uni2085
 Encoding: 429 8325 225
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: -10 10<30 60> 0 10<10 20> 20 20<20 30> 30 10<30 60> 50 10<20 80>
-VStem: 10 20<0 10 20 30> 10 10<40 50> 60 21<0 30>
+VStem: 10 20<0 10 20 30> 10 10<40 50> 60 20<0 30>
 LayerCount: 2
 Fore
 SplineSet
-70 -10 m 1x8b
- 20 -10 l 1x8b
- 20 0 l 1x4b
- 10 0 l 1
- 10 10 l 1
- 30 10 l 1x4d
- 30 0 l 1
- 60 0 l 1
- 60 30 l 1
- 30 30 l 1x9d
- 30 20 l 1
- 10 20 l 1x2d
- 10 60 l 1
- 80 60 l 1
- 80 50 l 1
- 20 50 l 1
- 20 40 l 1x2b
- 70 40 l 1
- 70 30 l 1
- 81 30 l 1
- 81 0 l 1
- 70 0 l 1x5b
- 70 -10 l 1x8b
+20 -10 m 257x8b
+ 20 0 l 257x4b
+ 10 0 l 257
+ 10 10 l 257
+ 30 10 l 257x4d
+ 30 0 l 257
+ 60 0 l 257
+ 60 30 l 257
+ 30 30 l 257x9d
+ 30 20 l 257
+ 10 20 l 257x2d
+ 10 60 l 257
+ 80 60 l 257
+ 80 50 l 257
+ 20 50 l 257
+ 20 40 l 257x2b
+ 70 40 l 257
+ 70 30 l 257
+ 80 30 l 257
+ 80 0 l 257
+ 70 0 l 257x5b
+ 70 -10 l 257
+ 20 -10 l 257x8b
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" five.inferior.ssty five.inferior.ssty2
@@ -12999,46 +12999,48 @@ EndChar
 StartChar: lessequal
 Encoding: 459 8804 255
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 30 20<80 100> 40 20<60 72> 50 20<40 50> 60 30<10 30> 80 20<40 50> 90 20<60 70> 100 20<80 100>
+HStem: 30 20<80 100> 40 20<60 70> 50 20<40 50> 60 30<10 30> 80 20<40 50> 90 20<60 70> 100 20<80 100>
+VStem: 70 30<30 40 110 120>
 LayerCount: 2
 Fore
 SplineSet
-10 20 m 1x00
- 10 0 l 1
- 100 0 l 1
- 100 20 l 1
- 10 20 l 1x00
-100 50 m 1x90
- 100 30 l 1
- 72 30 l 1x90
- 72 40 l 1
- 50 40 l 1x40
- 50 50 l 1
- 30 50 l 1x20
- 30 60 l 1
- 10 60 l 1
- 10 90 l 1
- 30 90 l 1
- 30 100 l 1x12
- 50 100 l 1x08
- 50 110 l 1
- 70 110 l 1x04
- 70 120 l 1
- 100 120 l 1
- 100 100 l 1
- 80 100 l 1x02
- 80 90 l 1
- 60 90 l 1x04
- 60 80 l 1
- 40 80 l 1
- 40 70 l 1
- 60 70 l 1x28
- 60 60 l 1x40
- 80 60 l 1
- 80 50 l 1
- 100 50 l 1x90
+10 0 m 257x01
+ 100 0 l 257
+ 100 20 l 257
+ 10 20 l 257
+ 10 0 l 257x01
+100 30 m 257x91
+ 70 30 l 257x91
+ 70 40 l 257
+ 50 40 l 257x41
+ 50 50 l 257
+ 30 50 l 257x21
+ 30 60 l 257
+ 10 60 l 257
+ 10 90 l 257
+ 30 90 l 257
+ 30 100 l 257x13
+ 50 100 l 257x09
+ 50 110 l 257
+ 70 110 l 257x05
+ 70 120 l 257
+ 100 120 l 257
+ 100 100 l 257
+ 80 100 l 257x03
+ 80 90 l 257
+ 60 90 l 257x05
+ 60 80 l 257
+ 40 80 l 257
+ 40 70 l 257
+ 60 70 l 257x29
+ 60 60 l 257x41
+ 80 60 l 257
+ 80 50 l 257
+ 100 50 l 257
+ 100 30 l 257x91
 EndSplineSet
 Validated: 9
 EndChar
@@ -13046,46 +13048,48 @@ EndChar
 StartChar: greaterequal
 Encoding: 460 8805 256
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 30 20<10 30> 40 20<38 50> 50 20<60 70> 60 30<80 100> 80 20<60 70> 90 20<40 50> 100 20<10 30>
+HStem: 30 20<10 30> 40 20<40 50> 50 20<60 70> 60 30<80 100> 80 20<60 70> 90 20<40 50> 100 20<10 30>
+VStem: 10 30<30 40 110 120>
 LayerCount: 2
 Fore
 SplineSet
-10 0 m 1x00
- 100 0 l 1
- 100 20 l 1
- 10 20 l 1
- 10 0 l 1x00
-38 30 m 1x80
- 10 30 l 1
- 10 50 l 1
- 30 50 l 1
- 30 60 l 1x90
- 50 60 l 1x40
- 50 70 l 1
- 70 70 l 1
- 70 80 l 1
- 50 80 l 1x28
- 50 90 l 1
- 30 90 l 1x04
- 30 100 l 1
- 10 100 l 1
- 10 120 l 1
- 40 120 l 1x02
- 40 110 l 1
- 60 110 l 1x04
- 60 100 l 1x08
- 80 100 l 1
- 80 90 l 1
- 100 90 l 1
- 100 60 l 1
- 80 60 l 1x12
- 80 50 l 1
- 60 50 l 1x20
- 60 40 l 1
- 38 40 l 1x40
- 38 30 l 1x80
+100 0 m 257x01
+ 100 20 l 257
+ 10 20 l 257
+ 10 0 l 257
+ 100 0 l 257x01
+10 30 m 257x81
+ 10 50 l 257
+ 30 50 l 257
+ 30 60 l 257x91
+ 50 60 l 257x41
+ 50 70 l 257
+ 70 70 l 257
+ 70 80 l 257
+ 50 80 l 257x29
+ 50 90 l 257
+ 30 90 l 257x05
+ 30 100 l 257
+ 10 100 l 257
+ 10 120 l 257
+ 40 120 l 257x03
+ 40 110 l 257
+ 60 110 l 257x05
+ 60 100 l 257x09
+ 80 100 l 257
+ 80 90 l 257
+ 100 90 l 257
+ 100 60 l 257
+ 80 60 l 257x13
+ 80 50 l 257
+ 60 50 l 257x21
+ 60 40 l 257
+ 40 40 l 257x41
+ 40 30 l 257
+ 10 30 l 257x81
 EndSplineSet
 Validated: 9
 EndChar
@@ -13289,12 +13293,12 @@ VStem: 30 10<60 70> 40 10<80 90> 50 20<30 70> 60 10<0 30 70 130> 70 10<130 190>
 LayerCount: 2
 Fore
 SplineSet
-70 130 m 1x82
- 70 190 l 1
- 80 190 l 1
- 80 130 l 1x81
- 70 130 l 1x82
-70 130 m 1xa2
+40 90 m 25xa8
+ 50 90 l 1xa8
+ 50 70 l 1xa4
+ 60 70 l 1
+ 60 130 l 1
+ 70 130 l 1
  70 0 l 1
  60 0 l 1
  60 30 l 1xa2
@@ -13305,13 +13309,12 @@ SplineSet
  30 60 l 1
  30 80 l 1xd4
  40 80 l 1xc8
- 40 83 l 0
- 40 90 l 1
- 50 90 l 1xa8
- 50 70 l 1xa4
- 60 70 l 1
- 60 130 l 1
- 70 130 l 1xa2
+ 40 90 l 25xa8
+70 130 m 1x82
+ 70 190 l 1
+ 80 190 l 1
+ 80 130 l 1x81
+ 70 130 l 1x82
 EndSplineSet
 Validated: 5
 EndChar
@@ -13762,28 +13765,28 @@ Encoding: 477 9650 273
 Width: 110
 GlyphClass: 2
 Flags: W
-HStem: 20 20<15 25 85 95>
-VStem: 45 20<80 100>
+HStem: 20 20<10 20 80 90>
+VStem: 40 20<80 100>
 LayerCount: 2
 Fore
 SplineSet
-25 40 m 1
- 25 60 l 1
- 35 60 l 1
- 35 80 l 1
- 45 80 l 1
- 45 100 l 1
- 65 100 l 1
- 65 80 l 1
- 75 80 l 1
- 75 60 l 1
- 85 60 l 1
- 85 40 l 1
- 95 40 l 1
- 95 20 l 1
- 15 20 l 1
- 15 40 l 1
- 25 40 l 1
+20 40 m 1
+ 20 60 l 1
+ 30 60 l 1
+ 30 80 l 1
+ 40 80 l 1
+ 40 100 l 1
+ 60 100 l 1
+ 60 80 l 1
+ 70 80 l 1
+ 70 60 l 1
+ 80 60 l 1
+ 80 40 l 1
+ 90 40 l 1
+ 90 20 l 1
+ 10 20 l 1
+ 10 40 l 1
+ 20 40 l 1
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" triagup.ssty triagup.ssty2
@@ -13903,28 +13906,28 @@ Encoding: 481 9660 277
 Width: 110
 GlyphClass: 2
 Flags: W
-HStem: 80 20<15 25 85 95>
-VStem: 45 20<20 40>
+HStem: 80 20<10 20 80 90>
+VStem: 40 20<20 40>
 LayerCount: 2
 Fore
 SplineSet
-25 80 m 1
- 15 80 l 1
- 15 100 l 1
- 95 100 l 1
- 95 80 l 1
- 85 80 l 1
- 85 60 l 1
- 75 60 l 1
- 75 40 l 1
- 65 40 l 1
- 65 20 l 1
- 45 20 l 1
- 45 40 l 1
- 35 40 l 1
- 35 60 l 1
- 25 60 l 1
- 25 80 l 1
+20 80 m 5
+ 10 80 l 5
+ 10 100 l 5
+ 90 100 l 5
+ 90 80 l 5
+ 80 80 l 5
+ 80 60 l 5
+ 70 60 l 5
+ 70 40 l 5
+ 60 40 l 5
+ 60 20 l 5
+ 40 20 l 5
+ 40 40 l 5
+ 30 40 l 5
+ 30 60 l 5
+ 20 60 l 5
+ 20 80 l 5
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" triagdn.ssty triagdn.ssty2
@@ -15238,52 +15241,51 @@ EndChar
 StartChar: uni306B
 Encoding: 506 12395 302
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 10 10<20 30> 20 10<50 100> 30 20<40 50> 50 10<50 60> 70 20G<10 20> 80 20<70 80> 90 10<50 70 80 90>
-VStem: 10 10<20 90> 20 10<10 20> 20 9<90 110> 40 10<30 50> 50 10<50 60> 70 10<80 90>
 LayerCount: 2
 Fore
 SplineSet
-20 90 m 1x0908
- 20 110 l 1
- 29 110 l 1
- 29 90 l 1x0248
- 20 90 l 1x0908
-50 90 m 1x0218
- 50 100 l 1
- 90 100 l 1
- 90 90 l 1
- 80 90 l 1x0218
- 80 80 l 1
- 70 80 l 1x0418
- 70 90 l 1
- 50 90 l 1x0218
-10 20 m 1x4108
- 10 90 l 1
- 20 90 l 1
- 20 20 l 1x8908
- 10 20 l 1x4108
-50 50 m 1x2028
- 50 60 l 1
- 60 60 l 1
- 60 50 l 1x1018
- 50 50 l 1x2028
-40 30 m 1x2028
- 40 50 l 1
- 50 50 l 1x2028
- 50 30 l 1x4028
- 40 30 l 1x2028
-50 20 m 1x4018
- 50 30 l 1x4028
- 100 30 l 1
- 100 20 l 1
- 50 20 l 1x4018
-20 10 m 1x8088
- 20 20 l 1x8108
- 30 20 l 1
- 30 10 l 1
- 20 10 l 1x8088
+20 90 m 257
+ 30 90 l 257
+ 30 110 l 257
+ 20 110 l 257
+ 20 90 l 257
+50 90 m 257
+ 70 90 l 257
+ 70 80 l 257
+ 80 80 l 257
+ 80 90 l 257
+ 90 90 l 257
+ 90 100 l 257
+ 50 100 l 257
+ 50 90 l 257
+10 20 m 257
+ 20 20 l 257
+ 20 90 l 257
+ 10 90 l 257
+ 10 20 l 257
+50 50 m 257
+ 60 50 l 257
+ 60 60 l 257
+ 50 60 l 257
+ 50 50 l 257
+40 30 m 257
+ 50 30 l 257
+ 50 50 l 257
+ 40 50 l 257
+ 40 30 l 257
+50 20 m 257
+ 100 20 l 257
+ 100 30 l 257
+ 50 30 l 257
+ 50 20 l 257
+20 10 m 257
+ 30 10 l 257
+ 30 20 l 257
+ 20 20 l 257
+ 20 10 l 257
 EndSplineSet
 Validated: 5
 EndChar
@@ -19116,85 +19118,86 @@ EndChar
 StartChar: uni5047
 Encoding: 577 20551 373
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: -1 11<100 111> 0 10<60 70> 10 10<70 80 90 100> 20 20<80 90> 30 10<50 70 90 100> 40 30<70 80 100 110> 60 10<50 70 80 100> 70 10<0 10> 80 10<50 61 80 100> 100 20<20 30> 110 10<50 61 80 100>
-VStem: 0 20<70 80> 10 10<0 70 80 100> 20 10<100 120> 40 10<0 30 40 60 70 80 90 110> 60 10<0 10> 61 9<90 110> 70 10<10 20 40 60> 80 10<20 30> 90 10<10 20> 100 11<-1 10> 100 10<40 60 90 110>
+HStem: 0 10<60 70 100 110> 10 10<70 80 90 100> 20 20<80 90> 30 10<50 70 90 100> 40 30<70 80 100 110> 60 10<50 70 80 100> 70 10<0 10> 80 10<50 60 80 100> 100 20<20 30> 110 10<50 60 80 100>
+VStem: 0 20<70 80> 10 10<0 70 80 100> 20 10<100 120> 40 10<0 30 40 60 70 80 90 110> 60 10<0 10 90 110> 70 10<10 20 40 60> 80 10<20 30> 90 10<10 20> 100 10<0 10 40 60 90 110>
 LayerCount: 2
 Fore
 SplineSet
-40 0 m 1x480240
- 40 120 l 1
- 70 120 l 1
- 70 80 l 1
- 50 80 l 1
- 50 70 l 1x4aa240
- 110 70 l 1
- 110 40 l 1x040244
- 100 40 l 1
- 100 30 l 1
- 90 30 l 1
- 90 20 l 1x280224
- 100 20 l 1x280210
- 100 10 l 1x800210
- 111 10 l 1
- 111 -1 l 1
- 100 -1 l 1x800208
- 100 10 l 1x800210
- 90 10 l 1x200210
- 90 20 l 1x200220
- 80 20 l 1
- 80 10 l 1x200240
- 70 10 l 1
- 70 0 l 1
- 60 0 l 1
- 60 10 l 1
- 70 10 l 1x4003
- 70 20 l 1
- 80 20 l 1x200240
- 80 40 l 1x100240
- 70 40 l 1
- 70 30 l 1
- 50 30 l 1
- 50 0 l 1
- 40 0 l 1x480240
-10 70 m 1x414a
- 0 70 l 1
- 0 80 l 1x4152
- 10 80 l 1
- 10 100 l 1
- 20 100 l 1x414a
- 20 120 l 1
- 30 120 l 1
- 30 100 l 1x4146
- 20 100 l 1
- 20 0 l 1
- 10 0 l 1
- 10 70 l 1x414a
-100 110 m 1x00a224
- 80 110 l 1
- 80 120 l 1
- 110 120 l 1
- 110 80 l 1
- 80 80 l 1
- 80 90 l 1
- 100 90 l 1
- 100 110 l 1x00a224
-50 60 m 1x0a0240
- 50 40 l 1
- 70 40 l 1
- 70 60 l 1
- 50 60 l 1x0a0240
-80 60 m 1
- 80 40 l 1x120244
- 100 40 l 1
- 100 60 l 1x0a0244
- 80 60 l 1
-50 110 m 1x00a280
- 50 90 l 1
- 61 90 l 1
- 61 110 l 1
- 50 110 l 1x00a280
+40 120 m 257x9045
+ 70 120 l 257
+ 70 80 l 257
+ 50 80 l 257
+ 50 70 l 257x9545
+ 110 70 l 257
+ 110 40 l 257x080520
+ 100 40 l 257
+ 100 30 l 257
+ 90 30 l 257
+ 90 20 l 257x5004a0
+ 100 20 l 257x500440
+ 100 10 l 257x800440
+ 110 10 l 257
+ 110 0 l 257
+ 100 0 l 257x800420
+ 100 10 l 257x800440
+ 90 10 l 257x400440
+ 90 20 l 257x400480
+ 80 20 l 257
+ 80 10 l 257x4005
+ 70 10 l 257
+ 70 0 l 257
+ 60 0 l 257
+ 60 10 l 257
+ 70 10 l 257x8006
+ 70 20 l 257
+ 80 20 l 257x4005
+ 80 40 l 257x2005
+ 70 40 l 257
+ 70 30 l 257
+ 50 30 l 257
+ 50 0 l 257
+ 40 0 l 257
+ 40 120 l 257x9045
+0 70 m 257x82a4
+ 0 80 l 257x82a4
+ 10 80 l 257
+ 10 100 l 257
+ 20 100 l 257x8294
+ 20 120 l 257
+ 30 120 l 257
+ 30 100 l 257x828c
+ 20 100 l 257
+ 20 0 l 257
+ 10 0 l 257
+ 10 70 l 257x8294
+ 0 70 l 257x82a4
+80 110 m 257x0144a0
+ 80 120 l 257
+ 110 120 l 257
+ 110 80 l 257
+ 80 80 l 257
+ 80 90 l 257
+ 100 90 l 257
+ 100 110 l 257
+ 80 110 l 257x0144a0
+50 40 m 257x1405
+ 70 40 l 257
+ 70 60 l 257
+ 50 60 l 257
+ 50 40 l 257x1405
+80 40 m 257x240520
+ 100 40 l 257x100520
+ 100 60 l 257
+ 80 60 l 257
+ 80 40 l 257x240520
+50 90 m 257x0146
+ 60 90 l 257
+ 60 110 l 257
+ 50 110 l 257
+ 50 90 l 257x0146
 EndSplineSet
 Validated: 5
 EndChar
@@ -20859,59 +20862,60 @@ EndChar
 StartChar: uni52A0
 Encoding: 601 21152 397
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<0 10 40 50> 10 10<30 40> 20 10<80 100> 81 9<0 20 30 50> 90 10<80 100> 100 20G<20 30>
-VStem: 0 10<0 10> 10 10<10 30> 20 10<30 81 90 120> 30 10<10 20> 40 10<0 10> 50 10<10 81> 70 10<10 20 30 90> 100 10<10 20 30 90>
+HStem: 0 10<0 10 40 50> 10 10<30 40> 20 10<80 100> 80 10<0 20 30 50> 90 10<80 100> 100 20G<20 30>
+VStem: 0 10<0 10> 10 10<10 30> 20 10<30 80 90 120> 30 10<10 20> 40 10<0 10> 50 10<10 80> 70 10<10 20 30 90> 100 10<10 20 30 90>
 LayerCount: 2
 Fore
 SplineSet
-0 81 m 1xb28c
- 0 90 l 1
- 20 90 l 1
- 20 120 l 1
- 30 120 l 1
- 30 90 l 1xb68c
- 60 90 l 1
- 60 10 l 1x4a9c
- 50 10 l 1x802c
- 50 81 l 1
- 30 81 l 1
- 30 30 l 1xb09c
- 20 30 l 1xb10c
- 20 10 l 1x410c
- 10 10 l 1
- 10 0 l 1
- 0 0 l 1
- 0 10 l 1
- 10 10 l 1x820c
- 10 30 l 1
- 20 30 l 1xa10c
- 20 81 l 1
- 0 81 l 1xb28c
-100 20 m 1
- 80 20 l 1x200c
- 80 10 l 1
- 70 10 l 1
- 70 100 l 1
- 110 100 l 1
- 110 10 l 1
- 100 10 l 1x440c
- 100 20 l 1
-100 90 m 1x280c
- 80 90 l 1
- 80 30 l 1
- 100 30 l 1
- 100 90 l 1x280c
-50 0 m 1x802c
- 40 0 l 1x802c
- 40 10 l 1x804c
- 30 10 l 1
- 30 20 l 1
- 40 20 l 1x404c
- 40 10 l 1x804c
- 50 10 l 1
- 50 0 l 1x802c
+0 90 m 257xb28c
+ 20 90 l 257
+ 20 120 l 257
+ 30 120 l 257
+ 30 90 l 257xb68c
+ 60 90 l 257
+ 60 10 l 257x4a9c
+ 50 10 l 257x802c
+ 50 80 l 257
+ 30 80 l 257
+ 30 30 l 257xb09c
+ 20 30 l 257xb10c
+ 20 10 l 257x410c
+ 10 10 l 257
+ 10 0 l 257
+ 0 0 l 257
+ 0 10 l 257
+ 10 10 l 257x820c
+ 10 30 l 257
+ 20 30 l 257xa10c
+ 20 80 l 257
+ 0 80 l 257
+ 0 90 l 257xb28c
+80 20 m 257
+ 80 10 l 257
+ 70 10 l 257
+ 70 100 l 257
+ 110 100 l 257
+ 110 10 l 257
+ 100 10 l 257x440c
+ 100 20 l 257
+ 80 20 l 257
+80 90 m 257x280c
+ 80 30 l 257
+ 100 30 l 257
+ 100 90 l 257
+ 80 90 l 257x280c
+40 0 m 257x802c
+ 40 10 l 257x804c
+ 30 10 l 257
+ 30 20 l 257
+ 40 20 l 257x404c
+ 40 10 l 257x804c
+ 50 10 l 257
+ 50 0 l 257
+ 40 0 l 257x802c
 EndSplineSet
 Validated: 5
 Substitution2: "'ss01' Style Set 1 lookup 3 subtable" uni52A0_uniFE00
@@ -24232,77 +24236,78 @@ EndChar
 StartChar: uni5BF9
 Encoding: 645 23545 441
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<80 90> 10 10<0 10 70 80> 20 20<10 20 40 50> 40 20<20 30 70 79> 40 10<30 40> 60 10<10 20 60 70> 70 10<0 10> 80 10<50 90 100 110> 100 20G<90 100> 100 10<0 40>
-VStem: 0 10<10 20 70 80> 10 10<20 40 60 70> 20 10<50 60> 30 10<60 80> 40 10<20 40 90 100> 60 10<60 70> 70 10<10 20> 70 9<40 60> 90 10<10 80 90 120>
+HStem: 0 10<80 90> 10 10<0 10 70 80> 20 20<10 20 40 50> 40 20<20 30 70 80> 40 10<30 40> 60 10<10 20 60 70> 70 10<0 10> 80 10<50 90 100 110> 100 20G<90 100> 100 10<0 40>
+VStem: 0 10<10 20 70 80> 10 10<20 40 60 70> 20 10<50 60> 30 10<60 80> 40 10<20 40 90 100> 60 10<60 70> 70 10<10 20 40 60> 90 10<10 80 90 120>
 LayerCount: 2
 Fore
 SplineSet
-10 10 m 1x402020
- 0 10 l 1
- 0 20 l 1
- 10 20 l 1x402020
- 10 40 l 1
- 20 40 l 1x201020
- 20 60 l 1x101020
- 10 60 l 1x041020
- 10 70 l 1x042020
- 0 70 l 1
- 0 80 l 1
- 10 80 l 1x022020
- 10 70 l 1x042020
- 20 70 l 1x041020
- 20 60 l 1x101020
- 30 60 l 1x100820
- 30 80 l 1
- 40 80 l 1x110420
- 40 100 l 1
- 0 100 l 1
- 0 110 l 1
- 50 110 l 1x116220
- 50 90 l 1
- 90 90 l 1
- 90 120 l 1
- 100 120 l 1
- 100 90 l 1
- 110 90 l 1
- 110 80 l 1
- 100 80 l 1
- 100 10 l 1x41a220
- 90 10 l 1
- 90 0 l 1
- 80 0 l 1
- 80 10 l 1x8022a0
- 70 10 l 1
- 70 20 l 1
- 80 20 l 1x4022a0
- 80 10 l 1
- 90 10 l 1
- 90 80 l 1
- 40 80 l 1
- 40 60 l 1x8504a0
- 30 60 l 1x100820
- 30 50 l 1
- 40 50 l 1x080a20
- 40 40 l 1
- 50 40 l 1
- 50 20 l 1
- 40 20 l 1
- 40 40 l 1
- 20 40 l 1
- 20 20 l 1x201220
- 10 20 l 1
- 10 10 l 1x402020
-70 60 m 1x100120
- 60 60 l 1
- 60 70 l 1
- 70 70 l 1x040120
- 70 60 l 1x100120
- 79 60 l 1
- 79 40 l 1
- 70 40 l 1x100060
- 70 60 l 1x100120
+0 10 m 257x402040
+ 0 20 l 257
+ 10 20 l 257x402040
+ 10 40 l 257
+ 20 40 l 257x201040
+ 20 60 l 257x101040
+ 10 60 l 257x041040
+ 10 70 l 257x042040
+ 0 70 l 257
+ 0 80 l 257
+ 10 80 l 257x022040
+ 10 70 l 257x042040
+ 20 70 l 257x041040
+ 20 60 l 257x101040
+ 30 60 l 257x100840
+ 30 80 l 257
+ 40 80 l 257x110440
+ 40 100 l 257
+ 0 100 l 257
+ 0 110 l 257
+ 50 110 l 257x116240
+ 50 90 l 257
+ 90 90 l 257
+ 90 120 l 257
+ 100 120 l 257
+ 100 90 l 257
+ 110 90 l 257
+ 110 80 l 257
+ 100 80 l 257
+ 100 10 l 257x41a240
+ 90 10 l 257
+ 90 0 l 257
+ 80 0 l 257
+ 80 10 l 257x8022c0
+ 70 10 l 257
+ 70 20 l 257
+ 80 20 l 257x4022c0
+ 80 10 l 257
+ 90 10 l 257
+ 90 80 l 257
+ 40 80 l 257
+ 40 60 l 257x8504c0
+ 30 60 l 257x100840
+ 30 50 l 257
+ 40 50 l 257x080a40
+ 40 40 l 257
+ 50 40 l 257
+ 50 20 l 257
+ 40 20 l 257
+ 40 40 l 257
+ 20 40 l 257
+ 20 20 l 257x201240
+ 10 20 l 257
+ 10 10 l 257
+ 0 10 l 257x402040
+60 60 m 257x040140
+ 60 70 l 257
+ 70 70 l 257x040140
+ 70 60 l 257x100140
+ 80 60 l 257
+ 80 40 l 257
+ 70 40 l 257x1000c0
+ 70 60 l 257x100140
+ 60 60 l 257x040140
 EndSplineSet
 Validated: 5
 EndChar
@@ -24495,55 +24500,56 @@ EndChar
 StartChar: uni5E03
 Encoding: 649 24067 445
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<60 70> 20 9<80 90> 40 10<0 10> 50 10<10 20> 60 10<20 30 40 60 70 90> 90 10<0 30 50 60 70 110> 100 20G<40 50>
-VStem: 0 10<40 50> 10 10<50 60> 30 10<20 60 70 90> 40 10<100 120> 60 10<0 60 70 90> 90 10<29 60>
+HStem: 0 21G<60 70> 20 10<80 90> 40 10<0 10> 50 10<10 20> 60 10<20 30 40 60 70 90> 90 10<0 30 50 60 70 110> 100 20G<40 50>
+VStem: 0 10<40 50> 10 10<50 60> 30 10<20 60 70 90> 40 10<100 120> 60 10<0 60 70 90> 80 20<20 30> 90 10<30 60>
 LayerCount: 2
 Fore
 SplineSet
-30 70 m 1x08d8
- 30 90 l 1
- 0 90 l 1
- 0 100 l 1x0d58
- 40 100 l 1
- 40 120 l 1
- 50 120 l 1x0338
- 50 100 l 1
- 110 100 l 1
- 110 90 l 1
- 70 90 l 1
- 70 70 l 1
- 100 70 l 1
- 100 20 l 1
- 80 20 l 1
- 80 29 l 1
- 90 29 l 1x4d38
- 90 60 l 1
- 70 60 l 1
- 70 0 l 1
- 60 0 l 1x8938
- 60 60 l 1
- 40 60 l 1
- 40 20 l 1
- 30 20 l 1
- 30 60 l 1x4858
- 20 60 l 1
- 20 50 l 1x10d8
- 10 50 l 1
- 10 40 l 1
- 0 40 l 1
- 0 50 l 1
- 10 50 l 1x2118
- 10 60 l 1
- 20 60 l 1x1098
- 20 70 l 1
- 30 70 l 1x08d8
-40 70 m 1
- 60 70 l 1
- 60 90 l 1
- 40 90 l 1
- 40 70 l 1
+30 90 m 257x0cd0
+ 0 90 l 257
+ 0 100 l 257x0d50
+ 40 100 l 257
+ 40 120 l 257
+ 50 120 l 257x0330
+ 50 100 l 257
+ 110 100 l 257
+ 110 90 l 257
+ 70 90 l 257
+ 70 70 l 257
+ 100 70 l 257x0d34
+ 100 20 l 257
+ 80 20 l 257
+ 80 30 l 257x4c18
+ 90 30 l 257x4c14
+ 90 60 l 257
+ 70 60 l 257
+ 70 0 l 257
+ 60 0 l 257x8814
+ 60 60 l 257
+ 40 60 l 257
+ 40 20 l 257
+ 30 20 l 257
+ 30 60 l 257x4854
+ 20 60 l 257
+ 20 50 l 257x10d4
+ 10 50 l 257
+ 10 40 l 257
+ 0 40 l 257
+ 0 50 l 257
+ 10 50 l 257x2110
+ 10 60 l 257
+ 20 60 l 257x1090
+ 20 70 l 257
+ 30 70 l 257
+ 30 90 l 257x0cd0
+60 70 m 257
+ 60 90 l 257
+ 40 90 l 257
+ 40 70 l 257
+ 60 70 l 257
 EndSplineSet
 Validated: 5
 EndChar
@@ -25598,103 +25604,104 @@ EndChar
 StartChar: uni6001
 Encoding: 664 24577 460
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<40 80> 10 10<0 10> 19 11<100 111> 20 20<10 20 60 70> 30 10<90 100> 40 10<50 60 80 90> 50 10<0 20 60 70 90 110> 60 10<20 30 50 60 80 90> 70 10<30 40 70 80> 80 20<40 50 60 70> 90 10<0 40 70 110> 100 20G<50 60>
-VStem: 0 10<10 20> 10 10<20 40> 20 10<60 70> 30 10<10 50 70 80> 40 10<80 90> 50 10<40 50 60 70 100 120> 60 10<20 40 50 60 80 90> 70 10<70 80> 80 10<10 20 40 50 60 70> 90 20<50 60> 90 10<30 40> 100 11<19 30>
+HStem: 0 10<40 80> 10 10<0 10> 20 10<100 110> 30 10<90 100> 40 10<50 60 80 90> 50 10<0 20 60 70 90 110> 60 10<20 30 50 60 80 90> 70 10<30 40 70 80> 80 20<40 50 60 70> 90 10<0 40 70 110> 100 20G<50 60>
+VStem: 0 10<10 20> 10 10<20 40> 20 10<60 70> 30 10<10 50 70 80> 40 10<80 90> 50 10<40 50 60 70 100 120> 60 10<20 40 50 60 80 90> 70 10<70 80> 80 10<10 20 40 50 60 70> 90 10<30 40> 100 10<20 30>
 LayerCount: 2
 Fore
 SplineSet
-20 60 m 1x0202
- 20 50 l 1
- 0 50 l 1
- 0 60 l 1
- 20 60 l 1x020a
- 20 70 l 1
- 30 70 l 1x010a
- 30 80 l 1
- 40 80 l 1x0081
- 40 90 l 1
- 0 90 l 1
- 0 100 l 1x00a880
- 50 100 l 1x004840
- 50 120 l 1
- 60 120 l 1x001840
- 60 100 l 1x004840
- 110 100 l 1
- 110 90 l 1
- 70 90 l 1
- 70 80 l 1x00a024
- 80 80 l 1x00a010
- 80 70 l 1x010010
- 90 70 l 1x010008
- 90 60 l 1x020008
- 110 60 l 1
- 110 50 l 1x020004
- 90 50 l 1x040008
- 90 40 l 1x080008
- 100 40 l 1x080002
- 100 30 l 1x200002
- 111 30 l 1
- 111 19 l 1
- 100 19 l 1x200001
- 100 30 l 1x200002
- 90 30 l 1x080002
- 90 40 l 1x080008
- 80 40 l 1
- 80 50 l 1
- 90 50 l 1x040008
- 90 60 l 1x020008
- 80 60 l 1x010008
- 80 70 l 1x010010
- 70 70 l 1x008010
- 70 80 l 1x008020
- 60 80 l 1x004020
- 60 90 l 1
- 50 90 l 1x0020a0
- 50 80 l 1x0040a0
- 40 80 l 1
- 40 70 l 1x0081
- 30 70 l 1
- 30 60 l 1x0102
- 20 60 l 1x0202
-30 10 m 1x4001
- 30 50 l 1
- 40 50 l 1
- 40 10 l 1
- 80 10 l 1
- 80 20 l 1
- 90 20 l 1x920108
- 90 0 l 1
- 40 0 l 1x920082
- 40 10 l 1x9201
- 30 10 l 1x4001
-50 40 m 1x040040
- 50 50 l 1
- 60 50 l 1x040040
- 60 60 l 1x020040
- 50 60 l 1
- 50 70 l 1
- 60 70 l 1x010040
- 60 60 l 1x020040
- 70 60 l 1
- 70 50 l 1x020020
- 60 50 l 1x040040
- 60 40 l 1x100040
- 70 40 l 1
- 70 20 l 1
- 60 20 l 1x100020
- 60 40 l 1x100040
- 50 40 l 1x040040
-10 10 m 1x4008
- 0 10 l 1
- 0 20 l 1
- 10 20 l 1x4008
- 10 40 l 1
- 20 40 l 1
- 20 20 l 1x1004
- 10 20 l 1
- 10 10 l 1x4008
+20 50 m 257x0404
+ 0 50 l 257
+ 0 60 l 257
+ 20 60 l 257x0414
+ 20 70 l 257
+ 30 70 l 257x0214
+ 30 80 l 257
+ 40 80 l 257x0102
+ 40 90 l 257
+ 0 90 l 257
+ 0 100 l 257x0151
+ 50 100 l 257x009080
+ 50 120 l 257
+ 60 120 l 257x003080
+ 60 100 l 257x009080
+ 110 100 l 257
+ 110 90 l 257
+ 70 90 l 257
+ 70 80 l 257x014044
+ 80 80 l 257x014020
+ 80 70 l 257x020020
+ 90 70 l 257x020010
+ 90 60 l 257
+ 110 60 l 257
+ 110 50 l 257x040014
+ 90 50 l 257x080014
+ 90 40 l 257x100014
+ 100 40 l 257x100008
+ 100 30 l 257x200008
+ 110 30 l 257
+ 110 20 l 257
+ 100 20 l 257x200004
+ 100 30 l 257x200008
+ 90 30 l 257x100008
+ 90 40 l 257x100010
+ 80 40 l 257
+ 80 50 l 257
+ 90 50 l 257x080010
+ 90 60 l 257x040010
+ 80 60 l 257x020010
+ 80 70 l 257x020020
+ 70 70 l 257x010020
+ 70 80 l 257x010040
+ 60 80 l 257x008040
+ 60 90 l 257
+ 50 90 l 257x004140
+ 50 80 l 257x008140
+ 40 80 l 257
+ 40 70 l 257x0102
+ 30 70 l 257
+ 30 60 l 257x0204
+ 20 60 l 257
+ 20 50 l 257x0404
+30 50 m 257x4402
+ 40 50 l 257
+ 40 10 l 257
+ 80 10 l 257
+ 80 20 l 257
+ 90 20 l 257xa40210
+ 90 0 l 257
+ 40 0 l 257xa40108
+ 40 10 l 257xa402
+ 30 10 l 257
+ 30 50 l 257x4402
+50 50 m 257x280080
+ 60 50 l 257x280080
+ 60 60 l 257x040080
+ 50 60 l 257
+ 50 70 l 257
+ 60 70 l 257x020080
+ 60 60 l 257x040080
+ 70 60 l 257
+ 70 50 l 257x040040
+ 60 50 l 257
+ 60 40 l 257x080080
+ 70 40 l 257
+ 70 20 l 257
+ 60 20 l 257x280040
+ 60 40 l 257
+ 50 40 l 257
+ 50 50 l 257x280080
+0 10 m 257x4010
+ 0 20 l 257
+ 10 20 l 257x4010
+ 10 40 l 257
+ 20 40 l 257
+ 20 20 l 257x2808
+ 10 20 l 257
+ 10 10 l 257
+ 0 10 l 257x4010
 EndSplineSet
 Validated: 5
 EndChar
@@ -27851,69 +27858,68 @@ EndChar
 StartChar: uni66F8
 Encoding: 694 26360 490
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<30 80> 20 10<30 80> 40 10<0 20 30 50 60 80 90 110> 59 11<20 50 60 80> 80 10<0 50 60 80 90 110> 100 20G<50 60> 100 10<20 50 60 80>
-VStem: 20 10<10 20 30 40> 50 10<50 59 70 80 90 100 110 120> 80 10<10 20 30 40 70 80 90 100>
-CounterMasks: 1 01c0
+HStem: 90 21G<60 80>
 LayerCount: 2
 Fore
 SplineSet
-60 70 m 1xf9c0
- 80 70 l 1
- 80 80 l 1
- 60 80 l 1
- 60 70 l 1xf9c0
-60 90 m 1
- 80 90 l 1
- 80 100 l 1xfbc0
- 60 100 l 1xfdc0
- 60 90 l 1
-30 30 m 1
- 80 30 l 1
- 80 40 l 1
- 30 40 l 1
- 30 30 l 1
-30 20 m 1
- 30 10 l 1
- 80 10 l 1
- 80 20 l 1
- 30 20 l 1
-0 80 m 1
- 0 90 l 1
- 50 90 l 1
- 50 100 l 1xfdc0
- 20 100 l 1
- 20 110 l 1
- 50 110 l 1xfbc0
- 50 120 l 1
- 60 120 l 1xfdc0
- 60 110 l 1
- 90 110 l 1
- 90 90 l 1
- 110 90 l 1
- 110 80 l 1
- 90 80 l 1
- 90 59 l 1
- 60 59 l 1
- 60 50 l 1
- 110 50 l 1
- 110 40 l 1
- 90 40 l 1
- 90 0 l 1
- 20 0 l 1
- 20 40 l 1
- 0 40 l 1
- 0 50 l 1
- 50 50 l 1
- 50 59 l 1
- 20 59 l 1
- 20 70 l 1
- 50 70 l 1
- 50 80 l 1
- 0 80 l 1
+60 70 m 257
+ 60 80 l 257
+ 80 80 l 257
+ 80 70 l 257
+ 60 70 l 257
+60 90 m 257
+ 60 100 l 257
+ 80 100 l 257
+ 80 90 l 257
+ 60 90 l 257
+30 30 m 257
+ 30 40 l 257
+ 80 40 l 257
+ 80 30 l 257
+ 30 30 l 257
+30 20 m 257
+ 80 20 l 257
+ 80 10 l 257
+ 30 10 l 257
+ 30 20 l 257
+0 80 m 257
+ 50 80 l 257
+ 50 70 l 257
+ 20 70 l 257
+ 20 60 l 257
+ 50 60 l 257
+ 50 50 l 257
+ 0 50 l 257
+ 0 40 l 257
+ 20 40 l 257
+ 20 0 l 257
+ 90 0 l 257
+ 90 40 l 257
+ 110 40 l 257
+ 110 50 l 257
+ 60 50 l 257
+ 60 60 l 257
+ 90 60 l 257
+ 90 80 l 257
+ 110 80 l 257
+ 110 90 l 257
+ 90 90 l 257
+ 90 110 l 257
+ 60 110 l 257
+ 60 120 l 257
+ 50 120 l 257
+ 50 110 l 257
+ 20 110 l 257
+ 20 100 l 257
+ 50 100 l 257
+ 50 90 l 257
+ 0 90 l 257
+ 0 80 l 257
 EndSplineSet
-Validated: 1
+Validated: 9
 EndChar
 
 StartChar: uni66FF
@@ -32385,44 +32391,43 @@ EndChar
 StartChar: uni767E
 Encoding: 743 30334 539
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<10 20 90 100> 10 11<20 90> 50 10<20 90> 80 20<30 40> 80 10<20 30 40 90> 100 20<40 50> 110 10<0 40 50 110>
-VStem: 10 10<0 10 21 50 60 80> 30 10<90 100> 40 10<100 110> 90 10<0 10 21 50 60 80>
 LayerCount: 2
 Fore
 SplineSet
-40 110 m 1x3360
- 0 110 l 1
- 0 120 l 1
- 110 120 l 1
- 110 110 l 1
- 50 110 l 1x3360
- 50 100 l 1x2560
- 40 100 l 1x31a0
- 40 90 l 1
- 100 90 l 1
- 100 0 l 1
- 90 0 l 1xa9a0
- 90 10 l 1
- 20 10 l 1x61a0
- 20 0 l 1
- 10 0 l 1
- 10 90 l 1
- 30 90 l 1xa9a0
- 30 100 l 1
- 40 100 l 1x31a0
- 40 110 l 1x3360
-20 50 m 1
- 20 21 l 1
- 90 21 l 1xa120
- 90 50 l 1
- 20 50 l 1
-90 80 m 1x2920
- 20 80 l 1
- 20 60 l 1
- 90 60 l 1
- 90 80 l 1x2920
+40 110 m 257
+ 40 100 l 257
+ 30 100 l 257
+ 30 90 l 257
+ 10 90 l 257
+ 10 0 l 257
+ 20 0 l 257
+ 20 10 l 257
+ 90 10 l 257
+ 90 0 l 257
+ 100 0 l 257
+ 100 90 l 257
+ 40 90 l 257
+ 40 100 l 257
+ 50 100 l 257
+ 50 110 l 257
+ 110 110 l 257
+ 110 120 l 257
+ 0 120 l 257
+ 0 110 l 257
+ 40 110 l 257
+20 50 m 257
+ 90 50 l 257
+ 90 20 l 257
+ 20 20 l 257
+ 20 50 l 257
+90 80 m 257
+ 90 60 l 257
+ 20 60 l 257
+ 20 80 l 257
+ 90 80 l 257
 EndSplineSet
 Validated: 5
 EndChar
@@ -34828,97 +34833,97 @@ EndChar
 StartChar: uni7DE8
 Encoding: 772 32232 568
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<20 30 40 50 60 70 80 89 100 110> 20 10<30 40 50 60 70 80 89 100> 50 10<50 60 70 80 89 100> 60 10<0 10 30 40> 70 10<50 100> 80 10<20 30> 90 10<0 10 30 40 50 100> 100 10<10 20> 110 10<20 30 40 110>
-VStem: 0 10<10 40 90 100> 10 10<70 80 100 110> 20 10<0 20 30 60 110 120> 40 10<0 20 30 50 80 90> 60 10<0 20 30 50> 80 9<-1 20 30 50> 100 10<0 20 30 50 80 90>
+HStem: 70 20G<50 100>
 LayerCount: 2
 Fore
 SplineSet
-110 120 m 1x008f
- 110 110 l 1
- 40 110 l 1
- 40 120 l 1
- 110 120 l 1x008f
-100 0 m 1x901f
- 100 20 l 1
- 89 20 l 1
- 89 -1 l 1
- 80 -1 l 1
- 80 20 l 1
- 70 20 l 1x401f
- 70 0 l 1
- 60 0 l 1x801f
- 60 20 l 1
- 50 20 l 1x401f
- 50 0 l 1
- 40 0 l 1x801f
- 40 20 l 1
- 30 20 l 1x401f
- 30 0 l 1
- 20 0 l 1
- 20 60 l 1
- 0 60 l 1
- 0 70 l 1x905f
- 10 70 l 1x902f
- 10 90 l 1
- 0 90 l 1
- 0 100 l 1
- 10 100 l 1x924f
- 10 110 l 1
- 20 110 l 1x012f
- 20 120 l 1
- 30 120 l 1
- 30 110 l 1x009f
- 20 110 l 1
- 20 100 l 1x012f
- 10 100 l 1
- 10 90 l 1x024f
- 30 90 l 1
- 30 80 l 1x045f
- 20 80 l 1x042f
- 20 70 l 1x082f
- 40 70 l 1
- 40 90 l 1x122f
- 30 90 l 1x041f
- 30 100 l 1x021f
- 110 100 l 1
- 110 70 l 1
- 50 70 l 1
- 50 60 l 1x291f
- 110 60 l 1
- 110 0 l 1
- 100 0 l 1x901f
-100 80 m 1x0a0f
- 100 90 l 1
- 50 90 l 1
- 50 80 l 1
- 100 80 l 1x0a0f
-30 30 m 1x501f
- 40 30 l 1
- 40 60 l 1
- 30 60 l 1
- 30 30 l 1x501f
-89 30 m 1
- 100 30 l 1
- 100 50 l 1
- 89 50 l 1x600f
- 89 30 l 1
-70 30 m 1
- 80 30 l 1
- 80 50 l 1
- 70 50 l 1
- 70 30 l 1
-50 30 m 1
- 60 30 l 1
- 60 50 l 1
- 50 50 l 1
- 50 30 l 1
-10 10 m 1x004f
- 0 10 l 1
- 0 40 l 1
- 10 40 l 1
- 10 10 l 1x004f
+110 120 m 257
+ 40 120 l 257
+ 40 110 l 257
+ 110 110 l 257
+ 110 120 l 257
+100 0 m 257
+ 110 0 l 257
+ 110 60 l 257
+ 50 60 l 257
+ 50 70 l 257
+ 110 70 l 257
+ 110 100 l 257
+ 30 100 l 257
+ 30 90 l 257
+ 40 90 l 257
+ 40 70 l 257
+ 20 70 l 257
+ 20 80 l 257
+ 30 80 l 257
+ 30 90 l 257
+ 10 90 l 257
+ 10 100 l 257
+ 20 100 l 257
+ 20 110 l 257
+ 30 110 l 257
+ 30 120 l 257
+ 20 120 l 257
+ 20 110 l 257
+ 10 110 l 257
+ 10 100 l 257
+ 0 100 l 257
+ 0 90 l 257
+ 10 90 l 257
+ 10 70 l 257
+ 0 70 l 257
+ 0 60 l 257
+ 20 60 l 257
+ 20 0 l 257
+ 30 0 l 257
+ 30 20 l 257
+ 40 20 l 257
+ 40 0 l 257
+ 50 0 l 257
+ 50 20 l 257
+ 60 20 l 257
+ 60 0 l 257
+ 70 0 l 257
+ 70 20 l 257
+ 80 20 l 257
+ 80 0 l 257
+ 90 0 l 257
+ 90 20 l 257
+ 100 20 l 257
+ 100 0 l 257
+100 80 m 257
+ 50 80 l 257
+ 50 90 l 257
+ 100 90 l 257
+ 100 80 l 257
+30 30 m 257
+ 30 60 l 257
+ 40 60 l 257
+ 40 30 l 257
+ 30 30 l 257
+90 30 m 257
+ 90 50 l 257
+ 100 50 l 257
+ 100 30 l 257
+ 90 30 l 257
+70 30 m 257
+ 70 50 l 257
+ 80 50 l 257
+ 80 30 l 257
+ 70 30 l 257
+50 30 m 257
+ 50 50 l 257
+ 60 50 l 257
+ 60 30 l 257
+ 50 30 l 257
+10 10 m 257
+ 10 40 l 257
+ 0 40 l 257
+ 0 10 l 257
+ 10 10 l 257
 EndSplineSet
 Validated: 5
 EndChar
@@ -35581,6 +35586,7 @@ EndChar
 StartChar: uni7EF4
 Encoding: 779 32500 575
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<50 60> 10 10<60 80 90 110> 40 10<60 80 90 110> 60 10<60 80 90 110> 70 10<40 50> 90 20<90 100> 90 10<70 80 100 110> 110 10<80 90>
@@ -35588,101 +35594,101 @@ VStem: 40 20<70 80> 50 10<0 10 20 40 50 60 80 90> 60 10<100 120> 80 10<20 40 50 
 LayerCount: 2
 Fore
 SplineSet
-20 50 m 1x30
- 20 60 l 1
- 30 60 l 1
- 30 50 l 1
- 20 50 l 1x30
-20 10 m 1x6080
- 20 20 l 1
- 40 20 l 1
- 40 30 l 1
- 20 30 l 1
- 20 20 l 1
- 0 20 l 1
- 0 10 l 1
- 20 10 l 1x6080
-40 80 m 1x2880
- 40 90 l 1
- 30 90 l 1
- 30 80 l 1
- 10 80 l 1
- 10 90 l 1
- 20 90 l 1
- 20 100 l 1
- 30 100 l 1
- 30 120 l 1
- 20 120 l 1
- 20 100 l 1
- 10 100 l 1
- 10 90 l 1
- 0 90 l 1
- 0 70 l 1
- 20 70 l 1x2b80
- 20 60 l 1
- 10 60 l 1
- 10 50 l 1
- 0 50 l 1
- 0 40 l 1
- 30 40 l 1
- 30 50 l 1
- 40 50 l 1
- 40 60 l 1
- 30 60 l 1x3080
- 30 80 l 1
- 40 80 l 1x2880
-60 60 m 1x3050
- 60 50 l 1
- 80 50 l 1
- 80 60 l 1
- 60 60 l 1x3050
-60 40 m 1
- 60 20 l 1
- 80 20 l 1x6050
- 80 40 l 1
- 60 40 l 1
-80 70 m 1x3290
- 80 90 l 1
- 60 90 l 1x3250
- 60 70 l 1
- 80 70 l 1x3290
-50 70 m 1xa850
- 40 70 l 1
- 40 80 l 1xa880
- 50 80 l 1
- 50 100 l 1xaa40
- 60 100 l 1
- 60 120 l 1
- 70 120 l 1
- 70 110 l 1
- 70 106 l 1
- 70 100 l 1
- 90 100 l 1xab28
- 90 110 l 1x2410
- 80 110 l 1
- 80 120 l 1
- 90 120 l 1x2110
- 90 110 l 1x2410
- 100 110 l 1x2408
- 100 100 l 1
- 110 100 l 1
- 110 90 l 1x2208
- 90 90 l 1
- 90 70 l 1
- 110 70 l 1
- 110 60 l 1
- 90 60 l 1
- 90 50 l 1
- 110 50 l 1
- 110 40 l 1
- 90 40 l 1
- 90 20 l 1
- 110 20 l 1
- 110 10 l 1
- 60 10 l 1x7450
- 60 0 l 1
- 50 0 l 1
- 50 70 l 1xa850
+20 60 m 257x30
+ 30 60 l 257
+ 30 50 l 257
+ 20 50 l 257
+ 20 60 l 257x30
+20 20 m 257x6080
+ 40 20 l 257
+ 40 30 l 257
+ 20 30 l 257
+ 20 20 l 257
+ 0 20 l 257
+ 0 10 l 257
+ 20 10 l 257
+ 20 20 l 257x6080
+40 90 m 257x2a80
+ 30 90 l 257
+ 30 80 l 257
+ 10 80 l 257
+ 10 90 l 257
+ 20 90 l 257
+ 20 100 l 257
+ 30 100 l 257
+ 30 120 l 257
+ 20 120 l 257
+ 20 100 l 257
+ 10 100 l 257
+ 10 90 l 257
+ 0 90 l 257
+ 0 70 l 257
+ 20 70 l 257x2b80
+ 20 60 l 257
+ 10 60 l 257
+ 10 50 l 257
+ 0 50 l 257
+ 0 40 l 257
+ 30 40 l 257
+ 30 50 l 257
+ 40 50 l 257
+ 40 60 l 257
+ 30 60 l 257x3080
+ 30 80 l 257
+ 40 80 l 257
+ 40 90 l 257x2a80
+60 50 m 257x3050
+ 80 50 l 257
+ 80 60 l 257
+ 60 60 l 257
+ 60 50 l 257x3050
+60 20 m 257x6050
+ 80 20 l 257
+ 80 40 l 257
+ 60 40 l 257
+ 60 20 l 257x6050
+80 90 m 257x3290
+ 60 90 l 257x3250
+ 60 70 l 257
+ 80 70 l 257
+ 80 90 l 257x3290
+40 70 m 257xa880
+ 40 80 l 257xa880
+ 50 80 l 257
+ 50 100 l 257xaa40
+ 60 100 l 257
+ 60 120 l 257
+ 70 120 l 257
+ 70 110 l 257
+ 70 106 l 257
+ 70 100 l 257
+ 90 100 l 257xab28
+ 90 110 l 257x2410
+ 80 110 l 257
+ 80 120 l 257
+ 90 120 l 257x2110
+ 90 110 l 257x2410
+ 100 110 l 257x2408
+ 100 100 l 257
+ 110 100 l 257
+ 110 90 l 257x2208
+ 90 90 l 257
+ 90 70 l 257
+ 110 70 l 257
+ 110 60 l 257
+ 90 60 l 257
+ 90 50 l 257
+ 110 50 l 257
+ 110 40 l 257
+ 90 40 l 257
+ 90 20 l 257
+ 110 20 l 257
+ 110 10 l 257
+ 60 10 l 257x7450
+ 60 0 l 257
+ 50 0 l 257
+ 50 70 l 257xa850
+ 40 70 l 257xa880
 EndSplineSet
 Validated: 5
 EndChar
@@ -39597,91 +39603,91 @@ EndChar
 StartChar: uni904D
 Encoding: 824 36941 620
 Width: 120
+VWidth: 0
 GlyphClass: 2
 Flags: W
-HStem: 0 10<0 10 40 110> 10 10<10 20 30 40> 30 10<50 60 70 80 89 100> 50 10<50 60 70 80 89 100> 60 10<0 20> 70 10<50 100> 90 10<50 100> 100 10<20 30> 110 10<10 20 40 110>
-VStem: 0 10<0 10> 10 10<10 20 110 120> 20 10<20 60 100 110> 30 10<10 20> 40 10<20 30 40 50 60 70 80 90> 60 10<20 30 40 50> 80 9<19 30 40 50> 100 10<20 30 40 50 80 90>
+HStem: 70 20G<50 100>
 LayerCount: 2
 Fore
 SplineSet
-110 120 m 1x208780
- 110 110 l 1
- 40 110 l 1
- 40 120 l 1
- 110 120 l 1x208780
-10 110 m 1x20a380
- 10 120 l 1
- 20 120 l 1x20a380
- 20 110 l 1x212380
- 30 110 l 1
- 30 100 l 1
- 20 100 l 1x211380
- 20 110 l 1x212380
- 10 110 l 1x20a380
-100 20 m 1x680780
- 100 30 l 1
- 89 30 l 1
- 89 19 l 1
- 80 19 l 1
- 80 30 l 1
- 70 30 l 1
- 70 20 l 1
- 60 20 l 1
- 60 30 l 1
- 50 30 l 1
- 50 20 l 1x680780
- 40 20 l 1x680b80
- 40 100 l 1
- 110 100 l 1
- 110 70 l 1
- 50 70 l 1
- 50 60 l 1x750780
- 110 60 l 1
- 110 20 l 1
- 100 20 l 1x680780
-100 80 m 1x260780
- 100 90 l 1
- 50 90 l 1
- 50 80 l 1
- 100 80 l 1x260780
-0 0 m 1xa04380
- 0 10 l 1
- 10 10 l 1xa04380
- 10 20 l 1
- 20 20 l 1x602380
- 20 60 l 1
- 0 60 l 1
- 0 70 l 1x685380
- 30 70 l 1x244b80
- 30 20 l 1x641380
- 40 20 l 1x640b80
- 40 10 l 1xa00b80
- 110 10 l 1
- 110 0 l 1
- 40 0 l 1xa00780
- 40 10 l 1xa00b80
- 30 10 l 1x600b80
- 30 20 l 1x601380
- 20 20 l 1
- 20 10 l 1x602380
- 10 10 l 1
- 10 0 l 1
- 0 0 l 1xa04380
-89 40 m 1
- 100 40 l 1
- 100 50 l 1
- 89 50 l 1x300380
- 89 40 l 1
-70 40 m 1
- 80 40 l 1
- 80 50 l 1
- 70 50 l 1
- 70 40 l 1
-50 40 m 1x300780
- 60 40 l 1
- 60 50 l 1
- 50 50 l 1
- 50 40 l 1x300780
+110 120 m 257
+ 40 120 l 257
+ 40 110 l 257
+ 110 110 l 257
+ 110 120 l 257
+10 110 m 257
+ 20 110 l 257
+ 20 100 l 257
+ 30 100 l 257
+ 30 110 l 257
+ 20 110 l 257
+ 20 120 l 257
+ 10 120 l 257
+ 10 110 l 257
+100 20 m 257
+ 110 20 l 257
+ 110 60 l 257
+ 50 60 l 257
+ 50 70 l 257
+ 110 70 l 257
+ 110 100 l 257
+ 40 100 l 257
+ 40 20 l 257
+ 50 20 l 257
+ 50 30 l 257
+ 60 30 l 257
+ 60 20 l 257
+ 70 20 l 257
+ 70 30 l 257
+ 80 30 l 257
+ 80 20 l 257
+ 90 20 l 257
+ 90 30 l 257
+ 100 30 l 257
+ 100 20 l 257
+100 80 m 257
+ 50 80 l 257
+ 50 90 l 257
+ 100 90 l 257
+ 100 80 l 257
+0 0 m 257
+ 10 0 l 257
+ 10 10 l 257
+ 20 10 l 257
+ 20 20 l 257
+ 30 20 l 257
+ 30 10 l 257
+ 40 10 l 257
+ 40 0 l 257
+ 110 0 l 257
+ 110 10 l 257
+ 40 10 l 257
+ 40 20 l 257
+ 30 20 l 257
+ 30 70 l 257
+ 0 70 l 257
+ 0 60 l 257
+ 20 60 l 257
+ 20 20 l 257
+ 10 20 l 257
+ 10 10 l 257
+ 0 10 l 257
+ 0 0 l 257
+90 40 m 257
+ 90 50 l 257
+ 100 50 l 257
+ 100 40 l 257
+ 90 40 l 257
+70 40 m 257
+ 70 50 l 257
+ 80 50 l 257
+ 80 40 l 257
+ 70 40 l 257
+50 40 m 257
+ 50 50 l 257
+ 60 50 l 257
+ 60 40 l 257
+ 50 40 l 257
 EndSplineSet
 Validated: 5
 EndChar
@@ -42563,6 +42569,7 @@ EndChar
 StartChar: uniE00A
 Encoding: 862 57354 658
 Width: 110
+VWidth: 0
 GlyphClass: 2
 Flags: W
 HStem: -10 10<30 40> 0 10<10 20> 20 20<60 70> 40 20<70 80> 60 30<20 30 80 90> 80 10<10 20 40 50 70 80 90 100> 110 10<10 100>
@@ -42570,57 +42577,58 @@ VStem: 10 20<0 10> 20 20<70 80> 30 20<50 60> 40 30<20 40> 40 20<0 10> 50 10<10 2
 LayerCount: 2
 Fore
 SplineSet
-20 -10 m 1x8288
- 20 0 l 1x4288
- 10 0 l 1
- 10 10 l 1
- 30 10 l 1x43
- 30 0 l 1
- 40 0 l 1x8310
- 40 10 l 1x4310
- 50 10 l 1
- 50 20 l 1x6208
- 40 20 l 1x6220
- 40 40 l 1x1220
- 30 40 l 1x1240
- 30 60 l 1x0a40
- 20 60 l 1x0a80
- 20 80 l 1x0680
- 10 80 l 1
- 10 90 l 1x07
- 50 90 l 1
- 50 80 l 1
- 40 80 l 1
- 40 70 l 1
- 50 70 l 1x0688
- 50 50 l 1x0640
- 60 50 l 1
- 60 40 l 1x2608
- 70 40 l 1x2620
- 70 60 l 1
- 80 60 l 1x1204
- 80 80 l 1x1602
- 70 80 l 1
- 70 90 l 1x1604
- 100 90 l 1
- 100 80 l 1
- 90 80 l 1x1602
- 90 60 l 1x0a02
- 80 60 l 1
- 80 40 l 1x1204
- 70 40 l 1
- 70 20 l 1x2220
- 60 20 l 1x2208
- 60 0 l 1x6210
- 50 0 l 1x6208
- 50 -10 l 1
- 20 -10 l 1x8288
-100 120 m 1
- 100 110 l 1
- 10 110 l 1
- 10 120 l 1x03
- 100 120 l 1
+20 0 m 257x4288
+ 10 0 l 257
+ 10 10 l 257
+ 30 10 l 257x43
+ 30 0 l 257
+ 40 0 l 257x8310
+ 40 10 l 257x4310
+ 50 10 l 257
+ 50 20 l 257x6208
+ 40 20 l 257x6220
+ 40 40 l 257x1220
+ 30 40 l 257x1240
+ 30 60 l 257x0a40
+ 20 60 l 257x0a80
+ 20 80 l 257x0680
+ 10 80 l 257
+ 10 90 l 257x07
+ 50 90 l 257
+ 50 80 l 257
+ 40 80 l 257
+ 40 70 l 257
+ 50 70 l 257x0688
+ 50 50 l 257x0640
+ 60 50 l 257
+ 60 40 l 257x2608
+ 70 40 l 257x2620
+ 70 60 l 257
+ 80 60 l 257x1204
+ 80 80 l 257x1602
+ 70 80 l 257
+ 70 90 l 257x1604
+ 100 90 l 257
+ 100 80 l 257
+ 90 80 l 257x1602
+ 90 60 l 257x0a02
+ 80 60 l 257
+ 80 40 l 257x1204
+ 70 40 l 257
+ 70 20 l 257x2220
+ 60 20 l 257x2208
+ 60 0 l 257x6210
+ 50 0 l 257x6208
+ 50 -10 l 257
+ 20 -10 l 257x8288
+ 20 0 l 257x4288
+100 110 m 257
+ 10 110 l 257
+ 10 120 l 257
+ 100 120 l 257
+ 100 110 l 257
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" y.bar.ssty y.bar.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" y.bar.ssty y.bar.ssty2
 EndChar
@@ -42628,76 +42636,78 @@ EndChar
 StartChar: uniE00B
 Encoding: 863 57355 659
 Width: 110
+VWidth: 0
 GlyphClass: 2
-Flags: WO
+Flags: W
 HStem: -10 10<30 40> 0 10<10 20> 20 10<60 70> 30 20<70 80> 60 20<20 30> 70 10<10 20 40 50 70 80 90 100>
 VStem: 10 20<0 10> 20 20<60 70> 30 20<40 60> 40 20<0 10 30 40> 50 10<10 20> 70 10<30 50> 80 10<50 70>
 LayerCount: 2
 Fore
 SplineSet
-10 70 m 1x06
- 10 80 l 1x06
- 50 80 l 1
- 50 70 l 1
- 40 70 l 1x0520
- 40 60 l 1x0920
- 50 60 l 1
- 50 40 l 1x0880
- 60 40 l 1
- 60 30 l 1
- 70 30 l 1x2850
- 70 50 l 1
- 80 50 l 1x1050
- 80 70 l 1x1408
- 70 70 l 1
- 70 80 l 1x1410
- 100 80 l 1
- 100 70 l 1
- 90 70 l 1
- 90 50 l 1x1408
- 80 50 l 1
- 80 30 l 1x1410
- 70 30 l 1
- 70 20 l 1
- 60 20 l 1x2030
- 60 0 l 1x6040
- 50 0 l 1x6020
- 50 -10 l 1
- 20 -10 l 1x8120
- 20 0 l 1x4120
- 10 0 l 1
- 10 10 l 1
- 30 10 l 1x42
- 30 0 l 1
- 40 0 l 1x8240
- 40 10 l 1x4240
- 50 10 l 1
- 50 20 l 1x6020
- 40 20 l 1
- 40 40 l 1x6040
- 30 40 l 1
- 30 60 l 1x6880
- 20 60 l 1x69
- 20 70 l 1x05
- 10 70 l 1x06
-20 100 m 1x01
- 20 90 l 1x01
- 40 90 l 1
- 40 100 l 1x0040
- 60 100 l 1
- 60 90 l 1
- 80 90 l 1
- 80 100 l 1x0028
- 70 100 l 1
- 70 110 l 1
- 60 110 l 1
- 60 120 l 1x0030
- 40 120 l 1
- 40 110 l 1x0040
- 30 110 l 1
- 30 100 l 1x0080
- 20 100 l 1x01
+10 80 m 257x06
+ 50 80 l 257
+ 50 70 l 257
+ 40 70 l 257x0520
+ 40 60 l 257x0920
+ 50 60 l 257
+ 50 40 l 257x0880
+ 60 40 l 257
+ 60 30 l 257
+ 70 30 l 257x2850
+ 70 50 l 257
+ 80 50 l 257x1050
+ 80 70 l 257x1408
+ 70 70 l 257
+ 70 80 l 257x1410
+ 100 80 l 257
+ 100 70 l 257
+ 90 70 l 257
+ 90 50 l 257x1408
+ 80 50 l 257
+ 80 30 l 257x1410
+ 70 30 l 257
+ 70 20 l 257
+ 60 20 l 257x2030
+ 60 0 l 257x6040
+ 50 0 l 257x6020
+ 50 -10 l 257
+ 20 -10 l 257x8120
+ 20 0 l 257x4120
+ 10 0 l 257
+ 10 10 l 257
+ 30 10 l 257x42
+ 30 0 l 257
+ 40 0 l 257x8240
+ 40 10 l 257x4240
+ 50 10 l 257
+ 50 20 l 257x6020
+ 40 20 l 257
+ 40 40 l 257x6040
+ 30 40 l 257
+ 30 60 l 257x6880
+ 20 60 l 257x69
+ 20 70 l 257x05
+ 10 70 l 257
+ 10 80 l 257x06
+20 90 m 257
+ 40 90 l 257
+ 40 100 l 257x0040
+ 60 100 l 257
+ 60 90 l 257
+ 80 90 l 257
+ 80 100 l 257x0028
+ 70 100 l 257
+ 70 110 l 257
+ 60 110 l 257
+ 60 120 l 257x0030
+ 40 120 l 257
+ 40 110 l 257x0040
+ 30 110 l 257
+ 30 100 l 257x0080
+ 20 100 l 257
+ 20 90 l 257
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" y.hat.ssty y.hat.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" y.hat.ssty y.hat.ssty2
 EndChar
@@ -42750,6 +42760,7 @@ SplineSet
  30 0 l 1x84
  30 20 l 1x88
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" times.small.ssty times.small.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" times.small.ssty times.small.ssty2
 EndChar
@@ -42841,6 +42852,7 @@ SplineSet
  80 20 l 1x82
  80 0 l 1x81
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" times.small.2.ssty times.small.2.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" times.small.2.ssty times.small.2.ssty2
 EndChar
@@ -43495,59 +43507,60 @@ EndChar
 StartChar: uniE01D
 Encoding: 881 57373 677
 Width: 110
+VWidth: 0
 GlyphClass: 1
 Flags: W
-HStem: -10 10<20 50> 0 20<0 10 60 70> 20 10<30 50> 40 10<30 41> 50 30<10 20 50 60> 70 20<60 80> 80 10<28 41>
-VStem: 0 20<0 20> 10 20<30 40> 10 18<50 80> 20 30<40 50 80 90> 41 19<50 70> 50 20<0 20> 60 20<80 90>
+HStem: 0 21G<20 50> 40 20<80 100>
+VStem: 80 20<40 60>
 LayerCount: 2
 Fore
 SplineSet
-10 0 m 1x4044
- 0 0 l 1
- 0 20 l 1x41
- 10 20 l 1x4040
- 10 40 l 1x5080
- 20 40 l 1x5020
- 20 50 l 1x0820
- 10 50 l 1
- 10 80 l 1x0840
- 20 80 l 1x0820
- 20 90 l 1
- 50 90 l 1x0220
- 50 80 l 1
- 60 80 l 1x0824
- 60 90 l 1
- 80 90 l 1
- 80 70 l 1x0424
- 60 70 l 1x0410
- 60 50 l 1x0810
- 50 50 l 1x0820
- 50 40 l 1x1020
- 30 40 l 1
- 30 30 l 1
- 60 30 l 1x3084
- 60 20 l 1x4084
- 70 20 l 1
- 70 0 l 1x4008
- 60 0 l 1x4004
- 60 -10 l 1
- 10 -10 l 1x8044
- 10 0 l 1x4044
-20 0 m 1xa108
- 50 0 l 1
- 50 20 l 1
- 20 20 l 1
- 20 0 l 1xa108
-28 80 m 1x1250
- 28 50 l 1x0850
- 41 50 l 1
- 41 80 l 1
- 28 80 l 1x1250
-80 60 m 1x1004
- 80 40 l 1
- 100 40 l 1
- 100 60 l 1
- 80 60 l 1x1004
+10 0 m 257
+ 10 -10 l 257
+ 60 -10 l 257
+ 60 0 l 257
+ 70 0 l 257
+ 70 20 l 257
+ 60 20 l 257
+ 60 30 l 257
+ 30 30 l 257
+ 30 40 l 257
+ 50 40 l 257
+ 50 50 l 257
+ 60 50 l 257
+ 60 70 l 257
+ 80 70 l 257
+ 80 90 l 257
+ 60 90 l 257
+ 60 80 l 257
+ 50 80 l 257
+ 50 90 l 257
+ 20 90 l 257
+ 20 80 l 257
+ 10 80 l 257
+ 10 50 l 257
+ 20 50 l 257
+ 20 40 l 257
+ 10 40 l 257
+ 10 20 l 257
+ 0 20 l 257
+ 0 0 l 257
+ 10 0 l 257
+20 0 m 257
+ 20 20 l 257
+ 50 20 l 257
+ 50 0 l 257
+ 20 0 l 257
+30 80 m 257
+ 40 80 l 257
+ 40 50 l 257
+ 30 50 l 257
+ 30 80 l 257
+80 60 m 257
+ 100 60 l 257
+ 100 40 l 257
+ 80 40 l 257
+ 80 60 l 257
 EndSplineSet
 Validated: 9
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" calthGk.ssty.1 calthGk.ssty2.1
@@ -43761,59 +43774,60 @@ EndChar
 StartChar: uniE022
 Encoding: 886 57378 682
 Width: 110
+VWidth: 0
 GlyphClass: 1
 Flags: W
-HStem: -10 10<20 50> 0 20<0 10 60 70> 20 10<30 50> 40 10<30 41> 50 30<10 20 50 60> 70 20<60 80> 80 10<28 41>
-VStem: 0 20<0 20> 10 20<30 40> 10 18<50 80> 20 30<40 50 80 90> 41 19<50 70> 50 20<0 20> 60 20<80 90>
+HStem: 0 21G<20 50> 40 20<80 100>
+VStem: 80 20<40 60>
 LayerCount: 2
 Fore
 SplineSet
-10 0 m 1x4044
- 0 0 l 1
- 0 20 l 1x41
- 10 20 l 1x4040
- 10 40 l 1x5080
- 20 40 l 1x5020
- 20 50 l 1x0820
- 10 50 l 1
- 10 80 l 1x0840
- 20 80 l 1x0820
- 20 90 l 1
- 50 90 l 1x0220
- 50 80 l 1
- 60 80 l 1x0824
- 60 90 l 1
- 80 90 l 1
- 80 70 l 1x0424
- 60 70 l 1x0410
- 60 50 l 1x0810
- 50 50 l 1x0820
- 50 40 l 1x1020
- 30 40 l 1
- 30 30 l 1
- 60 30 l 1x3084
- 60 20 l 1x4084
- 70 20 l 1
- 70 0 l 1x4008
- 60 0 l 1x4004
- 60 -10 l 1
- 10 -10 l 1x8044
- 10 0 l 1x4044
-20 0 m 1xa108
- 50 0 l 1
- 50 20 l 1
- 20 20 l 1
- 20 0 l 1xa108
-28 80 m 1x1250
- 28 50 l 1x0850
- 41 50 l 1
- 41 80 l 1
- 28 80 l 1x1250
-80 60 m 1x1004
- 80 40 l 1
- 100 40 l 1
- 100 60 l 1
- 80 60 l 1x1004
+10 0 m 257
+ 10 -10 l 257
+ 60 -10 l 257
+ 60 0 l 257
+ 70 0 l 257
+ 70 20 l 257
+ 60 20 l 257
+ 60 30 l 257
+ 30 30 l 257
+ 30 40 l 257
+ 50 40 l 257
+ 50 50 l 257
+ 60 50 l 257
+ 60 70 l 257
+ 80 70 l 257
+ 80 90 l 257
+ 60 90 l 257
+ 60 80 l 257
+ 50 80 l 257
+ 50 90 l 257
+ 20 90 l 257
+ 20 80 l 257
+ 10 80 l 257
+ 10 50 l 257
+ 20 50 l 257
+ 20 40 l 257
+ 10 40 l 257
+ 10 20 l 257
+ 0 20 l 257
+ 0 0 l 257
+ 10 0 l 257
+20 0 m 257
+ 20 20 l 257
+ 50 20 l 257
+ 50 0 l 257
+ 20 0 l 257
+30 80 m 257
+ 40 80 l 257
+ 40 50 l 257
+ 30 50 l 257
+ 30 80 l 257
+80 60 m 257
+ 100 60 l 257
+ 100 40 l 257
+ 80 40 l 257
+ 80 60 l 257
 EndSplineSet
 Validated: 9
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" kGk.ssty kGk.ssty2
@@ -47064,7 +47078,7 @@ Width: 110
 GlyphClass: 2
 Flags: W
 HStem: 0 10<0 10 30 40 60 70 90 100> 60 10<30 70> 110 10<0 10 30 40 60 70 90 100>
-VStem: 10 20<10 60 70 110> 70 20<10 60 70.8 110>
+VStem: 10 20<10 60 70 110> 70 20<10 60 70 110>
 LayerCount: 2
 Fore
 SplineSet
@@ -47075,7 +47089,7 @@ SplineSet
  40 110 l 1
  30 110 l 1
  30 70 l 1
- 71 70 l 1
+ 70 70 l 1
  70 110 l 1
  60 110 l 1
  60 120 l 1
@@ -49426,6 +49440,7 @@ SplineSet
  10 10 l 1
  10 110 l 1x43a0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Ebolditalic.ssty Ebolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Ebolditalic.ssty Ebolditalic.ssty2
 EndChar
@@ -49474,6 +49489,7 @@ SplineSet
  0 0 l 1
  0 10 l 1xc1
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Fbolditalic.ssty Fbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Fbolditalic.ssty Fbolditalic.ssty2
 EndChar
@@ -49534,6 +49550,7 @@ SplineSet
  90 110 l 1x3020
  90 120 l 1x2420
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Gbolditalic.ssty Gbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Gbolditalic.ssty Gbolditalic.ssty2
 EndChar
@@ -49544,6 +49561,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Hbolditalic.ssty Hbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Hbolditalic.ssty Hbolditalic.ssty2
 EndChar
@@ -49554,6 +49573,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Ibolditalic.ssty Ibolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Ibolditalic.ssty Ibolditalic.ssty2
 EndChar
@@ -49564,6 +49585,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Jbolditalic.ssty Jbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Jbolditalic.ssty Jbolditalic.ssty2
 EndChar
@@ -49574,6 +49597,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Kbolditalic.ssty Kbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Kbolditalic.ssty Kbolditalic.ssty2
 EndChar
@@ -49584,6 +49609,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Lbolditalic.ssty Lbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Lbolditalic.ssty Lbolditalic.ssty2
 EndChar
@@ -49632,6 +49659,7 @@ SplineSet
  30 0 l 1
  0 0 l 1xe4
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Mbolditalic.ssty Mbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Mbolditalic.ssty Mbolditalic.ssty2
 EndChar
@@ -49642,6 +49670,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Nbolditalic.ssty Nbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Nbolditalic.ssty Nbolditalic.ssty2
 EndChar
@@ -49652,6 +49682,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Obolditalic.ssty Obolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Obolditalic.ssty Obolditalic.ssty2
 EndChar
@@ -49697,6 +49729,7 @@ SplineSet
  40 110 l 1
  40 60 l 1
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Pbolditalic.ssty Pbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Pbolditalic.ssty Pbolditalic.ssty2
 EndChar
@@ -49707,6 +49740,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Qbolditalic.ssty Qbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Qbolditalic.ssty Qbolditalic.ssty2
 EndChar
@@ -49717,6 +49752,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Rbolditalic.ssty Rbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Rbolditalic.ssty Rbolditalic.ssty2
 EndChar
@@ -49727,6 +49764,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Sbolditalic.ssty Sbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Sbolditalic.ssty Sbolditalic.ssty2
 EndChar
@@ -49763,6 +49802,7 @@ SplineSet
  0 90 l 1
  0 120 l 1xc6
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Tbolditalic.ssty Tbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Tbolditalic.ssty Tbolditalic.ssty2
 EndChar
@@ -49773,6 +49813,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Ubolditalic.ssty Ubolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Ubolditalic.ssty Ubolditalic.ssty2
 EndChar
@@ -49783,6 +49825,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Vbolditalic.ssty Vbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Vbolditalic.ssty Vbolditalic.ssty2
 EndChar
@@ -49793,6 +49837,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Wbolditalic.ssty Wbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Wbolditalic.ssty Wbolditalic.ssty2
 EndChar
@@ -49803,6 +49849,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Xbolditalic.ssty Xbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Xbolditalic.ssty Xbolditalic.ssty2
 EndChar
@@ -49813,6 +49861,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Ybolditalic.ssty Ybolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Ybolditalic.ssty Ybolditalic.ssty2
 EndChar
@@ -49823,6 +49873,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" Zbolditalic.ssty Zbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Zbolditalic.ssty Zbolditalic.ssty2
 EndChar
@@ -49833,6 +49885,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" abolditalic.ssty abolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" abolditalic.ssty abolditalic.ssty2
 EndChar
@@ -49843,6 +49897,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" bbolditalic.ssty bbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" bbolditalic.ssty bbolditalic.ssty2
 EndChar
@@ -49853,6 +49909,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" cbolditalic.ssty cbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" cbolditalic.ssty cbolditalic.ssty2
 EndChar
@@ -49863,6 +49921,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" dbolditalic.ssty dbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" dbolditalic.ssty dbolditalic.ssty2
 EndChar
@@ -49928,6 +49988,7 @@ SplineSet
  30 50 l 1x0340
  30 40 l 1x0840
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" ebolditalic.ssty ebolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ebolditalic.ssty ebolditalic.ssty2
 EndChar
@@ -49968,6 +50029,7 @@ SplineSet
  80 0 l 1
  10 0 l 1xd8
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" fbolditalic.ssty fbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" fbolditalic.ssty fbolditalic.ssty2
 EndChar
@@ -49978,6 +50040,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" gbolditalic.ssty gbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" gbolditalic.ssty gbolditalic.ssty2
 EndChar
@@ -49988,6 +50052,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" hbolditalic.ssty hbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" hbolditalic.ssty hbolditalic.ssty2
 EndChar
@@ -50033,6 +50099,7 @@ SplineSet
  50 100 l 1
  50 120 l 1x1880
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" ibolditalic.ssty ibolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" ibolditalic.ssty ibolditalic.ssty2
 EndChar
@@ -50043,6 +50110,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" jbolditalic.ssty jbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" jbolditalic.ssty jbolditalic.ssty2
 EndChar
@@ -50099,6 +50168,7 @@ SplineSet
  50 40 l 1
  40 40 l 1xa380
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" kbolditalic.ssty kbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" kbolditalic.ssty kbolditalic.ssty2
 EndChar
@@ -50109,6 +50179,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" lbolditalic.ssty lbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" lbolditalic.ssty lbolditalic.ssty2
 EndChar
@@ -50147,6 +50219,7 @@ SplineSet
  90 80 l 1
  100 80 l 1xcc
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" mbolditalic.ssty mbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" mbolditalic.ssty mbolditalic.ssty2
 EndChar
@@ -50187,6 +50260,7 @@ SplineSet
  60 70 l 1
  40 70 l 1xd8
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" nbolditalic.ssty nbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" nbolditalic.ssty nbolditalic.ssty2
 EndChar
@@ -50197,6 +50271,8 @@ Width: 110
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" obolditalic.ssty obolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" obolditalic.ssty obolditalic.ssty2
 EndChar
@@ -50252,6 +50328,7 @@ SplineSet
  60 80 l 1x8d
  50 80 l 1x96
 EndSplineSet
+Validated: 5
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" pbolditalic.ssty pbolditalic.ssty2
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" pbolditalic.ssty pbolditalic.ssty2
 EndChar
@@ -50629,65 +50706,65 @@ Encoding: 1078 120572 873
 Width: 110
 GlyphClass: 2
 Flags: W
-HStem: 0 20<20 30 40 50 80 90> 0 11<30 40> 0 10<90 100> 10 20<50 60> 60 20<20 30> 70 20<30 40 50 60 90 100> 80 10<40 50>
-VStem: 0 20<20 50> 10 20<60 70> 10 10<50 60> 20 20<70 80> 50 20<70 80> 60 20<30 50> 60 10<60 70> 70 20<10 20> 80 10<60 70> 90 10<80 90>
+HStem: 0 20<20 30 40 50 80 90> 0 10<30 40 90 100> 10 20<50 60> 60 20<20 30> 70 20<30 40 50 60 90 100> 80 10<40 50>
+VStem: 0 20<20 50> 10 20<60 70> 10 10<50 60> 20 20<70 80> 40 20<10 20> 50 20<70 80> 60 20<30 50> 60 10<60 70> 70 20<10 20> 80 10<60 70> 90 10<80 90>
 LayerCount: 2
 Fore
 SplineSet
-0 10 m 1x11
- 0 50 l 1x11
- 10 50 l 1x1040
- 10 70 l 1x1480
- 20 70 l 1x1420
- 20 80 l 1x0820
- 30 80 l 1x0880
+0 10 m 1x22
+ 0 50 l 1x22
+ 10 50 l 1x2080
+ 10 70 l 1x29
+ 20 70 l 1x2840
+ 20 80 l 1x1040
+ 30 80 l 1x11
  30 90 l 1
- 60 90 l 1x0484
- 60 80 l 1x0284
- 70 80 l 1x0210
+ 60 90 l 1x0904
+ 60 80 l 1x0504
+ 70 80 l 1x0410
  70 60 l 1
- 80 60 l 1x0805
- 80 80 l 1x0205
- 90 80 l 1x020080
+ 80 60 l 1x1005
+ 80 80 l 1x0405
+ 90 80 l 1x040080
  90 90 l 1
  100 90 l 1
- 100 70 l 1x040080
- 90 70 l 1x0401
+ 100 70 l 1x080080
+ 90 70 l 1x0801
  90 50 l 1
- 80 50 l 1x040880
- 80 20 l 1x8401
- 90 20 l 1x8402
- 90 10 l 1x2002
+ 80 50 l 1x080880
+ 80 20 l 1x8801
+ 90 20 l 1x8802
+ 90 10 l 1x4002
  100 10 l 1
- 100 0 l 1x200080
+ 100 0 l 1x400080
  80 0 l 1x8001
- 80 10 l 1x1001
- 70 10 l 1x1002
- 70 20 l 1x8002
- 60 20 l 1x8004
- 60 10 l 1x1004
- 50 10 l 1x1010
+ 80 10 l 1x2001
+ 70 10 l 1x2002
+ 70 20 l 1
+ 60 20 l 1x8022
+ 60 10 l 1x2022
+ 50 10 l 1x2010
  50 0 l 1x8010
- 10 0 l 1x2050
- 10 10 l 1x1050
- 0 10 l 1x11
-20 60 m 1x0840
- 20 20 l 1x89
- 30 20 l 1x8880
- 30 11 l 1x4080
- 40 11 l 1x4020
- 40 20 l 1
- 50 20 l 1x8030
- 50 30 l 1x1030
- 60 30 l 1x1008
- 60 70 l 1x1404
- 50 70 l 1x1410
+ 10 0 l 1x4090
+ 10 10 l 1x2090
+ 0 10 l 1x22
+20 60 m 1x1080
+ 20 20 l 1x92
+ 30 20 l 1x91
+ 30 10 l 1
+ 40 10 l 1x4120
+ 40 20 l 1x8120
+ 50 20 l 1x8010
+ 50 30 l 1x2010
+ 60 30 l 1x2008
+ 60 70 l 1x2804
+ 50 70 l 1x2810
  50 80 l 1
- 40 80 l 1x0230
- 40 70 l 1x0430
- 30 70 l 1x0480
- 30 60 l 1x0880
- 20 60 l 1x0840
+ 40 80 l 1x0450
+ 40 70 l 1x0850
+ 30 70 l 1x09
+ 30 60 l 1x11
+ 20 60 l 1x1080
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Math Script Style lookup 4 subtable" alphaitalic.ssty alphaitalic.ssty2
@@ -51035,7 +51112,7 @@ Encoding: 1085 120590 880
 Width: 110
 GlyphClass: 2
 Flags: W
-HStem: 0 20<20 30 50 60> 0 10<30 50> 70 20<30 40> 80 10<40 51> 90 10<70 90> 100 10<90 100>
+HStem: 0 20<20 30 50 60> 0 10<30 50> 70 20<30 40> 80 10<40 50> 90 10<70 90> 100 10<90 100>
 VStem: 0 20<20 50> 10 20<10 20 50 70> 20 20<70 80> 50 20<10 20> 60 20<20 40 70 80> 70 20<40 70> 90 10<100 110>
 LayerCount: 2
 Fore
@@ -51048,14 +51125,14 @@ SplineSet
  20 80 l 1x1080
  30 80 l 1x11
  30 90 l 1x21
- 51 90 l 1
- 51 100 l 1x15
- 90 100 l 1x0908
+ 50 90 l 1
+ 50 100 l 1x1540
+ 90 100 l 1x0948
  90 110 l 1
  100 110 l 1
- 100 100 l 1x0508
+ 100 100 l 1x0548
  90 100 l 1
- 90 90 l 1x0908
+ 90 90 l 1x0948
  70 90 l 1x0810
  70 80 l 1x1010
  80 80 l 1x1020
@@ -51075,7 +51152,7 @@ SplineSet
  0 20 l 1x82
 20 20 m 1
  30 20 l 1xa1
- 30 10 l 1
+ 30 10 l 5
  50 10 l 1x4140
  50 20 l 1x8140
  60 20 l 1
@@ -52346,7 +52423,7 @@ LayerCount: 2
 Fore
 SplineSet
 20 40 m 1
- 20 60 l 1
+ 20 60 l 5
  40 60 l 1
  40 40 l 1
  20 40 l 1
@@ -52365,7 +52442,7 @@ LayerCount: 2
 Fore
 SplineSet
 20 40 m 1
- 20 60 l 1
+ 20 60 l 5
  40 60 l 1
  40 40 l 1
  20 40 l 1
@@ -64651,12 +64728,12 @@ Encoding: 1439 -1 1234
 Width: 120
 GlyphClass: 3
 Flags: W
-HStem: 0 10<0 10 30 50> 10 10<80 100> 81 9<0 20 40 50> 90 10<80 100> 100 20G<30 40>
-VStem: 0 10<0 10> 10 10<10 40> 20 10<40 81> 30 10<90 120> 50 10<10 81> 70 10<20 90> 100 10<20 90>
+HStem: 0 10<0 10 30 50> 10 10<80 100> 80 10<0 20 40 50> 90 10<80 100> 100 20G<30 40>
+VStem: 0 10<0 10> 10 10<10 40> 20 10<40 80> 30 10<90 120> 50 10<10 80> 70 10<20 90> 100 10<20 90>
 LayerCount: 2
 Fore
 SplineSet
-0 81 m 1xa570
+0 80 m 1xa570
  0 90 l 1xa570
  30 90 l 1x14f0
  30 120 l 1
@@ -64667,8 +64744,8 @@ SplineSet
  30 0 l 1
  30 10 l 1x94f0
  50 10 l 1
- 50 81 l 1
- 30 81 l 1
+ 50 80 l 1
+ 30 80 l 1
  30 40 l 1xa170
  20 40 l 1
  20 10 l 1x6270
@@ -64679,8 +64756,8 @@ SplineSet
  10 10 l 1x8470
  10 40 l 1
  20 40 l 1x8270
- 20 81 l 1
- 0 81 l 1xa570
+ 20 80 l 1
+ 0 80 l 1xa570
 110 10 m 1x4870
  70 10 l 1
  70 100 l 1
@@ -64693,6 +64770,7 @@ SplineSet
  100 90 l 1x5070
 EndSplineSet
 Validated: 5
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2 subtable" uni52A0 uniFE00
 EndChar
 
@@ -68487,8 +68565,7 @@ EndChar
 
 StartChar: Abold.ssty
 Encoding: 1492 -1 1287
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68498,8 +68575,7 @@ EndChar
 
 StartChar: Abold.ssty2
 Encoding: 1493 -1 1288
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68509,8 +68585,7 @@ EndChar
 
 StartChar: Bbold.ssty
 Encoding: 1494 -1 1289
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68520,8 +68595,7 @@ EndChar
 
 StartChar: Bbold.ssty2
 Encoding: 1495 -1 1290
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68531,8 +68605,7 @@ EndChar
 
 StartChar: Cbold.ssty
 Encoding: 1496 -1 1291
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68542,8 +68615,7 @@ EndChar
 
 StartChar: Cbold.ssty2
 Encoding: 1497 -1 1292
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68553,8 +68625,7 @@ EndChar
 
 StartChar: Dbold.ssty
 Encoding: 1498 -1 1293
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68564,8 +68635,7 @@ EndChar
 
 StartChar: Dbold.ssty2
 Encoding: 1499 -1 1294
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68645,8 +68715,7 @@ EndChar
 
 StartChar: Fbold.ssty
 Encoding: 1502 -1 1297
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68656,8 +68725,7 @@ EndChar
 
 StartChar: Fbold.ssty2
 Encoding: 1503 -1 1298
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68741,8 +68809,7 @@ EndChar
 
 StartChar: Hbold.ssty
 Encoding: 1506 -1 1301
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68752,8 +68819,7 @@ EndChar
 
 StartChar: Hbold.ssty2
 Encoding: 1507 -1 1302
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68763,8 +68829,7 @@ EndChar
 
 StartChar: Ibold.ssty
 Encoding: 1508 -1 1303
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68774,8 +68839,7 @@ EndChar
 
 StartChar: Ibold.ssty2
 Encoding: 1509 -1 1304
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68785,8 +68849,7 @@ EndChar
 
 StartChar: Jbold.ssty
 Encoding: 1510 -1 1305
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68796,8 +68859,7 @@ EndChar
 
 StartChar: Jbold.ssty2
 Encoding: 1511 -1 1306
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68807,8 +68869,7 @@ EndChar
 
 StartChar: Kbold.ssty
 Encoding: 1512 -1 1307
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68818,8 +68879,7 @@ EndChar
 
 StartChar: Kbold.ssty2
 Encoding: 1513 -1 1308
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68829,8 +68889,7 @@ EndChar
 
 StartChar: Lbold.ssty
 Encoding: 1514 -1 1309
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68840,8 +68899,7 @@ EndChar
 
 StartChar: Lbold.ssty2
 Encoding: 1515 -1 1310
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68933,8 +68991,7 @@ EndChar
 
 StartChar: Nbold.ssty
 Encoding: 1518 -1 1313
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68944,8 +69001,7 @@ EndChar
 
 StartChar: Nbold.ssty2
 Encoding: 1519 -1 1314
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68955,8 +69011,7 @@ EndChar
 
 StartChar: Obold.ssty
 Encoding: 1520 -1 1315
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -68966,8 +69021,7 @@ EndChar
 
 StartChar: Obold.ssty2
 Encoding: 1521 -1 1316
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69051,8 +69105,7 @@ EndChar
 
 StartChar: Qbold.ssty
 Encoding: 1524 -1 1319
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69062,8 +69115,7 @@ EndChar
 
 StartChar: Qbold.ssty2
 Encoding: 1525 -1 1320
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69073,8 +69125,7 @@ EndChar
 
 StartChar: Rbold.ssty
 Encoding: 1526 -1 1321
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69084,8 +69135,7 @@ EndChar
 
 StartChar: Rbold.ssty2
 Encoding: 1527 -1 1322
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69095,8 +69145,7 @@ EndChar
 
 StartChar: Sbold.ssty
 Encoding: 1528 -1 1323
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69106,8 +69155,7 @@ EndChar
 
 StartChar: Sbold.ssty2
 Encoding: 1529 -1 1324
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69181,8 +69229,7 @@ EndChar
 
 StartChar: Ubold.ssty
 Encoding: 1532 -1 1327
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69192,8 +69239,7 @@ EndChar
 
 StartChar: Ubold.ssty2
 Encoding: 1533 -1 1328
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69203,8 +69249,7 @@ EndChar
 
 StartChar: Vbold.ssty
 Encoding: 1534 -1 1329
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69214,8 +69259,7 @@ EndChar
 
 StartChar: Vbold.ssty2
 Encoding: 1535 -1 1330
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69225,8 +69269,7 @@ EndChar
 
 StartChar: Wbold.ssty
 Encoding: 1536 -1 1331
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69236,8 +69279,7 @@ EndChar
 
 StartChar: Wbold.ssty2
 Encoding: 1537 -1 1332
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69247,8 +69289,7 @@ EndChar
 
 StartChar: Xbold.ssty
 Encoding: 1538 -1 1333
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69258,8 +69299,7 @@ EndChar
 
 StartChar: Xbold.ssty2
 Encoding: 1539 -1 1334
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69269,8 +69309,7 @@ EndChar
 
 StartChar: Ybold.ssty
 Encoding: 1540 -1 1335
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69280,8 +69319,7 @@ EndChar
 
 StartChar: Ybold.ssty2
 Encoding: 1541 -1 1336
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69291,8 +69329,7 @@ EndChar
 
 StartChar: Zbold.ssty
 Encoding: 1542 -1 1337
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69302,8 +69339,7 @@ EndChar
 
 StartChar: Zbold.ssty2
 Encoding: 1543 -1 1338
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69313,8 +69349,7 @@ EndChar
 
 StartChar: abold.ssty
 Encoding: 1544 -1 1339
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69324,8 +69359,7 @@ EndChar
 
 StartChar: abold.ssty2
 Encoding: 1545 -1 1340
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69335,8 +69369,7 @@ EndChar
 
 StartChar: bbold.ssty
 Encoding: 1546 -1 1341
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69346,8 +69379,7 @@ EndChar
 
 StartChar: bbold.ssty2
 Encoding: 1547 -1 1342
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69357,8 +69389,7 @@ EndChar
 
 StartChar: cbold.ssty
 Encoding: 1548 -1 1343
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69368,8 +69399,7 @@ EndChar
 
 StartChar: cbold.ssty2
 Encoding: 1549 -1 1344
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69379,8 +69409,7 @@ EndChar
 
 StartChar: dbold.ssty
 Encoding: 1550 -1 1345
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69390,8 +69419,7 @@ EndChar
 
 StartChar: dbold.ssty2
 Encoding: 1551 -1 1346
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69401,8 +69429,7 @@ EndChar
 
 StartChar: ebold.ssty
 Encoding: 1552 -1 1347
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69412,8 +69439,7 @@ EndChar
 
 StartChar: ebold.ssty2
 Encoding: 1553 -1 1348
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69493,8 +69519,7 @@ EndChar
 
 StartChar: gbold.ssty
 Encoding: 1556 -1 1351
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69504,8 +69529,7 @@ EndChar
 
 StartChar: gbold.ssty2
 Encoding: 1557 -1 1352
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69515,8 +69539,7 @@ EndChar
 
 StartChar: hbold.ssty
 Encoding: 1558 -1 1353
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69526,8 +69549,7 @@ EndChar
 
 StartChar: hbold.ssty2
 Encoding: 1559 -1 1354
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69537,8 +69559,7 @@ EndChar
 
 StartChar: ibold.ssty
 Encoding: 1560 -1 1355
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69548,8 +69569,7 @@ EndChar
 
 StartChar: ibold.ssty2
 Encoding: 1561 -1 1356
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69559,8 +69579,7 @@ EndChar
 
 StartChar: jbold.ssty
 Encoding: 1562 -1 1357
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69570,8 +69589,7 @@ EndChar
 
 StartChar: jbold.ssty2
 Encoding: 1563 -1 1358
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69675,8 +69693,7 @@ EndChar
 
 StartChar: lbold.ssty
 Encoding: 1566 -1 1361
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69686,8 +69703,7 @@ EndChar
 
 StartChar: lbold.ssty2
 Encoding: 1567 -1 1362
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69837,8 +69853,7 @@ EndChar
 
 StartChar: obold.ssty
 Encoding: 1572 -1 1367
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69848,8 +69863,7 @@ EndChar
 
 StartChar: obold.ssty2
 Encoding: 1573 -1 1368
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69931,8 +69945,7 @@ EndChar
 
 StartChar: qbold.ssty
 Encoding: 1576 -1 1371
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69942,8 +69955,7 @@ EndChar
 
 StartChar: qbold.ssty2
 Encoding: 1577 -1 1372
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69953,8 +69965,7 @@ EndChar
 
 StartChar: rbold.ssty
 Encoding: 1578 -1 1373
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69964,8 +69975,7 @@ EndChar
 
 StartChar: rbold.ssty2
 Encoding: 1579 -1 1374
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69975,8 +69985,7 @@ EndChar
 
 StartChar: sbold.ssty
 Encoding: 1580 -1 1375
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69986,8 +69995,7 @@ EndChar
 
 StartChar: sbold.ssty2
 Encoding: 1581 -1 1376
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -69997,8 +70005,7 @@ EndChar
 
 StartChar: tbold.ssty
 Encoding: 1582 -1 1377
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70008,8 +70015,7 @@ EndChar
 
 StartChar: tbold.ssty2
 Encoding: 1583 -1 1378
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70019,8 +70025,7 @@ EndChar
 
 StartChar: ubold.ssty
 Encoding: 1584 -1 1379
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70030,8 +70035,7 @@ EndChar
 
 StartChar: ubold.ssty2
 Encoding: 1585 -1 1380
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70041,8 +70045,7 @@ EndChar
 
 StartChar: vbold.ssty
 Encoding: 1586 -1 1381
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70052,8 +70055,7 @@ EndChar
 
 StartChar: vbold.ssty2
 Encoding: 1587 -1 1382
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70063,8 +70065,7 @@ EndChar
 
 StartChar: wbold.ssty
 Encoding: 1588 -1 1383
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70074,8 +70075,7 @@ EndChar
 
 StartChar: wbold.ssty2
 Encoding: 1589 -1 1384
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70085,8 +70085,7 @@ EndChar
 
 StartChar: xbold.ssty
 Encoding: 1590 -1 1385
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70096,8 +70095,7 @@ EndChar
 
 StartChar: xbold.ssty2
 Encoding: 1591 -1 1386
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70107,8 +70105,7 @@ EndChar
 
 StartChar: ybold.ssty
 Encoding: 1592 -1 1387
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70118,8 +70115,7 @@ EndChar
 
 StartChar: ybold.ssty2
 Encoding: 1593 -1 1388
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70129,8 +70125,7 @@ EndChar
 
 StartChar: zbold.ssty
 Encoding: 1594 -1 1389
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -70140,8 +70135,7 @@ EndChar
 
 StartChar: zbold.ssty2
 Encoding: 1595 -1 1390
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74049,8 +74043,7 @@ EndChar
 
 StartChar: Abolditalic.ssty
 Encoding: 1698 -1 1493
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74060,8 +74053,7 @@ EndChar
 
 StartChar: Abolditalic.ssty2
 Encoding: 1699 -1 1494
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74071,8 +74063,7 @@ EndChar
 
 StartChar: Bbolditalic.ssty
 Encoding: 1700 -1 1495
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74082,8 +74073,7 @@ EndChar
 
 StartChar: Bbolditalic.ssty2
 Encoding: 1701 -1 1496
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74093,8 +74083,7 @@ EndChar
 
 StartChar: Cbolditalic.ssty
 Encoding: 1702 -1 1497
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74104,8 +74093,7 @@ EndChar
 
 StartChar: Cbolditalic.ssty2
 Encoding: 1703 -1 1498
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74115,8 +74103,7 @@ EndChar
 
 StartChar: Dbolditalic.ssty
 Encoding: 1704 -1 1499
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74126,8 +74113,7 @@ EndChar
 
 StartChar: Dbolditalic.ssty2
 Encoding: 1705 -1 1500
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74137,8 +74123,7 @@ EndChar
 
 StartChar: Ebolditalic.ssty
 Encoding: 1706 -1 1501
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74148,8 +74133,7 @@ EndChar
 
 StartChar: Ebolditalic.ssty2
 Encoding: 1707 -1 1502
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74229,8 +74213,7 @@ EndChar
 
 StartChar: Gbolditalic.ssty
 Encoding: 1710 -1 1505
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74240,8 +74223,7 @@ EndChar
 
 StartChar: Gbolditalic.ssty2
 Encoding: 1711 -1 1506
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74251,8 +74233,7 @@ EndChar
 
 StartChar: Hbolditalic.ssty
 Encoding: 1712 -1 1507
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74262,8 +74243,7 @@ EndChar
 
 StartChar: Hbolditalic.ssty2
 Encoding: 1713 -1 1508
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74273,8 +74253,7 @@ EndChar
 
 StartChar: Ibolditalic.ssty
 Encoding: 1714 -1 1509
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74284,8 +74263,7 @@ EndChar
 
 StartChar: Ibolditalic.ssty2
 Encoding: 1715 -1 1510
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74295,8 +74273,7 @@ EndChar
 
 StartChar: Jbolditalic.ssty
 Encoding: 1716 -1 1511
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74306,8 +74283,7 @@ EndChar
 
 StartChar: Jbolditalic.ssty2
 Encoding: 1717 -1 1512
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74317,8 +74293,7 @@ EndChar
 
 StartChar: Kbolditalic.ssty
 Encoding: 1718 -1 1513
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74328,8 +74303,7 @@ EndChar
 
 StartChar: Kbolditalic.ssty2
 Encoding: 1719 -1 1514
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74339,8 +74313,7 @@ EndChar
 
 StartChar: Lbolditalic.ssty
 Encoding: 1720 -1 1515
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74350,8 +74323,7 @@ EndChar
 
 StartChar: Lbolditalic.ssty2
 Encoding: 1721 -1 1516
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74361,8 +74333,7 @@ EndChar
 
 StartChar: Mbolditalic.ssty
 Encoding: 1722 -1 1517
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74372,8 +74343,7 @@ EndChar
 
 StartChar: Mbolditalic.ssty2
 Encoding: 1723 -1 1518
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74383,8 +74353,7 @@ EndChar
 
 StartChar: Nbolditalic.ssty
 Encoding: 1724 -1 1519
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74394,8 +74363,7 @@ EndChar
 
 StartChar: Nbolditalic.ssty2
 Encoding: 1725 -1 1520
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74405,8 +74373,7 @@ EndChar
 
 StartChar: Obolditalic.ssty
 Encoding: 1726 -1 1521
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74416,8 +74383,7 @@ EndChar
 
 StartChar: Obolditalic.ssty2
 Encoding: 1727 -1 1522
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74427,8 +74393,7 @@ EndChar
 
 StartChar: Pbolditalic.ssty
 Encoding: 1728 -1 1523
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74438,8 +74403,7 @@ EndChar
 
 StartChar: Pbolditalic.ssty2
 Encoding: 1729 -1 1524
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74449,8 +74413,7 @@ EndChar
 
 StartChar: Qbolditalic.ssty
 Encoding: 1730 -1 1525
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74460,8 +74423,7 @@ EndChar
 
 StartChar: Qbolditalic.ssty2
 Encoding: 1731 -1 1526
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74471,8 +74433,7 @@ EndChar
 
 StartChar: Rbolditalic.ssty
 Encoding: 1732 -1 1527
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74482,8 +74443,7 @@ EndChar
 
 StartChar: Rbolditalic.ssty2
 Encoding: 1733 -1 1528
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74493,8 +74453,7 @@ EndChar
 
 StartChar: Sbolditalic.ssty
 Encoding: 1734 -1 1529
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74504,8 +74463,7 @@ EndChar
 
 StartChar: Sbolditalic.ssty2
 Encoding: 1735 -1 1530
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74515,8 +74473,7 @@ EndChar
 
 StartChar: Tbolditalic.ssty
 Encoding: 1736 -1 1531
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74526,8 +74483,7 @@ EndChar
 
 StartChar: Tbolditalic.ssty2
 Encoding: 1737 -1 1532
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74537,8 +74493,7 @@ EndChar
 
 StartChar: Ubolditalic.ssty
 Encoding: 1738 -1 1533
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74548,8 +74503,7 @@ EndChar
 
 StartChar: Ubolditalic.ssty2
 Encoding: 1739 -1 1534
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74559,8 +74513,7 @@ EndChar
 
 StartChar: Vbolditalic.ssty
 Encoding: 1740 -1 1535
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74570,8 +74523,7 @@ EndChar
 
 StartChar: Vbolditalic.ssty2
 Encoding: 1741 -1 1536
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74581,8 +74533,7 @@ EndChar
 
 StartChar: Wbolditalic.ssty
 Encoding: 1742 -1 1537
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74592,8 +74543,7 @@ EndChar
 
 StartChar: Wbolditalic.ssty2
 Encoding: 1743 -1 1538
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74603,8 +74553,7 @@ EndChar
 
 StartChar: Xbolditalic.ssty
 Encoding: 1744 -1 1539
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74614,8 +74563,7 @@ EndChar
 
 StartChar: Xbolditalic.ssty2
 Encoding: 1745 -1 1540
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74625,8 +74573,7 @@ EndChar
 
 StartChar: Ybolditalic.ssty
 Encoding: 1746 -1 1541
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74636,8 +74583,7 @@ EndChar
 
 StartChar: Ybolditalic.ssty2
 Encoding: 1747 -1 1542
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74647,8 +74593,7 @@ EndChar
 
 StartChar: Zbolditalic.ssty
 Encoding: 1748 -1 1543
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74658,8 +74603,7 @@ EndChar
 
 StartChar: Zbolditalic.ssty2
 Encoding: 1749 -1 1544
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74669,8 +74613,7 @@ EndChar
 
 StartChar: abolditalic.ssty
 Encoding: 1750 -1 1545
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74680,8 +74623,7 @@ EndChar
 
 StartChar: abolditalic.ssty2
 Encoding: 1751 -1 1546
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74691,8 +74633,7 @@ EndChar
 
 StartChar: bbolditalic.ssty
 Encoding: 1752 -1 1547
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74702,8 +74643,7 @@ EndChar
 
 StartChar: bbolditalic.ssty2
 Encoding: 1753 -1 1548
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74713,8 +74653,7 @@ EndChar
 
 StartChar: cbolditalic.ssty
 Encoding: 1754 -1 1549
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74724,8 +74663,7 @@ EndChar
 
 StartChar: cbolditalic.ssty2
 Encoding: 1755 -1 1550
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74735,8 +74673,7 @@ EndChar
 
 StartChar: dbolditalic.ssty
 Encoding: 1756 -1 1551
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74746,8 +74683,7 @@ EndChar
 
 StartChar: dbolditalic.ssty2
 Encoding: 1757 -1 1552
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74853,8 +74789,7 @@ EndChar
 
 StartChar: fbolditalic.ssty
 Encoding: 1760 -1 1555
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74864,8 +74799,7 @@ EndChar
 
 StartChar: fbolditalic.ssty2
 Encoding: 1761 -1 1556
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74875,8 +74809,7 @@ EndChar
 
 StartChar: gbolditalic.ssty
 Encoding: 1762 -1 1557
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74886,8 +74819,7 @@ EndChar
 
 StartChar: gbolditalic.ssty2
 Encoding: 1763 -1 1558
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74897,8 +74829,7 @@ EndChar
 
 StartChar: hbolditalic.ssty
 Encoding: 1764 -1 1559
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -74908,8 +74839,7 @@ EndChar
 
 StartChar: hbolditalic.ssty2
 Encoding: 1765 -1 1560
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75005,8 +74935,7 @@ EndChar
 
 StartChar: jbolditalic.ssty
 Encoding: 1768 -1 1563
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75016,8 +74945,7 @@ EndChar
 
 StartChar: jbolditalic.ssty2
 Encoding: 1769 -1 1564
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75027,8 +74955,7 @@ EndChar
 
 StartChar: kbolditalic.ssty
 Encoding: 1770 -1 1565
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75038,8 +74965,7 @@ EndChar
 
 StartChar: kbolditalic.ssty2
 Encoding: 1771 -1 1566
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75049,8 +74975,7 @@ EndChar
 
 StartChar: lbolditalic.ssty
 Encoding: 1772 -1 1567
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75060,8 +74985,7 @@ EndChar
 
 StartChar: lbolditalic.ssty2
 Encoding: 1773 -1 1568
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75071,8 +74995,7 @@ EndChar
 
 StartChar: mbolditalic.ssty
 Encoding: 1774 -1 1569
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75082,8 +75005,7 @@ EndChar
 
 StartChar: mbolditalic.ssty2
 Encoding: 1775 -1 1570
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75093,8 +75015,7 @@ EndChar
 
 StartChar: nbolditalic.ssty
 Encoding: 1776 -1 1571
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75104,8 +75025,7 @@ EndChar
 
 StartChar: nbolditalic.ssty2
 Encoding: 1777 -1 1572
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75115,8 +75035,7 @@ EndChar
 
 StartChar: obolditalic.ssty
 Encoding: 1778 -1 1573
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75126,8 +75045,7 @@ EndChar
 
 StartChar: obolditalic.ssty2
 Encoding: 1779 -1 1574
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75137,8 +75055,7 @@ EndChar
 
 StartChar: pbolditalic.ssty
 Encoding: 1780 -1 1575
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75148,8 +75065,7 @@ EndChar
 
 StartChar: pbolditalic.ssty2
 Encoding: 1781 -1 1576
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75159,8 +75075,7 @@ EndChar
 
 StartChar: qbolditalic.ssty
 Encoding: 1782 -1 1577
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75170,8 +75085,7 @@ EndChar
 
 StartChar: qbolditalic.ssty2
 Encoding: 1783 -1 1578
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75181,8 +75095,7 @@ EndChar
 
 StartChar: rbolditalic.ssty
 Encoding: 1784 -1 1579
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75192,8 +75105,7 @@ EndChar
 
 StartChar: rbolditalic.ssty2
 Encoding: 1785 -1 1580
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75203,8 +75115,7 @@ EndChar
 
 StartChar: sbolditalic.ssty
 Encoding: 1786 -1 1581
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75214,8 +75125,7 @@ EndChar
 
 StartChar: sbolditalic.ssty2
 Encoding: 1787 -1 1582
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75313,8 +75223,7 @@ EndChar
 
 StartChar: ubolditalic.ssty
 Encoding: 1790 -1 1585
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75324,8 +75233,7 @@ EndChar
 
 StartChar: ubolditalic.ssty2
 Encoding: 1791 -1 1586
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75335,8 +75243,7 @@ EndChar
 
 StartChar: vbolditalic.ssty
 Encoding: 1792 -1 1587
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75346,8 +75253,7 @@ EndChar
 
 StartChar: vbolditalic.ssty2
 Encoding: 1793 -1 1588
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75357,8 +75263,7 @@ EndChar
 
 StartChar: wbolditalic.ssty
 Encoding: 1794 -1 1589
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -75368,8 +75273,7 @@ EndChar
 
 StartChar: wbolditalic.ssty2
 Encoding: 1795 -1 1590
-Width: 109
-VWidth: 219
+Width: 60
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -90674,6 +90578,7 @@ SplineSet
  50 40 l 1
  0 40 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: minus.ssty2
@@ -90690,6 +90595,7 @@ SplineSet
  50 40 l 1
  0 40 l 1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

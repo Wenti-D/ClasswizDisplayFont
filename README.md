@@ -11,7 +11,7 @@
 所有版本的字体打包可以到 [Release 页面](https://github.com/Wenti-D/ClasswizDisplayFont/releases)获取，其中：
 - X Display 最新版为 v3.006，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.006-x-v3.007-cw)下载；
 - CW Display 最新版为 v3.007，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/disp-v3.006-x-v3.007-cw)下载；
-- Math X/CW 最新版为 v1.002，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/math-v1.002-x-cw)下载。
+- Math X/CW 最新版为 v1.003，在[这里](https://github.com/Wenti-D/ClasswizDisplayFont/releases/tag/math-v1.003-x-cw)下载。
 
 或者也可以去[这个百度网盘链接](https://pan.baidu.com/s/1RTV937bFgziHeb68XEXQYw?pwd=swfw)下载。
 
