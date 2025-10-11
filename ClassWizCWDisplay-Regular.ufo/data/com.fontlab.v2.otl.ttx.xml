@@ -279,10 +279,28 @@
         <Substitution in="D" out="HexD"/>
         <Substitution in="F" out="HexF"/>
         <Substitution in="E" out="HexE"/>
+        <Substitution in="zero" out="zero.menu"/>
+        <Substitution in="eight" out="eight.menu"/>
+        <Substitution in="three" out="three.menu"/>
+        <Substitution in="six" out="six.menu"/>
+        <Substitution in="nine" out="nine.menu"/>
         <Substitution in="bar" out="bar.ss01"/>
+        <Substitution in="plus" out="plus.menu"/>
+        <Substitution in="hyphen" out="minus.menu"/>
+        <Substitution in="five" out="five.menu"/>
         <Substitution in="A" out="HexA"/>
+        <Substitution in="one" out="one.menu"/>
+        <Substitution in="four" out="four.menu"/>
+        <Substitution in="seven" out="seven.menu"/>
+        <Substitution in="two" out="two.menu"/>
+        <Substitution in="comma" out="comma.menu"/>
+        <Substitution in="period" out="dot.menu"/>
+        <Substitution in="multiply" out="times.menu"/>
+        <Substitution in="divide" out="divide.menu"/>
         <Substitution in="underscore" out="cursor.replace"/>
         <Substitution in="slash" out="div"/>
+        <Substitution in="parenleft" out="parenleft.menu"/>
+        <Substitution in="parenright" out="parenright.menu"/>
         <Substitution in="degree" out="dms"/>
         <Substitution in="BOX" out="box.superior"/>
         <Substitution in="trianglerightblack" out="triangle.right-above"/>
@@ -498,10 +516,28 @@
         <Substitution in="D" out="HexD"/>
         <Substitution in="F" out="HexF"/>
         <Substitution in="E" out="HexE"/>
+        <Substitution in="zero" out="zero.menu"/>
+        <Substitution in="eight" out="eight.menu"/>
+        <Substitution in="three" out="three.menu"/>
+        <Substitution in="six" out="six.menu"/>
+        <Substitution in="nine" out="nine.menu"/>
         <Substitution in="bar" out="bar.ss01"/>
+        <Substitution in="plus" out="plus.menu"/>
+        <Substitution in="hyphen" out="minus.menu"/>
+        <Substitution in="five" out="five.menu"/>
         <Substitution in="A" out="HexA"/>
+        <Substitution in="one" out="one.menu"/>
+        <Substitution in="four" out="four.menu"/>
+        <Substitution in="seven" out="seven.menu"/>
+        <Substitution in="two" out="two.menu"/>
+        <Substitution in="comma" out="comma.menu"/>
+        <Substitution in="period" out="dot.menu"/>
+        <Substitution in="multiply" out="times.menu"/>
+        <Substitution in="divide" out="divide.menu"/>
         <Substitution in="underscore" out="cursor.replace"/>
         <Substitution in="slash" out="div"/>
+        <Substitution in="parenleft" out="parenleft.menu"/>
+        <Substitution in="parenright" out="parenright.menu"/>
         <Substitution in="degree" out="dms"/>
         <Substitution in="BOX" out="box.superior"/>
         <Substitution in="trianglerightblack" out="triangle.right-above"/>

@@ -43,7 +43,7 @@ Copyright (c) 2023-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</stri
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/06/30 06:41:20</string>
+  <string>2025/10/11 13:21:12</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -164,7 +164,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.007</string>
+  <string>Version 3.008</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -295,7 +295,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>7</integer>
+  <integer>8</integer>
   <key>xHeight</key>
   <integer>90</integer>
 </dict>

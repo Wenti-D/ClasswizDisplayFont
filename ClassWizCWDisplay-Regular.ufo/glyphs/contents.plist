@@ -512,6 +512,8 @@
   <string>arrow-hook.up.glif</string>
   <key>arrowanticlockwiseopencircle</key>
   <string>arrowanticlockwiseopencircle.glif</string>
+  <key>arrowboth</key>
+  <string>arrowboth.glif</string>
   <key>arrowdblright</key>
   <string>arrowdblright.glif</string>
   <key>arrowright</key>
@@ -592,6 +594,8 @@
   <string>colon.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
+  <key>comma.menu</key>
+  <string>comma.menu.glif</string>
   <key>complex-cartesian</key>
   <string>complex-cartesian.glif</string>
   <key>complex-polar</key>
@@ -604,6 +608,10 @@
   <string>cursor.replace.glif</string>
   <key>cut</key>
   <string>cut.glif</string>
+  <key>cyclebar</key>
+  <string>cyclebar.glif</string>
+  <key>cycledot</key>
+  <string>cycledot.glif</string>
   <key>d</key>
   <string>d.glif</string>
   <key>da-hira</key>
@@ -640,6 +648,8 @@
   <string>divR_-S_p.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
+  <key>divide.menu</key>
+  <string>divide.menu.glif</string>
   <key>djecyr</key>
   <string>djecyr.glif</string>
   <key>dms</key>
@@ -650,6 +660,8 @@
   <string>do-kata.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
+  <key>dot.menu</key>
+  <string>dot.menu.glif</string>
   <key>dotmath</key>
   <string>dotmath.glif</string>
   <key>dottedbold</key>
@@ -700,6 +712,8 @@
   <string>eight.glif</string>
   <key>eight.inferior</key>
   <string>eight.inferior.glif</string>
+  <key>eight.menu</key>
+  <string>eight.menu.glif</string>
   <key>eight.superior</key>
   <string>eight.superior.glif</string>
   <key>einferior</key>
@@ -752,6 +766,8 @@
   <string>five.glif</string>
   <key>five.inferior</key>
   <string>five.inferior.glif</string>
+  <key>five.menu</key>
+  <string>five.menu.glif</string>
   <key>five.superior</key>
   <string>five.superior.glif</string>
   <key>fix-mode</key>
@@ -760,8 +776,12 @@
   <string>four.glif</string>
   <key>four.inferior</key>
   <string>four.inferior.glif</string>
+  <key>four.menu</key>
+  <string>four.menu.glif</string>
   <key>four.superior</key>
   <string>four.superior.glif</string>
+  <key>fracformat</key>
+  <string>fracformat.glif</string>
   <key>fx.graphlight</key>
   <string>fx.graphlight.glif</string>
   <key>g</key>
@@ -942,6 +962,8 @@
   <string>me-hira.glif</string>
   <key>me-kata</key>
   <string>me-kata.glif</string>
+  <key>meum-ko</key>
+  <string>meum-ko.glif</string>
   <key>mi-hira</key>
   <string>mi-hira.glif</string>
   <key>mi-kata</key>
@@ -952,6 +974,8 @@
   <string>minus.glif</string>
   <key>minus.inferior</key>
   <string>minus.inferior.glif</string>
+  <key>minus.menu</key>
+  <string>minus.menu.glif</string>
   <key>minus.one.inferior</key>
   <string>minus.one.inferior.glif</string>
   <key>minus.one.superior</key>
@@ -1004,6 +1028,8 @@
   <string>nine.glif</string>
   <key>nine.inferior</key>
   <string>nine.inferior.glif</string>
+  <key>nine.menu</key>
+  <string>nine.menu.glif</string>
   <key>nine.superior</key>
   <string>nine.superior.glif</string>
   <key>ninferior</key>
@@ -1076,6 +1102,8 @@
   <string>one.glif</string>
   <key>one.inferior</key>
   <string>one.inferior.glif</string>
+  <key>one.menu</key>
+  <string>one.menu.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
   <key>oslash</key>
@@ -1090,10 +1118,14 @@
   <string>parenleft.glif</string>
   <key>parenleft.inferior</key>
   <string>parenleft.inferior.glif</string>
+  <key>parenleft.menu</key>
+  <string>parenleft.menu.glif</string>
   <key>parenright</key>
   <string>parenright.glif</string>
   <key>parenright.inferior</key>
   <string>parenright.inferior.glif</string>
+  <key>parenright.menu</key>
+  <string>parenright.menu.glif</string>
   <key>paste</key>
   <string>paste.glif</string>
   <key>pbold</key>
@@ -1118,6 +1150,8 @@
   <string>plancktwopi.glif</string>
   <key>plus</key>
   <string>plus.glif</string>
+  <key>plus.menu</key>
+  <string>plus.menu.glif</string>
   <key>pm.inferior</key>
   <string>pm.inferior.glif</string>
   <key>po-kata</key>
@@ -1194,6 +1228,8 @@
   <string>seven.glif</string>
   <key>seven.inferior</key>
   <string>seven.inferior.glif</string>
+  <key>seven.menu</key>
+  <string>seven.menu.glif</string>
   <key>seven.superior</key>
   <string>seven.superior.glif</string>
   <key>shacyr</key>
@@ -1218,6 +1254,8 @@
   <string>six.glif</string>
   <key>six.inferior</key>
   <string>six.inferior.glif</string>
+  <key>six.menu</key>
+  <string>six.menu.glif</string>
   <key>six.superior</key>
   <string>six.superior.glif</string>
   <key>slash</key>
@@ -1262,6 +1300,8 @@
   <string>te-kata.glif</string>
   <key>tecyr</key>
   <string>tecyr.glif</string>
+  <key>ten.menu</key>
+  <string>ten.menu.glif</string>
   <key>ten.small</key>
   <string>ten.small.glif</string>
   <key>ten.superior</key>
@@ -1274,10 +1314,16 @@
   <string>three.glif</string>
   <key>three.inferior</key>
   <string>three.inferior.glif</string>
+  <key>three.menu</key>
+  <string>three.menu.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
   <key>ti-kata</key>
   <string>ti-kata.glif</string>
+  <key>times.menu</key>
+  <string>times.menu.glif</string>
+  <key>times.menu.2</key>
+  <string>times.menu.2.glif</string>
   <key>times.small</key>
   <string>times.small.glif</string>
   <key>times.small.2</key>
@@ -1326,6 +1372,8 @@
   <string>two.glif</string>
   <key>two.inferior</key>
   <string>two.inferior.glif</string>
+  <key>two.menu</key>
+  <string>two.menu.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
@@ -2672,6 +2720,8 @@
   <string>uniE_036.glif</string>
   <key>uniE037</key>
   <string>uniE_037.glif</string>
+  <key>uniE053</key>
+  <string>uniE_053.glif</string>
   <key>uniFE00</key>
   <string>uniF_E_00.glif</string>
   <key>up-tag</key>
@@ -2768,6 +2818,8 @@
   <string>zero.glif</string>
   <key>zero.inferior</key>
   <string>zero.inferior.glif</string>
+  <key>zero.menu</key>
+  <string>zero.menu.glif</string>
   <key>zero.superior</key>
   <string>zero.superior.glif</string>
   <key>zhecyr</key>

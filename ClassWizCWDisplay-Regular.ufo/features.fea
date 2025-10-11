@@ -18,6 +18,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem cyrl dflt;
 languagesystem grek dflt;
+languagesystem hang dflt;
 languagesystem hani dflt;
 languagesystem kana dflt;
 #< languagesystem
@@ -50,6 +51,9 @@ lookup KGK_LIGS {
   sub g asterisk by kGk;
   sub K parenright by kgK;
 } KGK_LIGS;
+
+
+
 feature aalt {
 # Access All Alternates
 
@@ -218,8 +222,29 @@ feature ss01 {
   sub squaredRisingDiagonalSlash by solidbold;
   sub diethree by dottedbold;
   sub [BOX squarewhite whiteLargeSquare] by box.superior;
+  sub zero by zero.menu;
+  sub one by one.menu;
+  sub two by two.menu;
+  sub three by three.menu;
+  sub four by four.menu;
+  sub five by five.menu;
+  sub six by six.menu;
+  sub seven by seven.menu;
+  sub eight by eight.menu;
+  sub nine by nine.menu;
+  sub parenleft by parenleft.menu;
+  sub parenright by parenright.menu;
+  sub plus by plus.menu;
+  sub comma by comma.menu;
+  sub hyphen by minus.menu;
+  sub period by dot.menu;
+  sub multiply by times.menu;
+  sub divide by divide.menu;
 #< feature
 } ss01;
+
+
+
 feature ccmp {
 # Glyph Composition/Decomposition
 
@@ -364,6 +389,9 @@ feature ccmp {
   sub uni9762 uniFE00 by uni9762_uniFE00;
 #< feature
 } ccmp;
+
+
+
 feature calt {
 # Contextual Alternates
 
@@ -382,3 +410,6 @@ feature calt {
   sub [kgK calth-gK] trianglerightblack' by to;
 #< feature
 } calt;
+
+
+

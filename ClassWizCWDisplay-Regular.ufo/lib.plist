@@ -1395,6 +1395,32 @@
     <string>engineer-sym.graphlight</string>
     <string>fx.graphlight</string>
     <string>gx.graphlight</string>
+    <string>cycledot</string>
+    <string>cyclebar</string>
+    <string>times.menu.2</string>
+    <string>ten.menu</string>
+    <string>zero.menu</string>
+    <string>two.menu</string>
+    <string>three.menu</string>
+    <string>four.menu</string>
+    <string>five.menu</string>
+    <string>six.menu</string>
+    <string>seven.menu</string>
+    <string>eight.menu</string>
+    <string>nine.menu</string>
+    <string>plus.menu</string>
+    <string>minus.menu</string>
+    <string>times.menu</string>
+    <string>divide.menu</string>
+    <string>dot.menu</string>
+    <string>comma.menu</string>
+    <string>one.menu</string>
+    <string>parenleft.menu</string>
+    <string>parenright.menu</string>
+    <string>uniE053</string>
+    <string>fracformat</string>
+    <string>arrowboth</string>
+    <string>meum-ko</string>
   </array>
 </dict>
 </plist>
