@@ -297,6 +297,7 @@
         <Substitution in="period" out="dot.menu"/>
         <Substitution in="multiply" out="times.menu"/>
         <Substitution in="divide" out="divide.menu"/>
+        <Substitution in="c" out="Calth-gk"/>
         <Substitution in="underscore" out="cursor.replace"/>
         <Substitution in="slash" out="div"/>
         <Substitution in="parenleft" out="parenleft.menu"/>
@@ -534,6 +535,7 @@
         <Substitution in="period" out="dot.menu"/>
         <Substitution in="multiply" out="times.menu"/>
         <Substitution in="divide" out="divide.menu"/>
+        <Substitution in="c" out="Calth-gk"/>
         <Substitution in="underscore" out="cursor.replace"/>
         <Substitution in="slash" out="div"/>
         <Substitution in="parenleft" out="parenleft.menu"/>

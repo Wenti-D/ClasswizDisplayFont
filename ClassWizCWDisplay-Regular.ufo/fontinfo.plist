@@ -7,8 +7,8 @@
   <key>capHeight</key>
   <integer>120</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2023-2024, Windy Deng (windy0deng@gmail.com),
-Copyright (c) 2023-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</string>
+  <string>Copyright (c) 2023-2026, Windy Deng (windy0deng@gmail.com),
+Copyright (c) 2023-2026, CASIO Computer Co., Ltd (https://www.casio.com/).</string>
   <key>descender</key>
   <integer>-10</integer>
   <key>familyName</key>
@@ -43,7 +43,7 @@ Copyright (c) 2023-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</stri
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/10/11 13:21:12</string>
+  <string>2026/03/08 18:29:28</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -62,9 +62,9 @@ Copyright (c) 2023-2024, CASIO Computer Co., Ltd (https://www.casio.com/).</stri
   <key>openTypeNameDesignerURL</key>
   <string>https://www.casio.com/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2023-2024, Windy Deng (windy0deng@gmail.com),
+  <string>Copyright (c) 2023-2026, Windy Deng (windy0deng@gmail.com),
 with Reserved Font Name &quot;ClassWiz CW Display&quot;.
-Copyright (c) 2023-2024, CASIO Computer Co., Ltd (https://www.casio.com/).
+Copyright (c) 2023-2026, CASIO Computer Co., Ltd (https://www.casio.com/).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -164,7 +164,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.008</string>
+  <string>Version 3.009</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -295,7 +295,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>8</integer>
+  <integer>9</integer>
   <key>xHeight</key>
   <integer>90</integer>
 </dict>

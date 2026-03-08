@@ -51,9 +51,6 @@ lookup KGK_LIGS {
   sub g asterisk by kGk;
   sub K parenright by kgK;
 } KGK_LIGS;
-
-
-
 feature aalt {
 # Access All Alternates
 
@@ -211,6 +208,7 @@ feature ss01 {
   sub E by HexE;
   sub F by HexF;
   sub P by nPr;
+  sub c by Calth-gk;
   sub degree by dms;
   sub underscore by cursor.replace;
   sub slash by div;
@@ -242,9 +240,6 @@ feature ss01 {
   sub divide by divide.menu;
 #< feature
 } ss01;
-
-
-
 feature ccmp {
 # Glyph Composition/Decomposition
 
@@ -389,9 +384,6 @@ feature ccmp {
   sub uni9762 uniFE00 by uni9762_uniFE00;
 #< feature
 } ccmp;
-
-
-
 feature calt {
 # Contextual Alternates
 
@@ -410,6 +402,3 @@ feature calt {
   sub [kgK calth-gK] trianglerightblack' by to;
 #< feature
 } calt;
-
-
-
